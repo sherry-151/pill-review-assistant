@@ -1,0 +1,28 @@
+{
+  "experiment_id": "exp001",
+  "status": "planned_not_run",
+  "purpose": "four-class baseline detection",
+  "environment_record": null,
+  "git_commit_used": null,
+  "git_dirty_at_start": null,
+  "dataset_version": null,
+  "split_manifest": null,
+  "split_manifest_sha256": null,
+  "split_grouping": "capture session and bag; split before augmentation",
+  "class_mapping_file": null,
+  "model_architecture": "YOLOv8n (proposed baseline)",
+  "initial_weights": null,
+  "initial_weights_sha256": null,
+  "actual_training_arguments_file": null,
+  "planned_training_settings": {
+    "imgsz": 640,
+    "epochs": 50,
+    "batch": 8,
+    "seed": 42,
+    "device": null
+  },
+  "actual_training_device": null,
+  "trained_weights_sha256": null,
+  "metrics_file": null,
+  "notes": "Values above are a starting plan, not completed experiments. Preserve actual arguments and results after training."
+}

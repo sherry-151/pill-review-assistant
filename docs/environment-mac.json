@@ -1,0 +1,28 @@
+{
+  "recorded_at_utc": "2026-10-13T16:34:16.429323+00:00",
+  "python": "3.11.17",
+  "inside_virtual_environment": true,
+  "os": "Darwin",
+  "os_release": "25.6.0",
+  "macos_version": "26.6.2",
+  "linux_os_release": null,
+  "architecture": "arm64",
+  "cpu": "Apple M5",
+  "packages": {
+    "torch": "2.14.1",
+    "torchvision": "0.29.1",
+    "ultralytics": "8.4.177",
+    "numpy": "2.4.6",
+    "opencv-python": "5.0.0.93"
+  },
+  "available_devices": {
+    "cuda_available": false,
+    "mps_available": true,
+    "cuda_runtime": null
+  },
+  "actual_training_device": null,
+  "torch_import_error": null,
+  "git_commit": "fb9a25f0f7df49ca514e5cba3fe5189c0c8ff750",
+  "git_dirty": true,
+  "note": "null means not installed, unknown, or not yet selected; availability does not prove the device was used."
+}
