@@ -14,3 +14,5 @@ outputs/*
 *.pt
 *.onnx
 private/
+data/yolo-v001/
+runs/

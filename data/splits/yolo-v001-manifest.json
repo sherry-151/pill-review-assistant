@@ -1,0 +1,4322 @@
+[
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_back_001.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_back_001.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "e7ec137a28ca6935a83fae63e51cbb6acc797f74e363f5fff0b0f46fa206ead8",
+    "annotation_sha256": "98504cad0bf8524a72cb775fcc2e0a53625ca47d1085e0d634cee8a989c9783d",
+    "pixel_sha256": "20544401a8a41630488651005fa4aff5120a4aa4d578633e0fde5c08345e0f8d",
+    "bbox_xyxy": [
+      1320.0,
+      1794.0,
+      1704.0,
+      2188.0
+    ],
+    "yolo_xywh": [
+      0.5,
+      0.4937996031746032,
+      0.12698412698412698,
+      0.09771825396825397
+    ],
+    "export_image_sha256": "7f00fda234f87aed969f4210ae2bc010f0b74bb45509c5147a1a214114f5ea9f",
+    "export_label_sha256": "a774d59c9d75e45f9a68cbbf6bb2d55fd2fecb22d24f474334756ec79ba5ed11"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_back_002.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_back_002.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "21d1c83b9ca467967bdcf6978b929fe527175c6cee2fd03c9a7f4a5b6cc96cf5",
+    "annotation_sha256": "ea717b33ed60641b5dd4f6f4dc1b41e8d17baf6ca7e66a22fe1fe6f5baaa0616",
+    "pixel_sha256": "a93adae34597f2091173c576aa4b80334a5e25405fc8cf148612b803e20c06be",
+    "bbox_xyxy": [
+      828.0,
+      1158.0,
+      1218.0,
+      1544.0
+    ],
+    "yolo_xywh": [
+      0.3382936507936508,
+      0.3350694444444444,
+      0.12896825396825398,
+      0.09573412698412699
+    ],
+    "export_image_sha256": "d029a72ab972665ed04c8f6cabb119dddb22a6cff76141cd308dfb2153727092",
+    "export_label_sha256": "b59aa37e2cdb2655559773c13d0b93ccc253a23935709ff4240189e66cc17d22"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_back_003.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_back_003.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "5ed773de8ee789a8804177b1df2243ce0813c71e0913ce1c7f4ff84bfe9b7c0e",
+    "annotation_sha256": "0995356e7b01530fbab19f931bb1a486840524f76a7e6777d0ca28aa8884de4c",
+    "pixel_sha256": "b74e5bca62510c6b2f6052da06a3e1da4ab4b649b9d46e4ecf8888790ddbc5cf",
+    "bbox_xyxy": [
+      830.0,
+      2462.0,
+      1212.0,
+      2876.0
+    ],
+    "yolo_xywh": [
+      0.3376322751322751,
+      0.6619543650793651,
+      0.12632275132275134,
+      0.10267857142857142
+    ],
+    "export_image_sha256": "c2a3c6728756a1e2c41b93999ff535cd779f4dd6b97ff9630d9c537ed3b5d4cb",
+    "export_label_sha256": "d3c171224b943c005affbe9dd750a8c3bf9ccb00a22e914653d8197b09c60c41"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_back_004.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_back_004.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "0b3a079c37540e5192110b4b9aa6e67c9e2047e9f8efe0a48ce66c4045a60d32",
+    "annotation_sha256": "b0048139a6054aef16e4706b6ab7551f2f3ba0775b106f15c46c48a18c5ce690",
+    "pixel_sha256": "e9dcb1333b567720c2b1f5d260434c18ec40ee0e81148fea50bd12b1c70d5ca2",
+    "bbox_xyxy": [
+      1822.0,
+      2488.0,
+      2212.0,
+      2902.0
+    ],
+    "yolo_xywh": [
+      0.6669973544973545,
+      0.6684027777777778,
+      0.12896825396825398,
+      0.10267857142857142
+    ],
+    "export_image_sha256": "051d9e26d32bb02a929765fc4ceb2702d84549522d76782b0599059d33957f62",
+    "export_label_sha256": "6e6627f682b66a4c1c0ed987fdb8fdc7400c9e4640353dda3152215284d05120"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_back_005.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_back_005.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "16155728baba0688dd1061a7bdf79792a893385b646fc4789ad86c82412ab54c",
+    "annotation_sha256": "9ec5a31fb4818e41dee619696a83dd71e6a2f85d8760f309cc9f7ea94a3f9d8f",
+    "pixel_sha256": "b3a507a4f2209835d3352bdacbf5ce9279586fdeebef5dbfc251a75a49f9dd31",
+    "bbox_xyxy": [
+      1812.0,
+      1158.0,
+      2196.0,
+      1546.0
+    ],
+    "yolo_xywh": [
+      0.6626984126984127,
+      0.3353174603174603,
+      0.12698412698412698,
+      0.09623015873015874
+    ],
+    "export_image_sha256": "c01ea9c3e85ef00c40c3233e2e43cbc55b51422488ecee66ccd7010748423c5d",
+    "export_label_sha256": "54a44ed72772bb64cf7a618c0cf775ad436c2512e2670527f1d5e68bfa9cc99c"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_back_006.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_back_006.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "05adab113ee1b7acf45000d0870235e9ce70e2205d6e5e2db2b053a51052bc44",
+    "annotation_sha256": "1446d6fad93c9f7fb026f6cdbfcf0954e99e440468e7ed655d8f4a0a67f251bb",
+    "pixel_sha256": "47c91b5befc28d8619ee920ad7afa86dce388440d0ed86cff493a042b23e1c0a",
+    "bbox_xyxy": [
+      324.0,
+      488.0,
+      728.0,
+      876.0
+    ],
+    "yolo_xywh": [
+      0.17394179894179895,
+      0.1691468253968254,
+      0.1335978835978836,
+      0.09623015873015874
+    ],
+    "export_image_sha256": "35d769dd1c24a11725218ea537ce4c6fba94adb4f8036e6bd08e4fe0ab5f077a",
+    "export_label_sha256": "171432a1914f76d6999d1c89d8291c26365539e8c9ff94f5710da56deb309e86"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_back_007.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_back_007.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "fe6d55cdc522a8e2999f55730539662399baf305bcca8c996befaa12b3c131c9",
+    "annotation_sha256": "c0457a9909628c233745e59b02886efaced16d8f90ae0a88f25c0797f9097428",
+    "pixel_sha256": "cfc826bf93767b75ca754a17532be97850728d128d9b70f8759598309c1429ea",
+    "bbox_xyxy": [
+      288.0,
+      3016.0,
+      686.0,
+      3434.0
+    ],
+    "yolo_xywh": [
+      0.16104497354497355,
+      0.7998511904761905,
+      0.13161375661375663,
+      0.10367063492063493
+    ],
+    "export_image_sha256": "fe7e28167553ae54141921a1670e55b041767ff246cf4b571ba19d0230d53cb9",
+    "export_label_sha256": "77fa0ab22929244979ae8d39574afbc1c14ac43f14ab6984e27310141bd5e292"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_back_008.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_back_008.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "eb38de894e5821a352897624f7434c571604edc84b034e448860c40f6a6b03db",
+    "annotation_sha256": "acc02c1fca5fae22a7c87277f917f87892be6332b2cdd3172e46658991775ea3",
+    "pixel_sha256": "ac401999c145d130616cde057749d033a97bb1587244b5e2ca314e3070528be7",
+    "bbox_xyxy": [
+      2388.0,
+      3116.0,
+      2792.0,
+      3534.0
+    ],
+    "yolo_xywh": [
+      0.8564814814814815,
+      0.8246527777777778,
+      0.1335978835978836,
+      0.10367063492063493
+    ],
+    "export_image_sha256": "66b8615f6848a01d3e57154d0c28829594f4b940d4514986324922579756e399",
+    "export_label_sha256": "3751b3f3d2792edaf6f3ad014c6c9c243504b7e9acd66927559fe7e6d167d149"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_back_009.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_back_009.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "0f4e20ebb651ae4290df693c51276385b0ee98151b91ea95b4ca542fa1fb10e5",
+    "annotation_sha256": "61aca1e33d43dbfbeafa0ce0f62b013e74da8721af5c569af53e74c9a25dc9ef",
+    "pixel_sha256": "ce21bdf09dfc5f959c7e0297e580233a9f35a81a6807f452948be3ec180dbfb7",
+    "bbox_xyxy": [
+      2346.0,
+      580.0,
+      2750.0,
+      970.0
+    ],
+    "yolo_xywh": [
+      0.8425925925925926,
+      0.1922123015873016,
+      0.1335978835978836,
+      0.09672619047619048
+    ],
+    "export_image_sha256": "42444d3968a886157a487918f84e5a20758709b3d06e44105e04bddf54840d5c",
+    "export_label_sha256": "a3417d0123800b59a87d1034d60df70a643ec86d8f90f9ea33af2c5b3102f58f"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_back_010.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_back_010.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "58699dcbc21aef3cfce27cff0e7f4735ae1dcd1a77bbe82fecbe3a320cb12bae",
+    "annotation_sha256": "39846022ac37a345f87ce121af577d86fe07c82a6b8ffede89e38386895deec1",
+    "pixel_sha256": "194b141254baf4b60a9a50d219b5692ad47ed7d23dd8cbe624554a4b7dc73352",
+    "bbox_xyxy": [
+      1394.0,
+      498.0,
+      1786.0,
+      890.0
+    ],
+    "yolo_xywh": [
+      0.5257936507936508,
+      0.17212301587301587,
+      0.12962962962962962,
+      0.09722222222222222
+    ],
+    "export_image_sha256": "12a0e1ec76bb2c12caaa4575389cf0a4454ad6cf308c1802ddc65872df855e70",
+    "export_label_sha256": "64d6aff79e09c26765d89a35c7669b08c81a7d3197f7ac14545880e3372df524"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_front_001.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_front_001.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b0ef08468777c83c2a8a00175f91a3429105b5f1ca63465f455951246b6167b8",
+    "annotation_sha256": "f2acd18965a789d6028d7d805b118c4c2d9debf280bfdefe73b0fb3a8ffcfcf8",
+    "pixel_sha256": "8cf100b6d1e468cc5718716e9cb4984082961942bafafc05edbafffc9d66327e",
+    "bbox_xyxy": [
+      1314.0,
+      1796.0,
+      1700.0,
+      2202.0
+    ],
+    "yolo_xywh": [
+      0.49834656084656087,
+      0.4957837301587302,
+      0.12764550264550265,
+      0.10069444444444445
+    ],
+    "export_image_sha256": "fb2a57bb7e248329147b21d340341994b6e492054af739880af0569fd5fc9de4",
+    "export_label_sha256": "97166374ff63d2593d08b0c6f1bb8aefc62c84afb65f1ed39d2393bed6f183d5"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_front_002.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_front_002.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "9cfdc3c1901fb6670ed3331f0ae9cba4dd5a9521f50848e0d2d4c24685b900c8",
+    "annotation_sha256": "a9e869862cd2f462435086a3432dfef2def45e58d8d63508b115cea153bb7497",
+    "pixel_sha256": "1c3a9f3d5b6ebf2d2ab9839715d07dd4cdd425dc8a1734afc05b2596a52c5b32",
+    "bbox_xyxy": [
+      826.0,
+      2456.0,
+      1208.0,
+      2866.0
+    ],
+    "yolo_xywh": [
+      0.33630952380952384,
+      0.6599702380952381,
+      0.12632275132275134,
+      0.10168650793650794
+    ],
+    "export_image_sha256": "956d80ba0bf93ba279f559b6c500dab7004f7bcc6837def6bff933d12705c539",
+    "export_label_sha256": "bf6e3a5c9aff884eba539063c29432eaffb1e5c53a03eb985d81fdaf83e532c0"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_front_003.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_front_003.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "e8dcf58828ba1665b7b8f6bf7fc3fca3972464da2c39f0562e8b722a71f804e8",
+    "annotation_sha256": "2b8659dd8a09b0e4cb1c079a24750dd9a08fa71cc0afb21f000d2c8267b8d4dc",
+    "pixel_sha256": "92333b14233d87c1359f6f9155fbfbf60a24202a5edf2d1022a07dd45a44c1a5",
+    "bbox_xyxy": [
+      1819.5000000000002,
+      2461.0,
+      2204.0,
+      2876.0
+    ],
+    "yolo_xywh": [
+      0.6652612433862434,
+      0.6618303571428571,
+      0.12714947089947082,
+      0.1029265873015873
+    ],
+    "export_image_sha256": "f17793d7b430813ff67e6aca4478612dc9a32f35ee8954e364c2e97d43abcb3b",
+    "export_label_sha256": "fc11377a7ee8781c2b3de8fdd6028a146f1f47ea05ce18c2b48024fdfee8ccb2"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_front_004.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_front_004.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "c8bbf1282a45ab6ce2496f96e4bbd4ab6ea9aa7e98baf89a9dbbe17b0f05be13",
+    "annotation_sha256": "1f3a8d3e2089efc5264853b8c8ffe7f8e55d5fe7385ba082df6aed86d87703fd",
+    "pixel_sha256": "0f958f2b6355c615e7bc30aa157a2421b3473b5e02c28b80480840fa0b670f39",
+    "bbox_xyxy": [
+      1802.0,
+      1176.0,
+      2190.0,
+      1564.0
+    ],
+    "yolo_xywh": [
+      0.66005291005291,
+      0.33978174603174605,
+      0.1283068783068783,
+      0.09623015873015874
+    ],
+    "export_image_sha256": "479dc38d4ac4615abdd6d3c68cdeea7cfbc34a510c8314942e33fc8467572e81",
+    "export_label_sha256": "312e79e661abf732cb5294913643a5ce55364e6fbbba757d6178997f6bbd8c44"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_front_005.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_front_005.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "8ceea179099defe3451c024cdac5c507bb582d3eaa2c054d2a5f4e4faa7ba2a4",
+    "annotation_sha256": "1e0e23afbbd061731cc981f062b59ef474c09b9d63787332057e5bf337f103d5",
+    "pixel_sha256": "51ad2ad371e10ecea554500d4245f18240a3f57a86d7a8839e41dc0edc975483",
+    "bbox_xyxy": [
+      806.0,
+      1166.0,
+      1194.0,
+      1554.0
+    ],
+    "yolo_xywh": [
+      0.3306878306878307,
+      0.3373015873015873,
+      0.1283068783068783,
+      0.09623015873015874
+    ],
+    "export_image_sha256": "125deda2c512e68af56fb44f2c1863213e749aaefe626e2367d00a732858431d",
+    "export_label_sha256": "8d1a117d27e061cdb293758a13d3e0e7aa43b8bc70fc323dde24cb226047a3b9"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_front_006.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_front_006.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "c0920aee8bd5b543308ca03add5ae2fd7ae5d6e2c6fe6373bf5203a2133860cc",
+    "annotation_sha256": "39d5f0726ec7b3c7d8043203ae4f72b8c6642946dab60edf1bb61aff71036c46",
+    "pixel_sha256": "9fc2eac9b8c593096287606a0de9a8988854dfb764dc0ec03052b46c545888ef",
+    "bbox_xyxy": [
+      422.0,
+      3080.0,
+      826.0,
+      3506.0
+    ],
+    "yolo_xywh": [
+      0.20634920634920634,
+      0.8167162698412699,
+      0.1335978835978836,
+      0.1056547619047619
+    ],
+    "export_image_sha256": "3324cdf10d1780144b291410dc200a78598cab8c0606426053405dad74373ecc",
+    "export_label_sha256": "34ae17cd40892ca66d868932dc985aaef15a1be22248e5e2d34dda1dddcf0399"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_front_007.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_front_007.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "c029a00ead04f042850c2566a8cc39cf70c74b20552970e97be012d78df91d37",
+    "annotation_sha256": "c44ec18ec8c3b730a3d0ba24c29c9000b9fa9119d93a5a885feedf50679cf994",
+    "pixel_sha256": "738ffb774461c7bca51c17f1bdc47f89dacf5b836b96b14d680056a6bd628c85",
+    "bbox_xyxy": [
+      408.0,
+      516.0,
+      810.0,
+      912.0
+    ],
+    "yolo_xywh": [
+      0.2013888888888889,
+      0.17708333333333334,
+      0.13293650793650794,
+      0.09821428571428571
+    ],
+    "export_image_sha256": "a8fa92a48ec837c45243e3d08e287d7003ddfa276ebadf52f1aadaeddd26c716",
+    "export_label_sha256": "b8e574293b200e6e21a6b104b38cce7a38081df6426e5f0a0e9fcaf6cb49b3ab"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_front_008.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_front_008.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "5bda98967c7e790df1e087111a80c5c51f5e9fae1dc6ad6ae825df8c0badd426",
+    "annotation_sha256": "6354e02fdeff55929bcb836bc26aba0887530b8c9b4592714595b7009dc7b84e",
+    "pixel_sha256": "9650e063b2bd83c274d93a282c85eb9a653bfbbccbf9d42814813c265688c624",
+    "bbox_xyxy": [
+      2320.0,
+      466.0,
+      2722.0,
+      860.0
+    ],
+    "yolo_xywh": [
+      0.8336640211640212,
+      0.1644345238095238,
+      0.13293650793650794,
+      0.09771825396825397
+    ],
+    "export_image_sha256": "d1e2d3f265b4428bf2d5017832b44686883e4daee5c20b5b8b58c98ea0a39e43",
+    "export_label_sha256": "42a0b2a74b6728507dc75ec708091634329477c4a14aad0f389d11dfac7c46f4"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_front_009.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_front_009.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "11c48cc88a56e7c38d089e1b3aba104a157b6c5c2b78312d07172356763a737a",
+    "annotation_sha256": "530e1ea1b006d6b7800ba5276cd0314f6c511e77ba322827cae3b0180e7da1d7",
+    "pixel_sha256": "81f2ac8dec9920eaa4051f54bc9371776581440b9161e411a111c9f9497cc5be",
+    "bbox_xyxy": [
+      2396.0,
+      3126.0,
+      2798.0,
+      3550.0
+    ],
+    "yolo_xywh": [
+      0.8587962962962963,
+      0.8278769841269841,
+      0.13293650793650794,
+      0.10515873015873016
+    ],
+    "export_image_sha256": "b48c713da618718597a8be9dbd7e36f5a3d981b63904eeaab42f60ca97c7d16c",
+    "export_label_sha256": "51c683d3f5d7d2f5e2f4115ef06307f28f8c4aa81528894f1b326515d93f80c6"
+  },
+  {
+    "source": "data/raw/session01_drug001/s01_drug001_front_010.jpg",
+    "annotation": "data/raw/session01_drug001/s01_drug001_front_010.json",
+    "split": "train",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "e11ad54b482271b9055f8148e65bbeb5bb5e6ceccd079f9c2fa25d047f7d7035",
+    "annotation_sha256": "1e8fa56e8407006570515b2254499ad5d455249f2feccd8c755402ff371361d2",
+    "pixel_sha256": "62501ba6caf6a77f388fe224e212f00413d8598b3571a0105022d6058efb15cc",
+    "bbox_xyxy": [
+      1338.0,
+      514.0,
+      1726.0,
+      904.0
+    ],
+    "yolo_xywh": [
+      0.5066137566137566,
+      0.17584325396825398,
+      0.1283068783068783,
+      0.09672619047619048
+    ],
+    "export_image_sha256": "c9e35288be4de767f5ab8fd6bdae144f90e595c988e670ef4b041c61900ab5ab",
+    "export_label_sha256": "de5ab1c14120d37fa133c717ff45035574c8856ad3ff970492756f218fdfe122"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_back_001.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_back_001.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "e01ffadf94c96dff4cd2ba5a67881d85ab8527e8be3d3e77bb77a75a336f5560",
+    "annotation_sha256": "76603c8d687def44d907f03e266db7d5d49b6388175010696200a7f7771c256a",
+    "pixel_sha256": "77a8671f8d61757483a565f115ad237f59a8129de9099be38840dfffe264eae7",
+    "bbox_xyxy": [
+      1376.0,
+      1870.0,
+      1646.0,
+      2142.0
+    ],
+    "yolo_xywh": [
+      0.49966931216931215,
+      0.4975198412698413,
+      0.08928571428571429,
+      0.06746031746031746
+    ],
+    "export_image_sha256": "a18cb7bdbd19590990f6c48b08d7da9e7362bc708503dffd5770f4168ee49bf9",
+    "export_label_sha256": "d62ca6ccae3265b1f4b7eefff1a50189d1381183a61c17efd865c1a8c22cbbcb"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_back_002.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_back_002.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "2a5c90680c0e30068aabc1fd5e9f24c80004778473e11839615429108f725bbb",
+    "annotation_sha256": "1ee430451cb7217ab4aea6fe79cda90b898ddb22c0e0356b45648286afebaafd",
+    "pixel_sha256": "e72526ee8bba8847de8298dee10574a92824e8d4fe8506d68dcbc077c2227732",
+    "bbox_xyxy": [
+      934.0,
+      1216.0,
+      1206.0,
+      1486.0
+    ],
+    "yolo_xywh": [
+      0.35383597883597884,
+      0.3350694444444444,
+      0.08994708994708994,
+      0.06696428571428571
+    ],
+    "export_image_sha256": "80f80fa6a021276e3775655fd51b552a2352b2d5fcd13946280c3def69a932b3",
+    "export_label_sha256": "5741097f5e5c066c742a7d7c3f8d87abfee7ce0295acd1848d00b92ab88f4c00"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_back_003.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_back_003.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "614611fbf3dc84c12ce8b555d48db86dffb2b5a92aeb11217f0efb30edff99a8",
+    "annotation_sha256": "fda095527a2f414b9660c19ca3f2a1be8029603c9af0f80362434348fd186da6",
+    "pixel_sha256": "20d8e66a9bfe18662fbbba3ab62948b271b218308d3454ea9768c6aea8d3b745",
+    "bbox_xyxy": [
+      882.0,
+      2620.0,
+      1154.0,
+      2890.0
+    ],
+    "yolo_xywh": [
+      0.33664021164021163,
+      0.6832837301587301,
+      0.08994708994708994,
+      0.06696428571428571
+    ],
+    "export_image_sha256": "7c1614afa34c3fb8dbcb8b8e16ed4890068166585e0601bc222550c03336da4f",
+    "export_label_sha256": "707ab185ac6ebc4c5eff5f188609f7817637e06fcb5ef37f31b113cabe624448"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_back_004.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_back_004.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "1710112f15c2ba11842b668cb133c31b3709a49a8cbe382a9d17c6a364f23a63",
+    "annotation_sha256": "142411bb409bec006b5ff7297a1865e5912c2443c0dd45d1c95c346aa5b09a1e",
+    "pixel_sha256": "2213eb68dbef85d41b20f155f72506814d048bea3fc19408d60b92ad6fe6fab8",
+    "bbox_xyxy": [
+      1890.0,
+      2562.0,
+      2160.0,
+      2842.0
+    ],
+    "yolo_xywh": [
+      0.6696428571428571,
+      0.6701388888888888,
+      0.08928571428571429,
+      0.06944444444444445
+    ],
+    "export_image_sha256": "55423c22ae79077cb9b02eb31a3e451f4d6a6d11d794a4ab02833d13d490c41c",
+    "export_label_sha256": "34fcd0c52de514d402f46f86716280685a7f9fe2c182e060a78603411ad50f31"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_back_005.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_back_005.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "43f5b1da7f626f140e55cbd9bd87aae69737546f01ab37a019cddb13566a0036",
+    "annotation_sha256": "cb648ac291477934e13ae924b108451bc58291d431bc384ec53b2ce2727409d4",
+    "pixel_sha256": "e2cbb78b6850d81c75ab54caa9a26be171b5180b20909d4c17e75d601db27449",
+    "bbox_xyxy": [
+      1924.0,
+      1188.0,
+      2196.0,
+      1458.0
+    ],
+    "yolo_xywh": [
+      0.6812169312169312,
+      0.328125,
+      0.08994708994708994,
+      0.06696428571428571
+    ],
+    "export_image_sha256": "a408cd4dc0c6f42efb51462e76af603e2ed74ebdccc6065d703e96a222a67655",
+    "export_label_sha256": "4af857f4e42ef752658fdf2b4e4d554892e5f2c9486d9693592cd3aff6d8cd32"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_back_006.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_back_006.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "2d30b6aaeadead7d6a7fef78333a913ca37d81ea9b92c4b7ee74187a8bca3ccc",
+    "annotation_sha256": "b0b580292780684034e0fa39cd9bde89c635846e629f3b6e896144884b527ed1",
+    "pixel_sha256": "f692b9dbcd8adc0706e573c5a7066297dc3f11e1284d3ec72a721c8d2f32cefd",
+    "bbox_xyxy": [
+      362.0,
+      552.0,
+      640.0,
+      826.0
+    ],
+    "yolo_xywh": [
+      0.16567460317460317,
+      0.1708829365079365,
+      0.09193121693121693,
+      0.0679563492063492
+    ],
+    "export_image_sha256": "3b3a3754d3aa198cd399741998c03be15b97eee6c3ad9674aa7d7152dc078e98",
+    "export_label_sha256": "3465b1b1f3b11e30b79bb9942b935ec487b74a457a82450bc8e9d59e286ad74b"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_back_007.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_back_007.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b9c1c3dfb24bdb62a5b6018b9ffcf9b084a167681b8e66c7ecd31c3d4c3ecf40",
+    "annotation_sha256": "1a754819efc157dcb63e934a175371ff5d4f3d519dcbff6529ac20ab6f97a7d4",
+    "pixel_sha256": "fbd84e95cd62228068600a70c11be49b3a49ba1fe4a67f8909fe50a59c57907f",
+    "bbox_xyxy": [
+      392.0,
+      3078.0,
+      668.0,
+      3360.0
+    ],
+    "yolo_xywh": [
+      0.17526455026455026,
+      0.7983630952380952,
+      0.09126984126984126,
+      0.06994047619047619
+    ],
+    "export_image_sha256": "3800393ae9abc1045fc360c4973b3ea288fbd5153fb2865ceb96d6ce6e93eb35",
+    "export_label_sha256": "13aabef786a59cda4a92a0855d727e322538d3d555328765a8b7e627c548a561"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_back_008.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_back_008.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "8e74dfa0dd3dd18d19a280ebfe211f7996b61526b0fbbc1c562c6aed45a7033f",
+    "annotation_sha256": "800874fdc26d34a5fa6caa0fbc82941c5668b330623fc97496ae96d6b4c6feb3",
+    "pixel_sha256": "1aed53b9aeb746b30a62a0252b93c1955c89f85fee0ffd96a9d60f7a57d94681",
+    "bbox_xyxy": [
+      2360.0,
+      3178.0,
+      2636.0,
+      3460.0
+    ],
+    "yolo_xywh": [
+      0.826058201058201,
+      0.8231646825396826,
+      0.09126984126984126,
+      0.06994047619047619
+    ],
+    "export_image_sha256": "f1cce223661f4d3fab3e06cd9317092d83d63a1284dc6942da8d320d66e1a28e",
+    "export_label_sha256": "1b5d767312116269500ac1a192a0dc58df234e269e10fd9d273cf0608f7b7559"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_back_009.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_back_009.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "bd2c2e5273c46f4fe5a8bda6ae563b189a79ee59e7b7bf1087e9b1820b4cca11",
+    "annotation_sha256": "fbf99ddfc9fbdea954f55cf2926fce4958315329735d2499bd5a71493f7adb25",
+    "pixel_sha256": "6dbe2225e2046ac1e129513932118ed66d422ff2def779d97b1eef717b8bc3b9",
+    "bbox_xyxy": [
+      2432.0,
+      578.0,
+      2710.0,
+      854.0
+    ],
+    "yolo_xywh": [
+      0.8501984126984127,
+      0.1775793650793651,
+      0.09193121693121693,
+      0.06845238095238096
+    ],
+    "export_image_sha256": "803e5f7943d5690cc07b22e00bcd08416c70814e99a46242a36387be76eab9be",
+    "export_label_sha256": "2445666fc12398fdc13fcad28ada4975a0e02ebe328e204cbaf8e8c3ade6ffbc"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_back_010.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_back_010.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "7125e882f1183d8c88f5f22343218af90f02fe4e27152a259b88254ad2c42eeb",
+    "annotation_sha256": "f8578aaeb747175f0b09adc89e2f9352c6ea6428c3e702d72e613a82cfee7fe2",
+    "pixel_sha256": "62c748fd8b29c4672ccee8445c23107a9ce8fc6cd144be3669bbbbe6f990ff08",
+    "bbox_xyxy": [
+      1338.0,
+      570.0,
+      1612.0,
+      846.0
+    ],
+    "yolo_xywh": [
+      0.4877645502645503,
+      0.17559523809523808,
+      0.09060846560846561,
+      0.06845238095238096
+    ],
+    "export_image_sha256": "10052a0d50b5188c3dae1c6fac028eb25152b85abb73d1febcdbfefe4ae130e6",
+    "export_label_sha256": "568747728aa58b772b7f1f678fcb7efeab66e98097bdddae7e22fd6abf51a313"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_front_001.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_front_001.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "290c3e3f43ddc1d7acf2886a63941941f2b576ecc6ea4800073e1c46e79c5572",
+    "annotation_sha256": "e7184a543f8ee8c869a1163d031ba98e154e8580bd807e72eb8d4a2a06a2a923",
+    "pixel_sha256": "d8c513c8f6e15f5c738a57478c5e93f32493febad2132baad047785d0effd88b",
+    "bbox_xyxy": [
+      1378.0,
+      1864.0,
+      1650.0,
+      2136.0
+    ],
+    "yolo_xywh": [
+      0.5006613756613757,
+      0.49603174603174605,
+      0.08994708994708994,
+      0.06746031746031746
+    ],
+    "export_image_sha256": "bfef502a85c59286b984025af227a083ee5343c665e558da05cc5f9207e6ca0c",
+    "export_label_sha256": "c7fc29a18f5a8733d35080415cd1352c7d0344befb718f64f75bd839e014af9f"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_front_002.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_front_002.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "8afe24918799dda1b075b62fca20c0a3f665239ac692ed7e23d53442a5561900",
+    "annotation_sha256": "ed5c09ccc512e1f046383fe5a2468458daa6543ae7d69b21218ee08b5ce6c8de",
+    "pixel_sha256": "1f0dad11c8141d3522a6d2e7fc66af5b6cd34a2b7c8493eedb9be30f32b6239f",
+    "bbox_xyxy": [
+      894.0,
+      1198.0,
+      1166.0,
+      1472.0
+    ],
+    "yolo_xywh": [
+      0.3406084656084656,
+      0.33110119047619047,
+      0.08994708994708994,
+      0.0679563492063492
+    ],
+    "export_image_sha256": "e08d5e18e31fc0b5727f581119ce5d95ffa99ae5cdeceb21c60a013c856634a5",
+    "export_label_sha256": "4f980220fe53f6f38766d46ec8be9a41e691695c2b97c649f6d1368e7ecec84c"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_front_003.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_front_003.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "c237b365fdeb13cd6bc7ec3a710a8b723d51a84ca386332dff4f84735b427530",
+    "annotation_sha256": "6ee26b450325ea1e67908790b4f3d79b52e3ea189db67e9a2cbd6c258fbd8788",
+    "pixel_sha256": "1ac2542c7600c9c5d3716e3ee30951a8c8633620f368de855f096a14cf003642",
+    "bbox_xyxy": [
+      890.0,
+      2558.0,
+      1158.0,
+      2830.0
+    ],
+    "yolo_xywh": [
+      0.3386243386243386,
+      0.6681547619047619,
+      0.08862433862433862,
+      0.06746031746031746
+    ],
+    "export_image_sha256": "650dd2d8ac939979cbe052f9367e5e62bc89f1a2ea0b377173cde8da952040bf",
+    "export_label_sha256": "73125b59cb1d24b23b8a45749af972b7b513c29b13db29ece6412dc0691cb37f"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_front_004.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_front_004.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "f6c258d8b3f906d7e387529798df9eb6ad93edba7868008374ecaa75bd8d364d",
+    "annotation_sha256": "65f435f58ccace292491a7230bcaa5415f04d8f0cabee1c5666c67036ba6ac46",
+    "pixel_sha256": "d5364a9c80d513c23e1a87a3c0e8073bff9132e6a8165f05bb06680233320ab2",
+    "bbox_xyxy": [
+      1874.0,
+      2570.0,
+      2144.0,
+      2852.0
+    ],
+    "yolo_xywh": [
+      0.6643518518518519,
+      0.6723710317460317,
+      0.08928571428571429,
+      0.06994047619047619
+    ],
+    "export_image_sha256": "b1e263122afb4bb705bd78f0259c6c4c3d51180e2b075552b39b25d6e805abd8",
+    "export_label_sha256": "9c767642a82252623b36adafb6e7267b9868d96d8e5f9fe37c4c956858f605c0"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_front_005.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_front_005.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "cbe8cd4dc729160b2deda1d91c5e1dbee26ec8cf254b5cad80e3940dee03d9f3",
+    "annotation_sha256": "13399870c49f09bd2e7cc43f9e7db7b184770207c36aa53ea4ec1d620a622bd3",
+    "pixel_sha256": "92719cc76de5cee0b099c6ede3826499ebc1d431978eafcd40addc6925b6b774",
+    "bbox_xyxy": [
+      2406.0,
+      520.0,
+      2692.0,
+      808.0
+    ],
+    "yolo_xywh": [
+      0.8429232804232805,
+      0.16468253968253968,
+      0.09457671957671958,
+      0.07142857142857142
+    ],
+    "export_image_sha256": "4b3af07fd92b80f1706cb5e64299c0fbc91494e24c63a8b9f363d835a6365f8e",
+    "export_label_sha256": "6c40d8dae34bd866f7b5f69a50d5f0c75dc9aa32d10f0579a70b1cac99e35b6b"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_front_006.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_front_006.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "79469a2d17d4c6ac304e7308b5a8e25cbc7c85cf6bc1f20de1ae09baa57fe9a0",
+    "annotation_sha256": "6aaa7c59eb9f3833f93dd1c2a17a9d644801ea5ddffe17b1fb678e41159a3cee",
+    "pixel_sha256": "1260fda08a19085e7385f4dd84edb1d94e6f9c8e339cfc8ff39f86c0e854738a",
+    "bbox_xyxy": [
+      362.0,
+      638.0,
+      642.0,
+      918.0
+    ],
+    "yolo_xywh": [
+      0.16600529100529102,
+      0.19295634920634921,
+      0.09259259259259259,
+      0.06944444444444445
+    ],
+    "export_image_sha256": "0e7ad7ac03c54aa768594f9ed2b0286ed7ced416ed65ab31a9292477554978ff",
+    "export_label_sha256": "d1a6aedbf47ecf48dd1d34040088f27c9205e6aa914f18509c35811b37027d6a"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_front_007.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_front_007.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "1121bccc2fb9ce393e746df246a6c3f931bce65880cccda961c13faab0798388",
+    "annotation_sha256": "a1fad6be819429156430ec353a3bca30124103dd6f1ddc9beb0cf79253307350",
+    "pixel_sha256": "4030e2a13414657c5fe28f6e4eae845a0937a2e9f12d66b87904996069aa78f2",
+    "bbox_xyxy": [
+      518.0,
+      3176.0,
+      788.0,
+      3456.0
+    ],
+    "yolo_xywh": [
+      0.21593915343915343,
+      0.8224206349206349,
+      0.08928571428571429,
+      0.06944444444444445
+    ],
+    "export_image_sha256": "c4c1ad43d42011fe7ec8646d50931065554aeef3b7542f3b98d7bcc45dbed236",
+    "export_label_sha256": "414bbd45213a21c21d85f7862abf81638b64b7a20ac3e2cea88a2bb85ed12c29"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_front_008.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_front_008.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "f0240fc8ba41acadfe1ef3fa7b2578f1e057bb5bf89d12425d5648be11245669",
+    "annotation_sha256": "c5a6501cf56cecb6fd0b2d442ecca7ced0cc21496755313cc768d7e0b19e627d",
+    "pixel_sha256": "50d999b24399f2358790e6a9d7d66f8b236aa051559591ed5e15ed5bcdafa636",
+    "bbox_xyxy": [
+      2310.0,
+      3182.0,
+      2588.0,
+      3464.0
+    ],
+    "yolo_xywh": [
+      0.8098544973544973,
+      0.824156746031746,
+      0.09193121693121693,
+      0.06994047619047619
+    ],
+    "export_image_sha256": "fb449c7867ef314b6246e9bd0707e703de75b230d2f7cb48f451471162b19055",
+    "export_label_sha256": "121c298c0f7b92a4fc699b8ed0adfcb2c67699cf41f696b62c27b4026b28e66a"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_front_009.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_front_009.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "f76cfb5244f9116e0d35f4696d37076497676ec40bbfc0567951d894ef38c883",
+    "annotation_sha256": "6a5fc0411e33530bda40b6eb5e6a22bed999556435eb0803a6ab106e3758e24e",
+    "pixel_sha256": "b19dc8b7d021ad7f99a3c4128bed015ae4b65c2b6767ded20061846ef5cc95ab",
+    "bbox_xyxy": [
+      1318.0,
+      620.0,
+      1590.0,
+      904.0
+    ],
+    "yolo_xywh": [
+      0.4808201058201058,
+      0.18898809523809523,
+      0.08994708994708994,
+      0.07043650793650794
+    ],
+    "export_image_sha256": "ff21b2473afb8b012762130c2b1707510e659770aea98d4caa7c5719d773409c",
+    "export_label_sha256": "202bebf0d2e2d35f87fb1a9dcf414994a6b1b13fe273e0b3202daaea9de4d4b2"
+  },
+  {
+    "source": "data/raw/session01_drug002/s01_drug002_front_010.jpg",
+    "annotation": "data/raw/session01_drug002/s01_drug002_front_010.json",
+    "split": "train",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "20efed0362bd15e9e7b786306e523efde31d0e7b2a5520146fb4e87381ea1b7b",
+    "annotation_sha256": "fa51ac6ecc89ec9834ec301329e36676afa7ea56285b2bb3b5a2625b195e036a",
+    "pixel_sha256": "34aaf3321e308789338948142fe10a4efd6c9dbeadccfc8527539e108127a28d",
+    "bbox_xyxy": [
+      1860.0,
+      1250.0,
+      2134.0,
+      1524.0
+    ],
+    "yolo_xywh": [
+      0.6603835978835979,
+      0.34399801587301587,
+      0.09060846560846561,
+      0.0679563492063492
+    ],
+    "export_image_sha256": "29cc0df8a93ab598ce3585be10532b8ac506831e49ff8e00b9375b68d4fffcc3",
+    "export_label_sha256": "ee6a42d438fa998df228445f7966c946468f3e8c0b6da4541271e76aa492275b"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_back_001.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_back_001.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b8956b91ab4167c0a1a2557eee020e3ca9fc40de4abcb8e03338ea8457f79adf",
+    "annotation_sha256": "bd0124b799d520d523dee634821eee9bfe5e305728d7a15cf313ef47fbc9a297",
+    "pixel_sha256": "2ed0a667a73299f1def586d493b92974925c639b90dbb297c4ac673d26139221",
+    "bbox_xyxy": [
+      1234.0,
+      1738.0,
+      1856.0,
+      2256.0
+    ],
+    "yolo_xywh": [
+      0.5109126984126984,
+      0.49528769841269843,
+      0.2056878306878307,
+      0.1284722222222222
+    ],
+    "export_image_sha256": "602c6b92f3b762ae7dd4e04348de903205ab2cce927967d0303256490b833678",
+    "export_label_sha256": "6b17c5892dcae52a20d9e494eea3b334c8f74d86616012d490b2ba12186c50dc"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_back_002.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_back_002.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "8c78f6e8da56a8691fb9bb69ec1ff1aecffbdbeaafd145bd568c21a65b8a61d3",
+    "annotation_sha256": "8135cc55f23fedeb151b3cfbc98a3b12d63175db8f37fdc99d62c806f47f7c4f",
+    "pixel_sha256": "abcffe36d8506a9c599e05b0c9a2ada55f9d31018f1ab314b0109e4d55b9f96c",
+    "bbox_xyxy": [
+      1690.0,
+      1156.0,
+      2344.0,
+      1636.0
+    ],
+    "yolo_xywh": [
+      0.6669973544973545,
+      0.3462301587301587,
+      0.21626984126984128,
+      0.11904761904761904
+    ],
+    "export_image_sha256": "c34bfb0466f8d74ec1c1055156b18c50dd9395430c884cb8d515f86e1a0ab094",
+    "export_label_sha256": "083db0fd17ed9f28917c597a50b74ff6f244bc372179ace9f02b97c90a7b38e1"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_back_003.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_back_003.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "965b35d0c4f603c4bd3c8290c96e84ebbbd68ef90018d400399b157d6483310a",
+    "annotation_sha256": "ea9950920f0be3e4179036d0b163d6eb759145418a0662f765b8c0bf175bbc27",
+    "pixel_sha256": "e1474812e103c14bc4927709ff446d1d866e48360593fce34f156bf864bb37c4",
+    "bbox_xyxy": [
+      784.0,
+      1056.0,
+      1342.0,
+      1656.0
+    ],
+    "yolo_xywh": [
+      0.351521164021164,
+      0.33630952380952384,
+      0.18452380952380953,
+      0.1488095238095238
+    ],
+    "export_image_sha256": "8cd0418f63ca60a0d4200ab3cd936214aa4a69843f7e1696a10ebf3abab2e59f",
+    "export_label_sha256": "ca46365ab19edd8ee0fd85d5765c815f9d096b133b008c339eaf1d46e9234405"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_back_004.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_back_004.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "e96d55b9e1cc7e05db4bfdd5b322f91d2f0468700745d4127e12e19266bcabe9",
+    "annotation_sha256": "22834c76e0e689bf58c9511c595ee537562ebe7f88040967f5769dfb886f0205",
+    "pixel_sha256": "7f506ee92911edcaf05b0f689340411a6a6178908a88e25baaa83336d9ca790f",
+    "bbox_xyxy": [
+      658.0,
+      2538.0,
+      1352.0,
+      2868.0
+    ],
+    "yolo_xywh": [
+      0.3323412698412698,
+      0.6703869047619048,
+      0.2294973544973545,
+      0.0818452380952381
+    ],
+    "export_image_sha256": "12346ffc1c4dd4b4b0d7c2fe0ff41ef4a9597c48665e4883a4c95700264ae9ca",
+    "export_label_sha256": "c4d4bdbe7fa37a3da815ec6341c17b459c1d58e9648b44aa950e640d565820f5"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_back_005.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_back_005.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "a5bd1abbde1aed36dfb850c985e62d2bdb7ddd8705c1e1efce3e1568a9076675",
+    "annotation_sha256": "d879dafb5d7c7e8085fb97099b12b28a05f9d68fd9d2f641a5084d273c623e18",
+    "pixel_sha256": "f3e95e51c498a3f66aafbfbc34264e2bd8680483208f89f2af10fa70b7a1064e",
+    "bbox_xyxy": [
+      1716.0,
+      2450.0,
+      2372.0,
+      2914.0
+    ],
+    "yolo_xywh": [
+      0.6759259259259259,
+      0.6651785714285714,
+      0.21693121693121692,
+      0.11507936507936507
+    ],
+    "export_image_sha256": "9b9742dbe03b82938d5f56c1d5de6a92b4361305372e5e5b045ec056b6d582f9",
+    "export_label_sha256": "607e6fc7e674982c0bc0c5f0590e8e3424e6b261a9c681087dc28ce212e062d7"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_back_006.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_back_006.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "e5289a6137588a51a3ce2c1383c0a9331cb8ac4271a84f6b52e029842d01ec00",
+    "annotation_sha256": "be600a19411476884e6309056b0d80498c123a868ab54ddb2c182abbc4c4a83f",
+    "pixel_sha256": "6da0c9da85e668bee79bd678d9789478f377dca8fb08d4772b99ce94af7de0ca",
+    "bbox_xyxy": [
+      184.0,
+      410.0,
+      842.0,
+      918.0
+    ],
+    "yolo_xywh": [
+      0.16964285714285715,
+      0.16468253968253968,
+      0.2175925925925926,
+      0.1259920634920635
+    ],
+    "export_image_sha256": "414dd72c35c9549c98b441118d843a8f2cea4923b47b3209a897aa525d73dae7",
+    "export_label_sha256": "be27d8602355135c653c0a06ae17ee7b6d43bf95afe542b9d8d17401901803f1"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_back_007.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_back_007.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "2cdbe638bd36681a643c2d744e41bed2692bed74b72eb30a6beec913f11e0ac9",
+    "annotation_sha256": "f40f20470d60823d9772c9ac4ea47d7d04c12ff6d4ae81e3e3bb4ce24dca7d68",
+    "pixel_sha256": "6edfeb8ae57e0c2fc9536d079fe6f7983b98ecf1c60c377efc4ccb228d935e6b",
+    "bbox_xyxy": [
+      182.0,
+      3050.0,
+      882.0,
+      3388.0
+    ],
+    "yolo_xywh": [
+      0.17592592592592593,
+      0.7983630952380952,
+      0.23148148148148148,
+      0.08382936507936507
+    ],
+    "export_image_sha256": "3df3ba9bd375394c49d8ef4b7910d137b955116bb2395a874e913d3b4382a8a8",
+    "export_label_sha256": "acb059804b0b61cf9b303681bb1aeb7522b5fadd3f5eda927cace124ce57b2bd"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_back_008.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_back_008.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "93560b8509358fea71c7b4faabe86f2dcea4f2f26143221dab53692c667e1000",
+    "annotation_sha256": "0ff198d50c26a96ddd6f31e0b09f60a56fe623c7df29b938d5f25f9f50b17118",
+    "pixel_sha256": "0af0e1cee352dcb70e16cabd7fb3485c1d64dd948ff52aceef5223d0e83c5557",
+    "bbox_xyxy": [
+      2234.0,
+      2870.0,
+      2716.0,
+      3536.0
+    ],
+    "yolo_xywh": [
+      0.8184523809523809,
+      0.7943948412698413,
+      0.1593915343915344,
+      0.16517857142857142
+    ],
+    "export_image_sha256": "86e6af67c951e2d0e02734760ab71ad9c76425d88203170f6f1ef91f2229d6c7",
+    "export_label_sha256": "04594f951e5f30e509136284090942012bd9d543a8a26d2e5b2868e1b557c605"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_back_009.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_back_009.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "1100b264ec60ed084479aea344520f9f4c0c810138e1caf92ea530f068f401df",
+    "annotation_sha256": "3fde07848648444535d525e1cbe0ae4202d3bc7d53e78c43d16c25772bae4a46",
+    "pixel_sha256": "946a58c4bcda8090859a640f4eb53b5ddbd9b76955ecf000bdb2a9e9fd468a2e",
+    "bbox_xyxy": [
+      2188.0,
+      564.0,
+      2758.0,
+      1176.0
+    ],
+    "yolo_xywh": [
+      0.8177910052910053,
+      0.21577380952380953,
+      0.1884920634920635,
+      0.15178571428571427
+    ],
+    "export_image_sha256": "0048aa2259dde6c7df6a90e9be8bb72503fe39f520ebd6f9d1ebb4ee047c7116",
+    "export_label_sha256": "ea1e75b1966adebf49e478571f7395867d7edea325d467473fdc65f2822c82ab"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_back_010.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_back_010.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "bd612ada6041dbe427fdfbecf121aed48fb2975e2df93a843920dc615a8dab55",
+    "annotation_sha256": "aa1c634629a77b5fe8331c5500af8ab365d39dc095d65a5b291d174e944cde97",
+    "pixel_sha256": "c441d32f7342d56c26d25debe5abcd1f64b4a0306a5938d0abec90de91e079a6",
+    "bbox_xyxy": [
+      1216.0,
+      620.0,
+      1906.0,
+      1010.0
+    ],
+    "yolo_xywh": [
+      0.5162037037037037,
+      0.2021329365079365,
+      0.22817460317460317,
+      0.09672619047619048
+    ],
+    "export_image_sha256": "b2ce0bd3d946d07257e1e94506f1512322e7d643f5da66a4e17c22c2cffbc043",
+    "export_label_sha256": "2e363b105e0808665b1024789014e31e05da36a883313113f3e9ab58ebac380e"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_front_001.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_front_001.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "d2acda3e7d511d625ebc9610407dcfe16995b9a1e1804cda4fd29a6d00198dbe",
+    "annotation_sha256": "3385af6039e8da7eadde9db42bfb8d86ddce9d05a19ee2772e6fd9ef37c5ac9f",
+    "pixel_sha256": "2d975253c2753b354a6ba461613ee867fbd2e336ac59e981f16747638e39635d",
+    "bbox_xyxy": [
+      1190.0,
+      1830.0,
+      1848.0,
+      2286.0
+    ],
+    "yolo_xywh": [
+      0.5023148148148148,
+      0.5104166666666666,
+      0.2175925925925926,
+      0.1130952380952381
+    ],
+    "export_image_sha256": "c78bcbcb45b91fc3fcf921941bbf52155aa2c40cde6dd3c40aabfa7438a5c346",
+    "export_label_sha256": "84e7033d6d8001fddca4f8963b9bfaaa2d3f903e8e40e28ad6118221c6afcc70"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_front_002.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_front_002.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "e6a2db7985a58c6c2e76778e8bec12eebe6ec02125ab103a64cb2c88e2cb30a7",
+    "annotation_sha256": "237fbd878fac4434dbd912b27cdb782fdef26bb922b252b4ebee4f3cd09b559d",
+    "pixel_sha256": "91443cfe17030113056d4c7d77dc4e025e36a46712e3d0dfe78b0212d54e02a1",
+    "bbox_xyxy": [
+      1652.0,
+      1208.0,
+      2310.0,
+      1678.0
+    ],
+    "yolo_xywh": [
+      0.6550925925925926,
+      0.35788690476190477,
+      0.2175925925925926,
+      0.11656746031746032
+    ],
+    "export_image_sha256": "9d260fecefcc9ef77aab4c46080f523251e94e6dc174065913fdf764a59ee7b4",
+    "export_label_sha256": "73b4976a9743e99eadca1f0b444b2491970dc75f42eaed69c0236a608d88e7b1"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_front_003.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_front_003.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "0d16ec4d4fa90fcc34158dbbc860676ad9d7fef7894368654da9dc33910564a6",
+    "annotation_sha256": "8455c9c8a2f2a51ecef27c0ed3cfa5a145b1075fc2d08807c0408e1d487e186f",
+    "pixel_sha256": "5d66c774afb713a91e694aab8c7d867b2fa1793453c74bba3b19a65d68159fe3",
+    "bbox_xyxy": [
+      688.0,
+      1176.0,
+      1362.0,
+      1596.0
+    ],
+    "yolo_xywh": [
+      0.33895502645502645,
+      0.34375,
+      0.22288359788359788,
+      0.10416666666666667
+    ],
+    "export_image_sha256": "6f1e5f96a30b7f8cdbfb7f91f831b16d3e8ae41f409233975d11a809b509ce91",
+    "export_label_sha256": "4adaf0e74f833baeff6d976737f283389d45fb752b13df2d8fdb25016da94135"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_front_004.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_front_004.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "a7698e038fdc9e8939620e771786edc0a7af37a310377128a6b390a84f085684",
+    "annotation_sha256": "b5423cf43ce3a3d474cfb9f1ca2ce361c56950a6f40f83eed4e6505dee041d8e",
+    "pixel_sha256": "a1aacc0507ebbeea1324567731c58438d9402dd4756f9a521d801cc3f4503098",
+    "bbox_xyxy": [
+      786.0,
+      2348.0,
+      1294.0,
+      2984.0
+    ],
+    "yolo_xywh": [
+      0.3439153439153439,
+      0.6612103174603174,
+      0.167989417989418,
+      0.15773809523809523
+    ],
+    "export_image_sha256": "7759b6596a64fef32a4a47a97b2d7761660116b5d17a273ec6166501180f83c8",
+    "export_label_sha256": "827f80d61ef796815c0fbeaeb955cb98a0d11d50f581dea84577782050374566"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_front_005.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_front_005.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "6983e187096df56305d264a0d6792ca24e737b4f641dcd0ed68197832bf4dea0",
+    "annotation_sha256": "ca1a1cb916fcd89d17852c865f8a7d47f7b082e59067bd83ba153fb275592760",
+    "pixel_sha256": "db64d8f5f805711a60530b138942c6da8788e5c8a04a8c1eab693fa0b997a517",
+    "bbox_xyxy": [
+      1644.0,
+      2536.0,
+      2324.0,
+      2934.0
+    ],
+    "yolo_xywh": [
+      0.656084656084656,
+      0.6783234126984127,
+      0.22486772486772486,
+      0.09871031746031746
+    ],
+    "export_image_sha256": "f1d4721ab6a0962588a00510abfd04aeb87da3b6d7a6ec312cec3f276c99a0f7",
+    "export_label_sha256": "95571f963fa0f1135bbd62f47204ea0dc7fb61e84f4297d140d512ff30d08c09"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_front_006.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_front_006.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "406bb8e05e46aa16451ff32fff593eaf2f88d1e098cc36e7233398dc72711667",
+    "annotation_sha256": "8bcd0a8227ad899d4b4adefc0ef7b4c55c9c8b2683a1bc501c2fc606e72bd1d3",
+    "pixel_sha256": "49eb718cacb4ef3e6a84c444d1ceaf71352679c9f33141e7cd5c9ea50ca71e3a",
+    "bbox_xyxy": [
+      258.0,
+      612.0,
+      968.0,
+      972.0
+    ],
+    "yolo_xywh": [
+      0.2027116402116402,
+      0.19642857142857142,
+      0.2347883597883598,
+      0.08928571428571429
+    ],
+    "export_image_sha256": "6e07d9ac5824d527d3cf1079584b9fb6f973e26744ac86e7e7ea8b56d6ec2a83",
+    "export_label_sha256": "5bc290129994a938f1ab449c3f492ef9957bc686dc92742736491e5bcf21610c"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_front_007.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_front_007.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "6fccd1832c14e5bc77bd331e8a6c69f57c99a98f7734248a5bfbd43cf300462a",
+    "annotation_sha256": "3dbd651a8128e6518c974c4f5f619f65657bfeb53c30df010f03eb4ceb7509d0",
+    "pixel_sha256": "498ef366f0d90224afd79d7d8e87ea5993e9e0eafb7ebf909e7c18533f766c1a",
+    "bbox_xyxy": [
+      138.0,
+      3142.0,
+      846.0,
+      3480.0
+    ],
+    "yolo_xywh": [
+      0.1626984126984127,
+      0.8211805555555556,
+      0.23412698412698413,
+      0.08382936507936507
+    ],
+    "export_image_sha256": "555798ccf256c91c24377374f3b2e23af6a001a39c08e5722da9f5eddf09bf57",
+    "export_label_sha256": "ffa094974d5482138f13069ef882fdacc53acf115b91b364351517977af23e9b"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_front_008.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_front_008.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "001dc0c7008e058f5f07a1500f4e59fcfc319e46202cd6bfb600916808fa2d5b",
+    "annotation_sha256": "d6dd25c03e1a30715c152920feef9066c99a2560818b89e0fd508335869db6a6",
+    "pixel_sha256": "f583db7a4130f1d55209ff54d32237c9645b5ec0242a3a7b10383cbdc96804b4",
+    "bbox_xyxy": [
+      2250.0,
+      3022.0,
+      2808.0,
+      3636.0
+    ],
+    "yolo_xywh": [
+      0.8363095238095238,
+      0.8256448412698413,
+      0.18452380952380953,
+      0.15228174603174602
+    ],
+    "export_image_sha256": "120a52f663f09071d1648c9876eee2956fd1c059d5e4af4f8bded5c8d6e731d5",
+    "export_label_sha256": "31fe0e7c471be46b34325ed4cc562867faf40cfc199ff129ad744b9510dc87ec"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_front_009.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_front_009.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "782c382611b14c2a495dab568f02b256f22bc8847c2f257439c03590cd03d3ee",
+    "annotation_sha256": "4eec49d55c4a2bce4d90c6b507e4c92b25f4c8aa2f3f23f833004c262e23bf14",
+    "pixel_sha256": "6eff475510cdbec8f5d86a972f2c2c6cca8d8b3e6a5fd0322aa2b96e66eec1c3",
+    "bbox_xyxy": [
+      2182.0,
+      384.0,
+      2698.0,
+      1042.0
+    ],
+    "yolo_xywh": [
+      0.8068783068783069,
+      0.17683531746031747,
+      0.17063492063492064,
+      0.16319444444444445
+    ],
+    "export_image_sha256": "ed3a70907d99fddeb4a7a02d97b49b58e2a099b310b87dee9c4ff2d171da27c7",
+    "export_label_sha256": "6bd491a4f2ac213232ea9181edbe3c6661e1cb1b14b68f7db01aef9f1bbe10bc"
+  },
+  {
+    "source": "data/raw/session01_drug003/s01_drug003_front_010.jpg",
+    "annotation": "data/raw/session01_drug003/s01_drug003_front_010.json",
+    "split": "train",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "33a3d6ec668343ed786a7b52545bd1ee2ef2b074aa9039433befe97e30ebafd3",
+    "annotation_sha256": "bed6854a8e23eda798641288bfe3b97b79be9ad2c3b0daa612b8fc2f93ab9380",
+    "pixel_sha256": "22412abf278434a715e7980250d610a33cd6341536f2d574a5f610cdc109e227",
+    "bbox_xyxy": [
+      1246.0,
+      444.0,
+      1888.0,
+      966.0
+    ],
+    "yolo_xywh": [
+      0.5181878306878307,
+      0.17485119047619047,
+      0.2123015873015873,
+      0.12946428571428573
+    ],
+    "export_image_sha256": "fdda1e466a0cf42bd1841a7a1e52e3e2af71f3f0e99aaf1f120d5a94c0dfbefb",
+    "export_label_sha256": "4e363bb9b796e16122eb94f88e5153c1d33851daccc2dded29a295d0e9ea7976"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_001.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_001.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "03abdc91ae4e379c0425b2cc479dc4b656c88cbde53533e5f33a292197bbb553",
+    "annotation_sha256": "af71a484bb81d679988b24f95b46205ed95cd020c987d067af99d0cd6d79fe65",
+    "pixel_sha256": "5bee78b98d8affe7de56232a79bc2a232e54feab75e1b76ead85e27edbc671a7",
+    "bbox_xyxy": [
+      1144.0,
+      1876.0,
+      1724.0,
+      2194.0
+    ],
+    "yolo_xywh": [
+      0.4742063492063492,
+      0.5047123015873016,
+      0.1917989417989418,
+      0.07886904761904762
+    ],
+    "export_image_sha256": "c25194bef24dd0e95bf932b82b801e6ff938943dcd6e5f5f22fb43af8e4d601d",
+    "export_label_sha256": "cb89bcc992244811c7c2ee077c44a7db0200f3f5c5a306b776d7ffddcdff0db2"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_002.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_002.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "4168e74225238ce059e9a7e0f4ca9e706404f334aa4446a4c23a54d9e77476ef",
+    "annotation_sha256": "454a9ccf6c51ca41031de366be4163209c2410f38fc8657f5149c160e4359a6c",
+    "pixel_sha256": "1b008f1a62734925ca554a15497aa26cebecb5690fb608b0314a716432cfd712",
+    "bbox_xyxy": [
+      1760.0,
+      1164.0,
+      2190.0,
+      1700.0
+    ],
+    "yolo_xywh": [
+      0.6531084656084656,
+      0.3551587301587302,
+      0.1421957671957672,
+      0.13293650793650794
+    ],
+    "export_image_sha256": "9209d197905fb7380d1b17099ccedd9577928f4cc699f681b3e3823647de052a",
+    "export_label_sha256": "6fdf9067e5fc905376ec1b69fcf41ec805cbbed9afb5495d5922591a4181bcf3"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_003.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_003.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "f1fa39fe2dbac58ee8501d3bb1df86f784c4ea8e6383af74507ae99496a17705",
+    "annotation_sha256": "42f36dd5450006f4231c27c33db9856ebb75778ac7c10fed3ccd00a8809a7433",
+    "pixel_sha256": "0929ece6671843fda2637c99efef16dad2854e3ccce26177c996fb7f0ac95f5e",
+    "bbox_xyxy": [
+      752.0,
+      1224.0,
+      1306.0,
+      1630.0
+    ],
+    "yolo_xywh": [
+      0.3402777777777778,
+      0.3539186507936508,
+      0.1832010582010582,
+      0.10069444444444445
+    ],
+    "export_image_sha256": "47bfb38f8c227dde5884dc4dce44d2afb436ac9d7ff2368035c1696132969b6e",
+    "export_label_sha256": "9b0bb564d03c697c405e8e6aba966629d7365629aa4770995c314320f81aee0e"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_004.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_004.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "a33564d34421764b1428eedc0400c7106224498e37e5bc2aadbe9f4cc84c75f8",
+    "annotation_sha256": "7316ddb8fd8294e61a8f0500f22c9ab8ee3fe13b62c83d54327329b9be375036",
+    "pixel_sha256": "633004f305d7ccbb46e64f3ff767dafd6a3e30393fa6efb9a8a54889aff3d3cb",
+    "bbox_xyxy": [
+      942.0,
+      2462.0,
+      1428.0,
+      2946.0
+    ],
+    "yolo_xywh": [
+      0.39186507936507936,
+      0.6706349206349206,
+      0.16071428571428573,
+      0.12003968253968254
+    ],
+    "export_image_sha256": "69cd9f56d34b7c34fcb0c1d96d8b352464f53618943578941fb0d9719904c5b6",
+    "export_label_sha256": "ee3c3e3140a57cc26a9a7bc50d2979168b891eac4b548a575c519c4ff38b04d1"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_005.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_005.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "7e458783150737a1910f80f80b8110e30a50a30bc1298583560516d7580a9fb1",
+    "annotation_sha256": "3eeb60b22544bbe49ca65f74fd2037294d46eac8a46ece5e559e964559ca0556",
+    "pixel_sha256": "ab5d2956c0826360d728a169a538e592a42577ca43461e0d93cde388d01134c6",
+    "bbox_xyxy": [
+      1640.0,
+      2614.0,
+      2214.0,
+      2968.0
+    ],
+    "yolo_xywh": [
+      0.6372354497354498,
+      0.6922123015873016,
+      0.18981481481481483,
+      0.08779761904761904
+    ],
+    "export_image_sha256": "e3e6a7d32f984a0338fe48d913e652ac2b00dda5f877d15354382eb7947f80c4",
+    "export_label_sha256": "e7b1213204085d5a7dc86d3b8c707ca94ffd155dc16c77d5c8333ae74005e08e"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_006.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_006.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "5a0cf51a375f294499ca24fb5172b113ac7e5ca1c9acc13b4165c3937015e754",
+    "annotation_sha256": "295ccbb151e86ed1120e7899725ac9c75a5a6cc9dd18d4c00174dd0914ce13df",
+    "pixel_sha256": "ccd5279d5cb8c6002175ae93ddeeeb0fbf1cd12b8110ed0fd52015ac5b2cc693",
+    "bbox_xyxy": [
+      2246.0,
+      528.0,
+      2710.0,
+      1048.0
+    ],
+    "yolo_xywh": [
+      0.8194444444444444,
+      0.19543650793650794,
+      0.15343915343915343,
+      0.12896825396825398
+    ],
+    "export_image_sha256": "5a68db6ad3656585939299456990292f55452f7932b040a32eb56b47e035faeb",
+    "export_label_sha256": "55e0492a571a066da5da31441a1e2ea3a87d55c8cf5aa9537ea9b48723515f8b"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_007.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_007.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "a97b46d9522906f925e7e2f1d99390b068bade97884bad1c611d02f57642d6b4",
+    "annotation_sha256": "0ff620e071dcf287d56d712fc1c47c63449988985a0080f2889a554401a215da",
+    "pixel_sha256": "3671f0007950d9c40fedab88115da6ba0a31a5031d80e7291f358b9a86a47307",
+    "bbox_xyxy": [
+      1246.0,
+      490.0,
+      1778.0,
+      938.0
+    ],
+    "yolo_xywh": [
+      0.5,
+      0.17708333333333334,
+      0.17592592592592593,
+      0.1111111111111111
+    ],
+    "export_image_sha256": "ce8df71664f47b8d7c6498329a1cd775d020775d028a4df61cb81772cc63de40",
+    "export_label_sha256": "d190e7ed6340b52290ca70004730e17ed414d00c34650b5a6c62561ea1d9af7f"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_008.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_008.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "161dd2bae8153296def4aa41eb138624403bfa417efb73b3e3506ae37539fb94",
+    "annotation_sha256": "b8c6b1770bb931f1b84ab5830a76572fabbeb5ef77a2552a663542966f894ddc",
+    "pixel_sha256": "66b4ab6c6133912bb7bd956410fcd1f4044e7944a4d06473befd8c69af1657ad",
+    "bbox_xyxy": [
+      292.0,
+      614.0,
+      886.0,
+      886.0
+    ],
+    "yolo_xywh": [
+      0.19477513227513227,
+      0.18601190476190477,
+      0.19642857142857142,
+      0.06746031746031746
+    ],
+    "export_image_sha256": "6b9cf2dfb3d68c7afc17e34bb72bc8a3aecd304b858fd83c243c4545b3da1723",
+    "export_label_sha256": "f638ca6372d2f58129bbd202736f403f143ec99cd32e49ea7cab504a3a65baa0"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_009.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_009.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "18769b0f9edb42aa26dbb21dabd510e26e180d6841e67053004c343dd04b298b",
+    "annotation_sha256": "6008fc933a5faf3584307adb86b364ebb344896e44c0a3f7cf967c71f4c06119",
+    "pixel_sha256": "def8ce648f05f2b9dd8f7c14746eb2c2f350085bf3fcfc1a8aa1087344d43432",
+    "bbox_xyxy": [
+      296.0,
+      1648.0,
+      598.0,
+      2234.0
+    ],
+    "yolo_xywh": [
+      0.14781746031746032,
+      0.48139880952380953,
+      0.09986772486772487,
+      0.1453373015873016
+    ],
+    "export_image_sha256": "0a067a2e68789bcc6c0a4fceb7746f8dff62847ab41befd8736539e01dd7a237",
+    "export_label_sha256": "8de7e92c6693e0dc2d4828caaf6044605cfc0558642767397c5915107d0146a8"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_010.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_010.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "f613084d98f28277b7a0253b36ad0264a1b3961979bae06785d24bdb27ba44c8",
+    "annotation_sha256": "a5f391823a89ea3d27279ac9ad80e1bbe012c808f49f473a039bc2429d377dd1",
+    "pixel_sha256": "9351c112aeb274b25d97899b2333b4a4b5345681ef8bfa8d82607467f9697de8",
+    "bbox_xyxy": [
+      324.0,
+      3208.0,
+      912.0,
+      3492.0
+    ],
+    "yolo_xywh": [
+      0.20436507936507936,
+      0.8308531746031746,
+      0.19444444444444445,
+      0.07043650793650794
+    ],
+    "export_image_sha256": "f0b8c4ca737070ba30e024e70df68ee10bb759568cb5cf1474564be37c0537b2",
+    "export_label_sha256": "d56c51d86300724a855ffe9e47125a6c96c61ed45a3ed0f96346e313101441b8"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_011.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_011.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "fa3dfdd990a721b365ae095b7dc1721b5a307e446ad926443f9ddbbc59914cae",
+    "annotation_sha256": "7c9f4d2b2cd0abb10d77851e5cfeebc8e6af13676c5cfd2e313e21e4e0b1e0cf",
+    "pixel_sha256": "c16773fa9693d54abc7543aef5b469d0c43e33f930946d47f85e3f274e75bc43",
+    "bbox_xyxy": [
+      1256.0,
+      3438.0,
+      1828.0,
+      3792.0
+    ],
+    "yolo_xywh": [
+      0.5099206349206349,
+      0.8965773809523809,
+      0.18915343915343916,
+      0.08779761904761904
+    ],
+    "export_image_sha256": "876da455c896b5e4fdd7964a8cac0b454798a2ce76287aef8ca279df3777e0b7",
+    "export_label_sha256": "ddbb0972efdf2c145eee6600a4a31b8e3ea7bc4ace199d47a7708ce2bfa6d2e3"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_012.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_012.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "35c11b684593b6e37efd67904f8c773a295a69b949ad9a6275972cb209064466",
+    "annotation_sha256": "5d295f439d875dedf5ed71446eddedbb0f977ff490ecf37a828d204971ff48c9",
+    "pixel_sha256": "c551618031f71ef869543e7aeb74fe9d133fe2b3039f5924508324cf18f5bbd0",
+    "bbox_xyxy": [
+      2212.0,
+      3276.0,
+      2716.0,
+      3752.0
+    ],
+    "yolo_xywh": [
+      0.8148148148148148,
+      0.8715277777777778,
+      0.16666666666666666,
+      0.11805555555555555
+    ],
+    "export_image_sha256": "4ca29378c62cfc61a9ca41f11e8aef965c2946b9a3edda1cf711eaa170f3a2f7",
+    "export_label_sha256": "fe5aec0da34da261769db2de9c4c963fb0f531c53097bf89526ea1eb6ef16518"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_013.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_013.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b740437c763a8c5419afe531f1a2ae3af958f5d888fa1a80e88d5957d0bf25d5",
+    "annotation_sha256": "aeb7d97c649b52beeb56dcfee58db779574cf0b804e3b94ed1afe9546e09b956",
+    "pixel_sha256": "29b45db187016a11c3ded1843bb53c6771c6b2b25fadb1604ecd1a23232cb6c4",
+    "bbox_xyxy": [
+      2226.0,
+      2038.0,
+      2774.0,
+      2452.0
+    ],
+    "yolo_xywh": [
+      0.8267195767195767,
+      0.5567956349206349,
+      0.18121693121693122,
+      0.10267857142857142
+    ],
+    "export_image_sha256": "d97bcc6c7db2929f4cfa91e6c9c7d602bee4a896f665739a34721e5a0be5668e",
+    "export_label_sha256": "41b8e90fcd1bcc3f2c96aa1583fb87336f64446bbce4c822b75437cdc4628aea"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_014.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_014.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "0cde8e1298a6d4fa8d4993ac023cefeeac4a4e067120ba32b8652ae97180397b",
+    "annotation_sha256": "d861210c2d7809d665b84ef2d0324717d472392b518e75a1b2dc5a6f32b43b56",
+    "pixel_sha256": "19dc0e6004362eb8fc07c97f1f6325d56d52c50094706cd356a6c0d155bafe4e",
+    "bbox_xyxy": [
+      708.0,
+      530.0,
+      1288.0,
+      880.0
+    ],
+    "yolo_xywh": [
+      0.330026455026455,
+      0.17485119047619047,
+      0.1917989417989418,
+      0.08680555555555555
+    ],
+    "export_image_sha256": "99391c4a8bf651b4b66897b847df51d22c4be0d15ca19c14202720123f8dee9f",
+    "export_label_sha256": "6d202a23d97e7cc511a49013a6b522b62c912bdcbb51d2859be9df5b1efc7e23"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_015.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_015.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "f14b4ce44f4add248ef23a3dbb53f3d37e43c607c0140d4b256af27a5ca94183",
+    "annotation_sha256": "5752db0ae3142889b3f7dffce525e836739691bf16c98a37b7c006c2c4e52d16",
+    "pixel_sha256": "962404ce2d8ba05368f45534e5e4980da4d43a3b3fece6d88a1ef23f38711191",
+    "bbox_xyxy": [
+      1892.0,
+      428.0,
+      2114.0,
+      1046.0
+    ],
+    "yolo_xywh": [
+      0.6623677248677249,
+      0.1827876984126984,
+      0.07341269841269842,
+      0.15327380952380953
+    ],
+    "export_image_sha256": "2bf8820b08e1ee4e0dc7ac572cb40ca8d302e82e4053185bd01d52f16aa3f3f7",
+    "export_label_sha256": "950542f8a4dfd985127570629dc4349a6db84c4855e0bf2df36c3188fe741921"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_016.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_016.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "ffbf8516c65ddb5f1d023dee5e5f9eb86dfeecdc5eb77ba619f064c9d0c8a67f",
+    "annotation_sha256": "ac76397aa1fd574e0f512f2224ba4dcc5fb3855d9e97611825697bd3a865c5e5",
+    "pixel_sha256": "50abe4e4acb9fb8d97749a18641329cbc551e873c925a6758dc8df42ea859509",
+    "bbox_xyxy": [
+      632.0,
+      1984.0,
+      1190.0,
+      2358.0
+    ],
+    "yolo_xywh": [
+      0.3012566137566138,
+      0.5384424603174603,
+      0.18452380952380953,
+      0.09275793650793651
+    ],
+    "export_image_sha256": "b5f622ed45c34e82e5dfb9b5cf16eb7c5fa0d555ce07d9d74d03c7094a01e6f3",
+    "export_label_sha256": "41f11124bcd6d31e56e336432a1da578ef63bca93bdc13487692b31017176888"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_017.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_017.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "cc3b1da45edf9bbcfe879c700ca9f4bddd5bbddfc45160885b8669e02d9d8bca",
+    "annotation_sha256": "e35500120f0aac396a38345e071463d3059045026832ef81a766f5fe4ca2e427",
+    "pixel_sha256": "5aa2914e04e53f055d0272e6f163149709ac8ff62b48b7699f18cc9a351819ff",
+    "bbox_xyxy": [
+      1692.0,
+      1880.0,
+      2292.0,
+      2144.0
+    ],
+    "yolo_xywh": [
+      0.6587301587301587,
+      0.4990079365079365,
+      0.1984126984126984,
+      0.06547619047619048
+    ],
+    "export_image_sha256": "94ff647c28b6153608fa19f42cd34af7368d4b5b9c5b17ac6d4ec497bfe92770",
+    "export_label_sha256": "0da716de9b5c00cf617adef4a283e092321faa667971bd98baec1e8e134ce946"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_018.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_018.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "4e2af6e919e5b1497cb129a6b16153c0074d50c09cd78b853a5290be31fbf1db",
+    "annotation_sha256": "010278806b1fc65e6149e2d354fd5592bdee4ab3b771bdd78cad6f75be6291a5",
+    "pixel_sha256": "75cb5ca75a10d868e3fd374a628e6e90f8f7bef3099feee796b6380d7263c526",
+    "bbox_xyxy": [
+      978.0,
+      2976.0,
+      1198.0,
+      3576.0
+    ],
+    "yolo_xywh": [
+      0.35978835978835977,
+      0.8125,
+      0.07275132275132275,
+      0.1488095238095238
+    ],
+    "export_image_sha256": "503a1ae32ef3bafcb426a883a9db0474171df4e2ab5cfa20a4fb8ac2246437ba",
+    "export_label_sha256": "683796dae901fab81633198c59af81554b442e3c53561aa5d6e0bb7a55b4fa0a"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_019.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_019.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "0485b23fc9462b0368f72b348a10074904209c7b00fd3e2bde83af5e140bc51c",
+    "annotation_sha256": "6cca41d660ae045fc22f6181a5dfc36304a9d36ba3920d8573b89f0554021c68",
+    "pixel_sha256": "15bd66b5e19b4877eb6eafeb1e5a327947c7eb764ed9c1767efbf9502a979579",
+    "bbox_xyxy": [
+      1576.0,
+      3020.0,
+      1902.0,
+      3608.0
+    ],
+    "yolo_xywh": [
+      0.5750661375661376,
+      0.8219246031746031,
+      0.1078042328042328,
+      0.14583333333333334
+    ],
+    "export_image_sha256": "b9079f4ad051334b9f6531997394cb2a1b125b75897a0aa3058945218558df73",
+    "export_label_sha256": "4811f41ad9e225454af8e2454bb63a2e467586b8d634145f1cd8f392eb9311a4"
+  },
+  {
+    "source": "data/raw/session01_drug004/s01_drug004_view_020.jpg",
+    "annotation": "data/raw/session01_drug004/s01_drug004_view_020.json",
+    "split": "train",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "bd893084ed74727f91c6217cc0427ec6b83e067e19dbb20c064658487d515fa9",
+    "annotation_sha256": "62574cb10bdf2cd44f646ee2a71a19f2a69d153de26787e45c812b135d3d79ad",
+    "pixel_sha256": "3a5318a4d79017b8c73270b570435c81adf069d3aaf3317d887e2be4b7f130df",
+    "bbox_xyxy": [
+      294.0,
+      1174.0,
+      810.0,
+      1626.0
+    ],
+    "yolo_xywh": [
+      0.18253968253968253,
+      0.3472222222222222,
+      0.17063492063492064,
+      0.11210317460317461
+    ],
+    "export_image_sha256": "25ce9006e109217fe0f53ba6f53124ca53d76bbee4ea9584b29d173a13c0f9e5",
+    "export_label_sha256": "697577896cbd0ab12f0c393b5d28ab11f80a17689df3cd40e45fa0b7b7a758cc"
+  },
+  {
+    "source": "data/raw/session02_drug001/s02_drug001_back_001.jpg",
+    "annotation": "data/raw/session02_drug001/s02_drug001_back_001.json",
+    "split": "val",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "fc97527ddd52a0f12802e7597e795d84dca0f17aa130c58804181ad9fafd4c09",
+    "annotation_sha256": "783306c1b9d9dabfcf97e4ae9e81de2faeaf4e48338360a8334b19efff30bcbf",
+    "pixel_sha256": "9e73a3c64982e5ebb506931e942a6bcbf0193ec24f435dd904c274aec9a07cf0",
+    "bbox_xyxy": [
+      2256.0,
+      1076.0,
+      2652.0,
+      1472.0
+    ],
+    "yolo_xywh": [
+      0.8115079365079365,
+      0.3159722222222222,
+      0.13095238095238096,
+      0.09821428571428571
+    ],
+    "export_image_sha256": "3ee418583be0c12b4d42c9badcd21c718659ac7caa9de0dce921be5a38fc8cd9",
+    "export_label_sha256": "f6a8fed83f0467a34739567960dbf0dc148c2e5fafe8994bd58a6df4a2df28a0"
+  },
+  {
+    "source": "data/raw/session02_drug001/s02_drug001_back_002.jpg",
+    "annotation": "data/raw/session02_drug001/s02_drug001_back_002.json",
+    "split": "val",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "8c2898258ffa8783532ba85a7eb65475d9ce6c53953520a5edffbe39322b773d",
+    "annotation_sha256": "6a5223e80c4dad1e207dcf83dc76b8e3a4a39006dfc7d6ae7a713c06a425329a",
+    "pixel_sha256": "902d127be39af75cdd6d6ce2aed0d112454f059fbd066f746573274e071e9831",
+    "bbox_xyxy": [
+      290.0,
+      1186.0,
+      700.0,
+      1580.0
+    ],
+    "yolo_xywh": [
+      0.1636904761904762,
+      0.3430059523809524,
+      0.13558201058201058,
+      0.09771825396825397
+    ],
+    "export_image_sha256": "c7fdeacbd4a5157403ea334f321509c86b190138f63f701780a6289def1d15be",
+    "export_label_sha256": "aa84c7394c94ccada3339ff8f14a004b263a242627cfe7e468e46c82b191d5f6"
+  },
+  {
+    "source": "data/raw/session02_drug001/s02_drug001_back_003.jpg",
+    "annotation": "data/raw/session02_drug001/s02_drug001_back_003.json",
+    "split": "val",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "a0dd47da070252d9f2fe5b1bb56195897e827c803a190949de64db262678ab75",
+    "annotation_sha256": "9cec76af0c3070ce49eb8b8913960098b69ed8f6883911e25b14422f92cce6c1",
+    "pixel_sha256": "c0cfe67325be471a972700fd0d07844b2735c01cbb9c607b56d74a23329411d3",
+    "bbox_xyxy": [
+      272.0,
+      2450.0,
+      684.0,
+      2850.0
+    ],
+    "yolo_xywh": [
+      0.15806878306878308,
+      0.6572420634920635,
+      0.13624338624338625,
+      0.0992063492063492
+    ],
+    "export_image_sha256": "c741d2b76a1ed266f4551a54f4c0a817db3570a846c5deed6c8d7b297d9a72bd",
+    "export_label_sha256": "5042af5f8afc2cbb8317717e04c0fc2ae714250f771ef55074503bb13599a820"
+  },
+  {
+    "source": "data/raw/session02_drug001/s02_drug001_back_004.jpg",
+    "annotation": "data/raw/session02_drug001/s02_drug001_back_004.json",
+    "split": "val",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "add82aca8109abf5bf7656f7dc0ce7673c1e1c1f91b7d1d9844ad47581b03025",
+    "annotation_sha256": "d0662a2b6ea4a7e6d576bfb6ee1bd27386cfa37956060d4754199ca1dc11e266",
+    "pixel_sha256": "c5fb4e85b9ffc5c7720458eae4c26609073a436bc33e17c2cf65b0cfd106cf3c",
+    "bbox_xyxy": [
+      2172.0,
+      2414.0,
+      2576.0,
+      2822.0
+    ],
+    "yolo_xywh": [
+      0.78505291005291,
+      0.6493055555555556,
+      0.1335978835978836,
+      0.10119047619047619
+    ],
+    "export_image_sha256": "187715c2a1dea961248d3504bc2a63a1e7decae7af4bcb5c5367f33df23b78a9",
+    "export_label_sha256": "cbfc35629042779787b405951b176edf1609737687a3449044c052e498e9f955"
+  },
+  {
+    "source": "data/raw/session02_drug001/s02_drug001_back_005.jpg",
+    "annotation": "data/raw/session02_drug001/s02_drug001_back_005.json",
+    "split": "val",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "f813f5b2ee40d69cfc8f1a11e56c2ec63d67c063ae729bb5035d5508e499a58e",
+    "annotation_sha256": "d7a5cff88c467b21dda9765075388369b43f5d62f6cebd3c26ca0cd8ae8c9c31",
+    "pixel_sha256": "cfe01f8d815e614b872180666776087c35e36615116743555c4292eb140b5e04",
+    "bbox_xyxy": [
+      840.0,
+      3100.0,
+      1236.0,
+      3508.0
+    ],
+    "yolo_xywh": [
+      0.34325396825396826,
+      0.8194444444444444,
+      0.13095238095238096,
+      0.10119047619047619
+    ],
+    "export_image_sha256": "1b2a85b3b2943071d2241e55c8a98f80bb2a8436a0ae0ff5cf4e1cd9035890e6",
+    "export_label_sha256": "68bf2bfae1d11e7346f83215b6c53bc0e7c79a4555cabea71f4a63a33277d1a1"
+  },
+  {
+    "source": "data/raw/session02_drug001/s02_drug001_front_001.jpg",
+    "annotation": "data/raw/session02_drug001/s02_drug001_front_001.json",
+    "split": "val",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "d1e206c07dc0e28f6726a578420dd2ebf3ef980117fbdb50eec3be81d8cb68eb",
+    "annotation_sha256": "41eee4671549a535bae96b61af30107c5ac0c7981c1618d105ffb0bc31b436d6",
+    "pixel_sha256": "ad0fc9ed90074f794b180253d9e842e52a8a6c653f031ee51200a6ad34ccb74a",
+    "bbox_xyxy": [
+      2352.0,
+      1160.0,
+      2756.0,
+      1556.0
+    ],
+    "yolo_xywh": [
+      0.8445767195767195,
+      0.3368055555555556,
+      0.1335978835978836,
+      0.09821428571428571
+    ],
+    "export_image_sha256": "d2664be201dc0b931860e248fe42371f7cba60bf67f32cb9f331c41d64b1ad2e",
+    "export_label_sha256": "dfcd357c02ace85ae23dbe3baa85638357b2733a0115185e7e4b06c36234d292"
+  },
+  {
+    "source": "data/raw/session02_drug001/s02_drug001_front_002.jpg",
+    "annotation": "data/raw/session02_drug001/s02_drug001_front_002.json",
+    "split": "val",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "a034b93ab475d9b06133fa38b8872f95132827d5f4d6e86f2419f42d447ac3fc",
+    "annotation_sha256": "5d6961bbcf321323ddd99d561e05638c3c901a97e0185ceb4c01dc068afec76c",
+    "pixel_sha256": "f4ea2d5a219ac107058308f83b8d57f1889bd4134b006067444db2478ec0c9c1",
+    "bbox_xyxy": [
+      288.0,
+      1180.0,
+      696.0,
+      1570.0
+    ],
+    "yolo_xywh": [
+      0.1626984126984127,
+      0.3410218253968254,
+      0.1349206349206349,
+      0.09672619047619048
+    ],
+    "export_image_sha256": "95bcdb0e910e47c7fe3c828303fa99c52c9cc81a8ac1f44e9788013582309253",
+    "export_label_sha256": "7f3b4f06635ce7c5f6251ba5c4e247a88b5e07e11dc8ae4aa8f58346ba369ca1"
+  },
+  {
+    "source": "data/raw/session02_drug001/s02_drug001_front_003.jpg",
+    "annotation": "data/raw/session02_drug001/s02_drug001_front_003.json",
+    "split": "val",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "65254f4c1ff7ba0aa3bd0d38624decd743e09c78dc00fdf3141c559f2fb570c5",
+    "annotation_sha256": "bbcae2875e9c7e10b8e537cd6e769a33e749ecf42af9c409d3627130a7fa8d80",
+    "pixel_sha256": "2a8da3369c9848a669acb34337ec08b882a8c63ca768fae01714fdafe02cd005",
+    "bbox_xyxy": [
+      274.0,
+      2422.0,
+      680.0,
+      2832.0
+    ],
+    "yolo_xywh": [
+      0.15773809523809523,
+      0.6515376984126984,
+      0.13425925925925927,
+      0.10168650793650794
+    ],
+    "export_image_sha256": "37d7356d50ba434d8d432d5dc8ddb2f82c067f8f628418330d786e36a8487a38",
+    "export_label_sha256": "78b03c80ace4a7672fbc73c3bf8ff7f781a43804d6e69d7c3a0ae8ba9ccb2cb2"
+  },
+  {
+    "source": "data/raw/session02_drug001/s02_drug001_front_004.jpg",
+    "annotation": "data/raw/session02_drug001/s02_drug001_front_004.json",
+    "split": "val",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "8efc7c8ccc72481cb87d5405b44ede34d631abb18e09d164a66b3c95e7dcd156",
+    "annotation_sha256": "599cfd5371ff2654ee74c98633b04a40b8b180e88d0ada34bc97365624de2f8f",
+    "pixel_sha256": "803ae461e775ab447af9b2850a999a83ece651496d2b2833b2b48f750aa0e315",
+    "bbox_xyxy": [
+      2212.0,
+      2502.0,
+      2614.0,
+      2918.0
+    ],
+    "yolo_xywh": [
+      0.7979497354497355,
+      0.6721230158730159,
+      0.13293650793650794,
+      0.10317460317460317
+    ],
+    "export_image_sha256": "653d9cd2bcda618b5358893af7d787d0fe1c8eaa302a9768b7c4f5536f7d1a5d",
+    "export_label_sha256": "76eee154b8e2d5a6085a97613bc899fefd15917bdc4ae774570202f8aaaf82ab"
+  },
+  {
+    "source": "data/raw/session02_drug001/s02_drug001_front_005.jpg",
+    "annotation": "data/raw/session02_drug001/s02_drug001_front_005.json",
+    "split": "val",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "f90eacc2d872cbf64eb52e67d83b404c19c5a50564cb43993240164e9faf7353",
+    "annotation_sha256": "777058b3acdce8f2b4b91d10f32f14fc8563a0e352a0c5cac7fb6ccab1a3588a",
+    "pixel_sha256": "256d3256a88bfe9965903ff1d16bd188f8aa2ecd6b56dea99574b8d13ec8d9e2",
+    "bbox_xyxy": [
+      782.0,
+      2960.0,
+      1176.0,
+      3380.0
+    ],
+    "yolo_xywh": [
+      0.3237433862433862,
+      0.7862103174603174,
+      0.1302910052910053,
+      0.10416666666666667
+    ],
+    "export_image_sha256": "03c01d48164592263afd5d9cd3cca45d961fe91f0fb95d7efaf7d4ef9b3a393c",
+    "export_label_sha256": "2d2dc9ab7bb47618fb2cc29d77c17205d2baa2c5680ed6934f8ae0a4e23054a1"
+  },
+  {
+    "source": "data/raw/session02_drug002/s02_drug002_back_001.jpg",
+    "annotation": "data/raw/session02_drug002/s02_drug002_back_001.json",
+    "split": "val",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "f49d1f00d441543e9d2be63720aa1e678179e69db6caa4da0e54037bc995245a",
+    "annotation_sha256": "116edff5a35c6c58f130cc13007a8e95f10b6809ae22ba4d1f615744a0d1e7d1",
+    "pixel_sha256": "b294c5a96aed7e26ce8bb59ab56f41dddb84edd5865827910db095a04765201a",
+    "bbox_xyxy": [
+      2342.0,
+      1180.0,
+      2628.0,
+      1460.0
+    ],
+    "yolo_xywh": [
+      0.8217592592592593,
+      0.3273809523809524,
+      0.09457671957671958,
+      0.06944444444444445
+    ],
+    "export_image_sha256": "4cf5da97ebb0a4de7cba0d086257e167296c1767c8e0c70754ccc419f99bcd5d",
+    "export_label_sha256": "d47b57b654b3a729625398229c307885a66df87fcc8a150e8ef77d97faa31115"
+  },
+  {
+    "source": "data/raw/session02_drug002/s02_drug002_back_002.jpg",
+    "annotation": "data/raw/session02_drug002/s02_drug002_back_002.json",
+    "split": "val",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "d4f34dc59d91cbc0f033e15d217004837284d1c317d2acffaa8566d146272d64",
+    "annotation_sha256": "ee7990458623755cf7f10d680092bf8aa7d4bb99eeb4a315a5784142ae24302e",
+    "pixel_sha256": "2f23e212f24ba88ac549ae5315d79a649f64e9c987033322c22b42b5db0ea52a",
+    "bbox_xyxy": [
+      442.0,
+      1100.0,
+      726.0,
+      1376.0
+    ],
+    "yolo_xywh": [
+      0.1931216931216931,
+      0.3070436507936508,
+      0.09391534391534391,
+      0.06845238095238096
+    ],
+    "export_image_sha256": "01e6681f53d5989122a71c90f264b22322f856c352f878549d619b5a6c011eb0",
+    "export_label_sha256": "5bed5bf144259ab8f5082f588943e85893520de238928f5decde31e35e0e9be8"
+  },
+  {
+    "source": "data/raw/session02_drug002/s02_drug002_back_003.jpg",
+    "annotation": "data/raw/session02_drug002/s02_drug002_back_003.json",
+    "split": "val",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "ba7d41d6a6855fcfb40b1f9efd9109a552c2e1c8d6df7e1f1598b3450181025c",
+    "annotation_sha256": "309b88153a77f280c9417f3a23cc00976bcd5c5bfa5beb4a9b02e9334418c020",
+    "pixel_sha256": "edbff61eb4e9520829f36b71c8c99d26848ea482e9564a752d6907bd37536c31",
+    "bbox_xyxy": [
+      600.0,
+      2540.0,
+      882.0,
+      2826.0
+    ],
+    "yolo_xywh": [
+      0.24503968253968253,
+      0.6654265873015873,
+      0.09325396825396826,
+      0.07093253968253968
+    ],
+    "export_image_sha256": "5351c1fc88b72ab5f118caf447e191edb5087ba6f29761697844d6c4e1ae84f5",
+    "export_label_sha256": "b22fb22bc0173e68b9f3e7d1c396103a4c8e10886d3bc6e583dd785ebeada5ad"
+  },
+  {
+    "source": "data/raw/session02_drug002/s02_drug002_back_004.jpg",
+    "annotation": "data/raw/session02_drug002/s02_drug002_back_004.json",
+    "split": "val",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "106149202c95c0420beb1158376bb7de597f4ddf8fa41a91d4e4386921d898c9",
+    "annotation_sha256": "202232567e9ba14b3ae8dc89b98f562fd307fe42c73d4645b6ddec9b07502d6a",
+    "pixel_sha256": "e6ef229b02da638198e8fb9a17fc8f4ab5a7d41eae95936aaea6d60533bd0a40",
+    "bbox_xyxy": [
+      2406.0,
+      2526.0,
+      2688.0,
+      2814.0
+    ],
+    "yolo_xywh": [
+      0.8422619047619048,
+      0.6622023809523809,
+      0.09325396825396826,
+      0.07142857142857142
+    ],
+    "export_image_sha256": "a76bc92e034ff19befc9783c1adad4177167a612a4cbe074889b7aa4fcf0a161",
+    "export_label_sha256": "97c18dde470740582e4081929079183c12f0a1ec05cddbdc2a297eb6dabc87f1"
+  },
+  {
+    "source": "data/raw/session02_drug002/s02_drug002_back_005.jpg",
+    "annotation": "data/raw/session02_drug002/s02_drug002_back_005.json",
+    "split": "val",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b21bb13aa8a280b6a029f07f4595ff72579b9857e5a891270f57fa9a5207b4d7",
+    "annotation_sha256": "6fa46d24165bc79c67054f1a939298c0d87a4de382b3bb3c3c956833b652c989",
+    "pixel_sha256": "333b5378f08eb181fc3ca885e6f07dcc539f4aa2cdec5c07ded29b48127e17dc",
+    "bbox_xyxy": [
+      784.0,
+      3104.0,
+      1064.0,
+      3390.0
+    ],
+    "yolo_xywh": [
+      0.3055555555555556,
+      0.8053075396825397,
+      0.09259259259259259,
+      0.07093253968253968
+    ],
+    "export_image_sha256": "571e31af669e2b720ca6185b72cd5a223b9df6a061fb39fda7cf0341a61f0c6f",
+    "export_label_sha256": "ee4c523fbc07e544839651426aee22a824caa645b6cda4383983669d9602b0f5"
+  },
+  {
+    "source": "data/raw/session02_drug002/s02_drug002_front_001.jpg",
+    "annotation": "data/raw/session02_drug002/s02_drug002_front_001.json",
+    "split": "val",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "d89880f54305674203dd26de9a10ecdde878c1bb72cdf799b3fb8ffe6acb7e54",
+    "annotation_sha256": "5724758f031eb44bc1d2c814824f8ba5bd7f2b10530002d97845e7ec92607781",
+    "pixel_sha256": "96d5ca8ddf69bb3818602b1d5edf971942bb6e40423cc7487e73c4e5bb097c73",
+    "bbox_xyxy": [
+      2292.0,
+      1230.0,
+      2570.0,
+      1510.0
+    ],
+    "yolo_xywh": [
+      0.8039021164021164,
+      0.33978174603174605,
+      0.09193121693121693,
+      0.06944444444444445
+    ],
+    "export_image_sha256": "654b9e27bce4be44b7645a569a610f08481a63f54dc7bf78425e1c76e267c275",
+    "export_label_sha256": "52d9a3c599d6899f28a94eabcb71d9e76e6da232548edce94eae81e67a33bf04"
+  },
+  {
+    "source": "data/raw/session02_drug002/s02_drug002_front_002.jpg",
+    "annotation": "data/raw/session02_drug002/s02_drug002_front_002.json",
+    "split": "val",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b2ffcf84150bf464be9a65536bb1f85625fa922452135a7d75538ef84bf0b676",
+    "annotation_sha256": "54f16bea75cc65f51cf2922756a0a1b09100dee5a1b59d15376cbb153dfa150d",
+    "pixel_sha256": "63f083e3176d0197820bbe94a458893d622fbafaa481f486fc05cc8efab808e2",
+    "bbox_xyxy": [
+      490.0,
+      1230.0,
+      776.0,
+      1510.0
+    ],
+    "yolo_xywh": [
+      0.20932539682539683,
+      0.33978174603174605,
+      0.09457671957671958,
+      0.06944444444444445
+    ],
+    "export_image_sha256": "834de5da972d30252214aa19ab78e3094bfb2c3c0992f4e6cf247133c1d19856",
+    "export_label_sha256": "d56ae66a75c633f9fa099e968e8ff1092caeba71006f28894e6204fe25507e70"
+  },
+  {
+    "source": "data/raw/session02_drug002/s02_drug002_front_003.jpg",
+    "annotation": "data/raw/session02_drug002/s02_drug002_front_003.json",
+    "split": "val",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b569b20cf284fe95b7a3e48a812012a3b502af498b883333e0b4258f3da0a412",
+    "annotation_sha256": "b3943b6a50da12b035623710e3faca56fb0d697411c2bcd7a4d74d5526288f7d",
+    "pixel_sha256": "d1398f2d1ad971ada15647bea5bf513c1e0c00a125dc999d19b5d803f1cad1bc",
+    "bbox_xyxy": [
+      346.0,
+      2668.0,
+      630.0,
+      2944.0
+    ],
+    "yolo_xywh": [
+      0.16137566137566137,
+      0.6959325396825397,
+      0.09391534391534391,
+      0.06845238095238096
+    ],
+    "export_image_sha256": "6b52401ad06171f625a55783e08768ac925b10fb5dae987111eec98bb4c2c0d3",
+    "export_label_sha256": "acb722e430a98db8a07ee3ad7001fb7f0802e02653813386161dd2e2d9cb81d6"
+  },
+  {
+    "source": "data/raw/session02_drug002/s02_drug002_front_004.jpg",
+    "annotation": "data/raw/session02_drug002/s02_drug002_front_004.json",
+    "split": "val",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b05b69ed11d7d508bbb17065cae56eca1d9b4515fd792b719683c3cac16e1dd3",
+    "annotation_sha256": "b18d2fd9e76648d383eebd0915048f7be29bb2cd6f35039737647524c4a919f1",
+    "pixel_sha256": "270a2fa5d8f95435979f1ff4d57a7b7692addb1b19e236bf746456b819144247",
+    "bbox_xyxy": [
+      2180.0,
+      2552.0,
+      2458.0,
+      2834.0
+    ],
+    "yolo_xywh": [
+      0.7668650793650794,
+      0.667906746031746,
+      0.09193121693121693,
+      0.06994047619047619
+    ],
+    "export_image_sha256": "e98e78af242a29d67b1d22fff56b54cebbc35722d293ed0ba44c3357ea63a9be",
+    "export_label_sha256": "205723cf890b772f8c77a8a2402db3f401a9edf7972bb64bd72b0952eaae1d16"
+  },
+  {
+    "source": "data/raw/session02_drug002/s02_drug002_front_005.jpg",
+    "annotation": "data/raw/session02_drug002/s02_drug002_front_005.json",
+    "split": "val",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "af454da39bc507dd24a461ca02bcda2bb1c1428ddb8af9c66862c6af1c70f9ed",
+    "annotation_sha256": "4826d5985e1c9b8789ee51ab6cf56e45e38cb3feb0fab211d6d077c7fe41b6c9",
+    "pixel_sha256": "8801965e975b9c19d6b256ccbc4053587d52e0c5f5df8ceafae815fd856d421a",
+    "bbox_xyxy": [
+      922.0,
+      3264.0,
+      1192.0,
+      3548.0
+    ],
+    "yolo_xywh": [
+      0.34953703703703703,
+      0.8447420634920635,
+      0.08928571428571429,
+      0.07043650793650794
+    ],
+    "export_image_sha256": "cdbc9de7f183d28b0fcff5af5cf0920a2e15acc0d600cdbc6786536a6c8bbd84",
+    "export_label_sha256": "fb48d6eddd6397a88c1557265ee046bcb6c57cd18fec453ca76865acc259c8b8"
+  },
+  {
+    "source": "data/raw/session02_drug003/s02_drug003_back_001.jpg",
+    "annotation": "data/raw/session02_drug003/s02_drug003_back_001.json",
+    "split": "val",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "2ea4f31a74778026d73e1cf8088dd70672d8d0688440394fa890b82468a812e9",
+    "annotation_sha256": "735709b048fb306fb5fac4fafe445333957229e2f69c197adcb25c3620b6a7b5",
+    "pixel_sha256": "8fd024748d9c3e88d87167c27e5759df59839e84abdf120cb1fec381f095913e",
+    "bbox_xyxy": [
+      2210.0,
+      1038.0,
+      2774.0,
+      1650.0
+    ],
+    "yolo_xywh": [
+      0.8240740740740741,
+      0.3333333333333333,
+      0.1865079365079365,
+      0.15178571428571427
+    ],
+    "export_image_sha256": "5880f758935f1f1d81ede28c14bb1bc9b0bf2c022faba98d4400434743bb4496",
+    "export_label_sha256": "b62e79255e364860c9fe7b7037eb8a6faa1e8f03a4ba776dd72b271e4f3569fe"
+  },
+  {
+    "source": "data/raw/session02_drug003/s02_drug003_back_002.jpg",
+    "annotation": "data/raw/session02_drug003/s02_drug003_back_002.json",
+    "split": "val",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "2188c3a9f81bab7ead484abbe7346f635007f3f4fa555eb8da0e87086c58bb71",
+    "annotation_sha256": "274425c2b030ef9422a941ffe6a28f2edb517b381a7d297ac8bf1731f439c433",
+    "pixel_sha256": "79622179f650ae393e3dffc0a0980ec72c779b47cc3f6b7f5261af8fa74df012",
+    "bbox_xyxy": [
+      308.0,
+      1038.0,
+      894.0,
+      1630.0
+    ],
+    "yolo_xywh": [
+      0.19874338624338625,
+      0.3308531746031746,
+      0.19378306878306878,
+      0.14682539682539683
+    ],
+    "export_image_sha256": "f322caf5fd42ba3fe6ffadb6b32f0f4701cf3f2d5818719ea7da2a5517a38274",
+    "export_label_sha256": "fb5884613dbb96351f90008af8e03cbc2c5e62705dc8e0558d4c3b4608b1ecd5"
+  },
+  {
+    "source": "data/raw/session02_drug003/s02_drug003_back_003.jpg",
+    "annotation": "data/raw/session02_drug003/s02_drug003_back_003.json",
+    "split": "val",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "dedee41d6a0497de2aededabaa5b3f5df9c47ba4b96ba585ad08e2672bfde99b",
+    "annotation_sha256": "e5d30fc8160d9c912d2c4e0c8b1cda90b9c702fbb90b2c8e7581cce0db9f173e",
+    "pixel_sha256": "35b60ecc3a94a8c6a9b67548e92076c3ba40594ee7c4cf8d384750ac963fec9c",
+    "bbox_xyxy": [
+      220.0,
+      2480.0,
+      908.0,
+      2910.0
+    ],
+    "yolo_xywh": [
+      0.1865079365079365,
+      0.6684027777777778,
+      0.2275132275132275,
+      0.10664682539682539
+    ],
+    "export_image_sha256": "caf8470f447a9568037eaf502fd806faa26ba5d2b124dd2c6d115360e010d3eb",
+    "export_label_sha256": "528d8fc3dfb63dc7dc889a325593438dd50af5ac86a79a38f5e25e8a06b018e0"
+  },
+  {
+    "source": "data/raw/session02_drug003/s02_drug003_back_004.jpg",
+    "annotation": "data/raw/session02_drug003/s02_drug003_back_004.json",
+    "split": "val",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "288fe6dcd74cea10c9706e98771742c79bb31b56f58c60021d70d2ae513add64",
+    "annotation_sha256": "373594e2d5f04b04069a458893b22a9ff586171e6beaebf7a97f5782abb9ad81",
+    "pixel_sha256": "6fa43a206d58ca9d94bb45997e9bf34083b5aeabcf899251d9372285b2727a14",
+    "bbox_xyxy": [
+      2294.0,
+      2236.0,
+      2764.0,
+      2924.0
+    ],
+    "yolo_xywh": [
+      0.8363095238095238,
+      0.6398809523809523,
+      0.15542328042328044,
+      0.17063492063492064
+    ],
+    "export_image_sha256": "44b4495d06d2783ad92b093c9cca027570c8b6dd55009d68e0ab90303f564edb",
+    "export_label_sha256": "ef7190eb980b93e3410e02ff3ce33d90593cd9bca943bb9352bd53b3727ebc90"
+  },
+  {
+    "source": "data/raw/session02_drug003/s02_drug003_back_005.jpg",
+    "annotation": "data/raw/session02_drug003/s02_drug003_back_005.json",
+    "split": "val",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "ec30fd376cecf3cd712e2e3fe86dd9e8ade87344bb1db3cc90a0b5da2acaa1f5",
+    "annotation_sha256": "2521ccef63a6b284520bbd81db5e179c1df45a867f33cfad097ffac198106503",
+    "pixel_sha256": "a9995686403f66879eb76989528fa0fbbbf0aa9c2a40a7d76c720ca763f98a35",
+    "bbox_xyxy": [
+      694.0,
+      2964.0,
+      1272.0,
+      3566.0
+    ],
+    "yolo_xywh": [
+      0.32506613756613756,
+      0.8097718253968254,
+      0.19113756613756613,
+      0.14930555555555555
+    ],
+    "export_image_sha256": "0c46da5f9a635d6b2902925590b52c157e508175d901f24af700f9465bb3ef3d",
+    "export_label_sha256": "0b65d3da95924d5c1c1078de0b006f3928f03c68ca4137d12f780749f0b5d9e0"
+  },
+  {
+    "source": "data/raw/session02_drug003/s02_drug003_front_001.jpg",
+    "annotation": "data/raw/session02_drug003/s02_drug003_front_001.json",
+    "split": "val",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "fadce99af006ff88ffc94b345ee764874ec22f0579c670bb1c63fc088ebbc676",
+    "annotation_sha256": "0ba9280b35fbb209bb516430b48258785728108aafcdd7060ca342ddbd393df6",
+    "pixel_sha256": "958702872178aedd013a250eae27e38c5b1338e68584cc651755b1778e6dbf37",
+    "bbox_xyxy": [
+      2278.0,
+      1026.0,
+      2778.0,
+      1678.0
+    ],
+    "yolo_xywh": [
+      0.8359788359788359,
+      0.3353174603174603,
+      0.16534391534391535,
+      0.16170634920634921
+    ],
+    "export_image_sha256": "43c2371fa32440d00508727addaf2b257068f3575fd74b8d741f6998c23f94e2",
+    "export_label_sha256": "73f5e3fcbcffcb473158d4704683084058ced1ecabe6bf7f05e9db95be28274b"
+  },
+  {
+    "source": "data/raw/session02_drug003/s02_drug003_front_002.jpg",
+    "annotation": "data/raw/session02_drug003/s02_drug003_front_002.json",
+    "split": "val",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "6e7914b175bcb75f6209c2a01dffa70b63679e165b4cd328304e1780ff5fdee9",
+    "annotation_sha256": "5a56d3989944f47a1117db2ba3bab8a7041535e711e84d78544c028037023015",
+    "pixel_sha256": "3f1a2a16eeda50c50328472b464b37520f0c457b17118eb48ec2dfa8dd301f8f",
+    "bbox_xyxy": [
+      326.0,
+      1088.0,
+      796.0,
+      1752.0
+    ],
+    "yolo_xywh": [
+      0.18551587301587302,
+      0.3521825396825397,
+      0.15542328042328044,
+      0.16468253968253968
+    ],
+    "export_image_sha256": "21767263ce3f433203c7c9e6310729c74f56e52a861fd1121013791af894da1e",
+    "export_label_sha256": "1b2e61448326a7d30bbd2522e86d8a6c36f81a144008ffc950cab2ce0bd67227"
+  },
+  {
+    "source": "data/raw/session02_drug003/s02_drug003_front_003.jpg",
+    "annotation": "data/raw/session02_drug003/s02_drug003_front_003.json",
+    "split": "val",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "93f9c5d8481c54317d8e5063c80774160f650b8cdce0a0132b9ab598c94cec6f",
+    "annotation_sha256": "e022a19b2acbe6c87335ddea6f7f272266181f82d18057797f3cfd6a4943dbfb",
+    "pixel_sha256": "d4cb3eb3f81979b518c85d4880075224cc3c26121b17d31804a105375b2d2fc0",
+    "bbox_xyxy": [
+      278.0,
+      2378.0,
+      922.0,
+      2912.0
+    ],
+    "yolo_xywh": [
+      0.1984126984126984,
+      0.6560019841269841,
+      0.21296296296296297,
+      0.1324404761904762
+    ],
+    "export_image_sha256": "c4afe2e4281c4cc9bb10adbfaf252d6534776b97db48c78d6d39aa2de0e2f381",
+    "export_label_sha256": "f158d393b2bbdae8884eb5cefef132b687ab2cbaf14e33abb6ec92a8f4fdbb76"
+  },
+  {
+    "source": "data/raw/session02_drug003/s02_drug003_front_004.jpg",
+    "annotation": "data/raw/session02_drug003/s02_drug003_front_004.json",
+    "split": "val",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "105e88ba15171da87305493c36f5b1608e70d7538718bb8664581530b527d9f8",
+    "annotation_sha256": "8333c62f1336d9a5b9f584211558debfbe4e9d58ea151bbe468d6f364608eb84",
+    "pixel_sha256": "e33b464037b7d92f5e9a36f702c89be9a42a6b3ff2be62e623d2ecf707351c39",
+    "bbox_xyxy": [
+      2328.0,
+      2242.0,
+      2690.0,
+      2958.0
+    ],
+    "yolo_xywh": [
+      0.8296957671957672,
+      0.6448412698412699,
+      0.11970899470899471,
+      0.1775793650793651
+    ],
+    "export_image_sha256": "4497ed48ca3c49637c3322da852ba6d57ffc0e8c07c3c60b545798474dce7dcb",
+    "export_label_sha256": "8b27598114e5309565ca32f124e3a97015926c9344460a1e708352a65e67cb0a"
+  },
+  {
+    "source": "data/raw/session02_drug003/s02_drug003_front_005.jpg",
+    "annotation": "data/raw/session02_drug003/s02_drug003_front_005.json",
+    "split": "val",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "cd346c0e89812e3b8435a7e114c089a977f421d3877521070419c06e8b2e3631",
+    "annotation_sha256": "39dd2fafb3b1d3316bdf9138d09ced7014f378212743696e6946a23e8d2a3daa",
+    "pixel_sha256": "be52c0cde2b8722423bb845d2091d9446ca809cd68a6908cdf0949a0f3a11c46",
+    "bbox_xyxy": [
+      726.0,
+      2894.0,
+      1248.0,
+      3544.0
+    ],
+    "yolo_xywh": [
+      0.3263888888888889,
+      0.7983630952380952,
+      0.17261904761904762,
+      0.16121031746031747
+    ],
+    "export_image_sha256": "6d263e65d5ccb9f7b4a9ce73a847b4ec181c4278041611647c66899cf91da24f",
+    "export_label_sha256": "2c5827bbd63389fd364fc4ac887462e5b89f47c512996768fb723e5f2a69dc46"
+  },
+  {
+    "source": "data/raw/session02_drug004/s02_drug004_view_001.jpg",
+    "annotation": "data/raw/session02_drug004/s02_drug004_view_001.json",
+    "split": "val",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "c7a955f8e73cd853158478799b7b4869ad2d0ec1d4e3ceb1e0b30659c56b2fee",
+    "annotation_sha256": "4f3282154b1b13fc89e3f911d0eedb9673ffe15049d36a3d45897061e1948428",
+    "pixel_sha256": "8290b1fe17ba6bc7aa70d8fb92603651798b8dfd1f39fe9c46d731832078cc39",
+    "bbox_xyxy": [
+      2328.0,
+      1032.0,
+      2844.0,
+      1494.0
+    ],
+    "yolo_xywh": [
+      0.8551587301587301,
+      0.3132440476190476,
+      0.17063492063492064,
+      0.11458333333333333
+    ],
+    "export_image_sha256": "0c386648df8efb8b9612ff5b8c61307ee5a24c97d29d08a074056cc26468d97c",
+    "export_label_sha256": "a3cd9d8e329964ee5d6c742d54f48ffcfa07320349f89807562b3829ad6948d8"
+  },
+  {
+    "source": "data/raw/session02_drug004/s02_drug004_view_002.jpg",
+    "annotation": "data/raw/session02_drug004/s02_drug004_view_002.json",
+    "split": "val",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "422eeaa522ae5418e683a265ccdcda53067bbd54cbc28c71ee4bc278038a1a3f",
+    "annotation_sha256": "41b773d59ae23c005f48556521331d889a604e0ea46af9430c3890ce46ce0641",
+    "pixel_sha256": "a3588c1997361024b1b49f55e4d91e6d11375a43b89bac04f808c8e3a8b1042b",
+    "bbox_xyxy": [
+      294.0,
+      1242.0,
+      858.0,
+      1638.0
+    ],
+    "yolo_xywh": [
+      0.19047619047619047,
+      0.35714285714285715,
+      0.1865079365079365,
+      0.09821428571428571
+    ],
+    "export_image_sha256": "7ad26186288aad40f0802d29e5048123ea9eeb811cd0a636110ea04935123005",
+    "export_label_sha256": "fbcf71da82a25e7c0061c06eeddb1cb5d7041c485b73c996ea4a921254a47ba1"
+  },
+  {
+    "source": "data/raw/session02_drug004/s02_drug004_view_003.jpg",
+    "annotation": "data/raw/session02_drug004/s02_drug004_view_003.json",
+    "split": "val",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "af6223558e7278ea5fc2340d41c51fabd4bf56d8b0e65afdd3c6f72492a2f746",
+    "annotation_sha256": "33d4c688448173213fbd102d18e99f07e6ba47b16fadfb483dece63673feda63",
+    "pixel_sha256": "199067bf554d8f7a6556367427f56db6333b1849acb06aaced5c0b83c30dedae",
+    "bbox_xyxy": [
+      496.0,
+      2152.0,
+      986.0,
+      2636.0
+    ],
+    "yolo_xywh": [
+      0.24503968253968253,
+      0.59375,
+      0.16203703703703703,
+      0.12003968253968254
+    ],
+    "export_image_sha256": "8851d9f8ceaa65a10774a1987b19f2036627eb0550af614ec45dab3d43b97569",
+    "export_label_sha256": "456921e581a4f6eac0bb041bfae785b03736996f911dbe3ec28dd17524c70ccc"
+  },
+  {
+    "source": "data/raw/session02_drug004/s02_drug004_view_004.jpg",
+    "annotation": "data/raw/session02_drug004/s02_drug004_view_004.json",
+    "split": "val",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "905b65e0cb69a5d942df41b9f459b462a9b737ff247e37d612d6f4ec65398833",
+    "annotation_sha256": "0c132456c8ab673037a8c7819b6b6c8c2de914cea6a1dcdc8ebd9e8fedbd9239",
+    "pixel_sha256": "c32765dbb3c30770dc5ad0b558403177cf91fa61ac909caab11843df804cfec5",
+    "bbox_xyxy": [
+      2150.0,
+      2298.0,
+      2448.0,
+      2886.0
+    ],
+    "yolo_xywh": [
+      0.7602513227513228,
+      0.6428571428571429,
+      0.09854497354497355,
+      0.14583333333333334
+    ],
+    "export_image_sha256": "8f49634c123cd85b12a63d26c88c229467077eb4263567b12846544ae00d676c",
+    "export_label_sha256": "1a26e4df55afe3134dba6ac2728e5a8d2e847fa9f746fcbc162adbc73b875563"
+  },
+  {
+    "source": "data/raw/session02_drug004/s02_drug004_view_005.jpg",
+    "annotation": "data/raw/session02_drug004/s02_drug004_view_005.json",
+    "split": "val",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "16f24814a8397d8038ed43b1b529fbcb05b19cfbab5ccc08bc448523a46db20d",
+    "annotation_sha256": "2a7801db20bfc45cc13de0907debe8b64038edfa4bd468daac90eaa50ea7bcaf",
+    "pixel_sha256": "e7a4a68f6a5a724fb6de34eb12bf7ed84c6a153bce22ab3beea3ea112d3cb229",
+    "bbox_xyxy": [
+      758.0,
+      2748.0,
+      1052.0,
+      3338.0
+    ],
+    "yolo_xywh": [
+      0.29927248677248675,
+      0.7547123015873016,
+      0.09722222222222222,
+      0.1463293650793651
+    ],
+    "export_image_sha256": "62910fc7a2fdb127341e8b57e3ebc812ca954146f642766895a65b3ed012f285",
+    "export_label_sha256": "236e1004ad3344cd0a46795b0fff1a43ad7b5c41d58302e48f6575a0358cf09c"
+  },
+  {
+    "source": "data/raw/session02_drug004/s02_drug004_view_006.jpg",
+    "annotation": "data/raw/session02_drug004/s02_drug004_view_006.json",
+    "split": "val",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "5aa9f5ed72ec7ad982ef25d37071b55b59b0c62989ab4c5449ca936b5fbf77cb",
+    "annotation_sha256": "c4f719cda309b0ef1cd444774e9b7e33b5c366d4dc8eb88f4fb829ab96f219af",
+    "pixel_sha256": "283ba07c9ab03f9a2c63ec9a6b247ddd63db96e9f7cb176f03874ab3de9bb95b",
+    "bbox_xyxy": [
+      2356.0,
+      3320.0,
+      2958.0,
+      3586.0
+    ],
+    "yolo_xywh": [
+      0.8786375661375662,
+      0.8563988095238095,
+      0.19907407407407407,
+      0.06597222222222222
+    ],
+    "export_image_sha256": "d5ce2f3328dc74071b00355af0ad908a28f72c2f11812f730396abfc22dc4bb3",
+    "export_label_sha256": "5808921bd1cf704853f6295464880024cbbe3b8cf03ae5604ca7c66eababbfa0"
+  },
+  {
+    "source": "data/raw/session02_drug004/s02_drug004_view_007.jpg",
+    "annotation": "data/raw/session02_drug004/s02_drug004_view_007.json",
+    "split": "val",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "ba44bd1837c9d1a39299c6b1fa29cdf2db6a8f4da77585b90d6ef93e1e32b512",
+    "annotation_sha256": "2344b122d91728cc2d1508388efe69dac33835e8bf8cc941184753f91505ec0a",
+    "pixel_sha256": "391ad22f02ffb84eee3bcee0c365fe17538fd64701f584ab8508cbbdd036b8c1",
+    "bbox_xyxy": [
+      78.0,
+      1814.0,
+      350.0,
+      2410.0
+    ],
+    "yolo_xywh": [
+      0.07076719576719577,
+      0.5238095238095238,
+      0.08994708994708994,
+      0.14781746031746032
+    ],
+    "export_image_sha256": "509ea11733262168182f2ec63c9681940e293ce73b0dd76ac68b562dd1fd319c",
+    "export_label_sha256": "e586b3901b4765762890d42898be7d7602e8a2e365e3489daf32baf73fc37c97"
+  },
+  {
+    "source": "data/raw/session02_drug004/s02_drug004_view_008.jpg",
+    "annotation": "data/raw/session02_drug004/s02_drug004_view_008.json",
+    "split": "val",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "898fe967cbca0f3a7e9cf132d383a2d64bbc27a0e7a98c3c642ce5b9da5956e9",
+    "annotation_sha256": "3de2c7e14ff5e6b0356286ff3d1c691e9a92fe700ed69a284c540d538d12f18f",
+    "pixel_sha256": "e6cc0abac35051a454c3cacf1f249d71ad61fe328d0aeca630c749184c574d1b",
+    "bbox_xyxy": [
+      900.0,
+      2774.0,
+      1322.0,
+      3314.0
+    ],
+    "yolo_xywh": [
+      0.3673941798941799,
+      0.7549603174603174,
+      0.13955026455026456,
+      0.13392857142857142
+    ],
+    "export_image_sha256": "36c4fab70ad20f42265277eb67ea07f85e8ed7c886d6dee7234008bdc09d0b2a",
+    "export_label_sha256": "d19d41694042062985e2429c8aa2d6d853397789df4894a860a903cac895322e"
+  },
+  {
+    "source": "data/raw/session02_drug004/s02_drug004_view_009.jpg",
+    "annotation": "data/raw/session02_drug004/s02_drug004_view_009.json",
+    "split": "val",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "41ed88f6cc3201c35e0cc91f2f795eb352cebd66b6ff9b1f2403d768549de59b",
+    "annotation_sha256": "ee5a829254b9653556fabb57e2f362ebc04db4228e3f0678e8981618373a1928",
+    "pixel_sha256": "bf3816d04f81830e0069fb5a60c3cc5c7c0c1db0698f8043546870eb6220de10",
+    "bbox_xyxy": [
+      1818.0,
+      950.0,
+      2356.0,
+      1390.0
+    ],
+    "yolo_xywh": [
+      0.6901455026455027,
+      0.29017857142857145,
+      0.1779100529100529,
+      0.10912698412698413
+    ],
+    "export_image_sha256": "ccc26520a19865314cba56d86cc5524136ce82a11767d7ce8fb22a614010c54c",
+    "export_label_sha256": "1ce987c3914e4795a9d3f302059b7219e201e5ac736af8937c1359552a7990bf"
+  },
+  {
+    "source": "data/raw/session02_drug004/s02_drug004_view_010.jpg",
+    "annotation": "data/raw/session02_drug004/s02_drug004_view_010.json",
+    "split": "val",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "971ef8ff4eae32b86dd513d9c63f6a4239c3504b53f0b769b8653f7dce5b2a9d",
+    "annotation_sha256": "392120e04ed59487bf01bc837a7a44880ee7ef1cebb0f0dde1cf794bc8ae7f23",
+    "pixel_sha256": "7e939a6384ddca5ac20eccb135118803a38bc8efa0c01e5a043abaffd9b7b573",
+    "bbox_xyxy": [
+      652.0,
+      824.0,
+      882.0,
+      1426.0
+    ],
+    "yolo_xywh": [
+      0.25363756613756616,
+      0.27901785714285715,
+      0.07605820105820106,
+      0.14930555555555555
+    ],
+    "export_image_sha256": "d194312edd2a7c417193ea1f293422ae5798dbbb637303aa3ed439cf06c76c65",
+    "export_label_sha256": "a2d7d11b40f3d1c77590b352ea4708334b10fb7efbc6174778b84995be13044c"
+  },
+  {
+    "source": "data/raw/session03_drug001/s03_drug001_back_001.jpg",
+    "annotation": "data/raw/session03_drug001/s03_drug001_back_001.json",
+    "split": "test",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "537675979835d750f86236b48cb9cea33db6f0272d06822aa581af550a8084a3",
+    "annotation_sha256": "3cc85a1dd636c872082ccbd790c4e2419297b8fa45be372f16f6711b8989b0f7",
+    "pixel_sha256": "19f550fdf92b4426c073b024d81463ed2bc59417c4531844b466f046e23de492",
+    "bbox_xyxy": [
+      1082.0,
+      1544.0,
+      1454.0,
+      1918.0
+    ],
+    "yolo_xywh": [
+      0.4193121693121693,
+      0.42931547619047616,
+      0.12301587301587301,
+      0.09275793650793651
+    ],
+    "export_image_sha256": "32a6216262c0c3ed3ea9efd9326e2bebf2cdf00c203dd20f86a7aaae01621de8",
+    "export_label_sha256": "75b9122722b6e00c087cb7027cb346a98e56a9c520a5a9fc7404ffb6c2d0ca72"
+  },
+  {
+    "source": "data/raw/session03_drug001/s03_drug001_back_002.jpg",
+    "annotation": "data/raw/session03_drug001/s03_drug001_back_002.json",
+    "split": "test",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "1aaefc1401a722d4ae8da2862315a4d73ad4db13aec93a2add4933b548ba6124",
+    "annotation_sha256": "5006aa4092679262c566ad3a1e65097ebd06bc73b99009c83355f6843eb50315",
+    "pixel_sha256": "c2e8d2f981dd068fbb19976f25292d93f6254137e543f7c08ff7008b651558d9",
+    "bbox_xyxy": [
+      54.0,
+      1810.0,
+      448.0,
+      2186.0
+    ],
+    "yolo_xywh": [
+      0.08300264550264551,
+      0.4955357142857143,
+      0.1302910052910053,
+      0.09325396825396826
+    ],
+    "export_image_sha256": "d5d26800d5df5ba2429e190693061723357135fcbc2e7669ab917f0f7df1bfe5",
+    "export_label_sha256": "12cf64c9852c69878c77dac157e012547775e46c9330ba28b17c43c7cd74e268"
+  },
+  {
+    "source": "data/raw/session03_drug001/s03_drug001_back_003.jpg",
+    "annotation": "data/raw/session03_drug001/s03_drug001_back_003.json",
+    "split": "test",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "9b9aa35b8305d96286c56c649efdb9819d3284edfd5a4690a274507776fec814",
+    "annotation_sha256": "b39b2ca9872e47e3fd49dd7ca4b4127fcd32fc9748e1c999d1bacaf1d12c0b78",
+    "pixel_sha256": "6aaeea25e3e8e69925ce834c33d8827fc2c36726ad0bd409f09af7994c8dd2dd",
+    "bbox_xyxy": [
+      2574.0,
+      1798.0,
+      2966.0,
+      2170.0
+    ],
+    "yolo_xywh": [
+      0.916005291005291,
+      0.49206349206349204,
+      0.12962962962962962,
+      0.09226190476190477
+    ],
+    "export_image_sha256": "e34797c917ed14c7903cec3be485c52334eca8ab36383a6a6767b044574cf8dc",
+    "export_label_sha256": "2357d744e84b0f430aeb61459b826105a26c0be1d33bf9478a66f3b2d97ffe47"
+  },
+  {
+    "source": "data/raw/session03_drug001/s03_drug001_back_004.jpg",
+    "annotation": "data/raw/session03_drug001/s03_drug001_back_004.json",
+    "split": "test",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b7e20941512ace31336130e5d96896fd8c898aaf631ab4933af91bb96da2e817",
+    "annotation_sha256": "296c776f002288dea0aabb1a3fa513d9af213f859b300be8a17bb934244d086f",
+    "pixel_sha256": "bb199751f26f5950abe0f8e6b0ea18cb691e9f941c2c80a121401a7793e75740",
+    "bbox_xyxy": [
+      1446.0,
+      3500.0,
+      1820.0,
+      3918.0
+    ],
+    "yolo_xywh": [
+      0.5400132275132276,
+      0.919890873015873,
+      0.12367724867724868,
+      0.10367063492063493
+    ],
+    "export_image_sha256": "57d1da81050f907e6087c576e5cff1206a531956354552550cb4a5ad4771a039",
+    "export_label_sha256": "1fdc73b77890980e06cb3855dea2759d631d49e61e3ec6905eeb209fcc7624a9"
+  },
+  {
+    "source": "data/raw/session03_drug001/s03_drug001_back_005.jpg",
+    "annotation": "data/raw/session03_drug001/s03_drug001_back_005.json",
+    "split": "test",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "c54aed7e613e0658a78fd639b915d5df3db2e9ce3343648fbe502233443341ac",
+    "annotation_sha256": "7573630aeddd4c3be7af97a0458ec73fa72fb8b8c28cf2e351156b94b3641e52",
+    "pixel_sha256": "ec927b22a018844b70d4533ee2f63dff8f15be08a73450e74519c65a07424888",
+    "bbox_xyxy": [
+      1490.0,
+      320.0,
+      1866.0,
+      716.0
+    ],
+    "yolo_xywh": [
+      0.5548941798941799,
+      0.1284722222222222,
+      0.12433862433862433,
+      0.09821428571428571
+    ],
+    "export_image_sha256": "f06acd0e8635eba2a5ad8d041f0c3a28d44721a34995da446558394b6fe34228",
+    "export_label_sha256": "2bc89f854d70d1c843a156ff046b62cbe12734c74db46ff30b11635010e704db"
+  },
+  {
+    "source": "data/raw/session03_drug001/s03_drug001_front_001.jpg",
+    "annotation": "data/raw/session03_drug001/s03_drug001_front_001.json",
+    "split": "test",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "e90e63afcc16cbe203fb0cc2755e60e3a3ed50d18c09ecb30fc86d9b9b30dddb",
+    "annotation_sha256": "edc4d760d43ab0530df19d2ac565a49a207c08446d80664783e1f3191b76fddb",
+    "pixel_sha256": "fa87f906178ea9499c8ecbd60ebb31506336e3e8dd692b87135df3508551ed8e",
+    "bbox_xyxy": [
+      1314.0,
+      1844.0,
+      1688.0,
+      2218.0
+    ],
+    "yolo_xywh": [
+      0.49636243386243384,
+      0.5037202380952381,
+      0.12367724867724868,
+      0.09275793650793651
+    ],
+    "export_image_sha256": "99d56fb544c7180f3ef154877bbd076a3e4a96e6ff8172a7ced93a47344449d0",
+    "export_label_sha256": "5739d5301214c8fd4a12e1e75c1901f5004a264250f96fd7a7deb799b08cad9b"
+  },
+  {
+    "source": "data/raw/session03_drug001/s03_drug001_front_002.jpg",
+    "annotation": "data/raw/session03_drug001/s03_drug001_front_002.json",
+    "split": "test",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "425e374cff6d64a48d60d54b3d253aef07541abd10b9420b03420d2c6f5947fd",
+    "annotation_sha256": "481068678ea838bfd5dae02e589bc0d5c3e83b58428b9cffba56decbdfcc6267",
+    "pixel_sha256": "f7a9eaddea0fba31d967324f781ee0c14e51e112b7a3a1f3890553b2661e71e6",
+    "bbox_xyxy": [
+      159.22222222222217,
+      1933.7777777777778,
+      552.5555555555554,
+      2317.111111111111
+    ],
+    "yolo_xywh": [
+      0.11768812463256904,
+      0.5271439594356261,
+      0.13007054673721338,
+      0.09507275132275125
+    ],
+    "export_image_sha256": "2954b21a6d2ea81d8f2c4a3a8fa7c66756bdf2080a92aef29f849321d5ea0674",
+    "export_label_sha256": "9642643aaa039273a3095dc4dd0a350e732ad42049e73f3777d8e9587a3d5e09"
+  },
+  {
+    "source": "data/raw/session03_drug001/s03_drug001_front_003.jpg",
+    "annotation": "data/raw/session03_drug001/s03_drug001_front_003.json",
+    "split": "test",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "855b81c7482a0973485e9ba18ca60ee0bb60fa3890c5dc47d8bcbf8ba0058bff",
+    "annotation_sha256": "eb652cc2783cef934b87e3ae21cb2bb0d58f4072fcb678585a4f2dc474bc8d88",
+    "pixel_sha256": "9e22a95691c4475e3646ba1bdfb0bab7111301f566f99d1471b43d6a42f9b594",
+    "bbox_xyxy": [
+      2507.625,
+      1849.1250000000002,
+      2896.375,
+      2221.625
+    ],
+    "yolo_xywh": [
+      0.8935185185185185,
+      0.5048053075396826,
+      0.12855489417989419,
+      0.09238591269841265
+    ],
+    "export_image_sha256": "88588a795a574c9be7cca599d9050dd8ad597fef4a0d15b4fd4c7eb852f20112",
+    "export_label_sha256": "6110038bd1e615eb3374dd4738dd38f35f5030450855116a6777e3cdc6ba30bf"
+  },
+  {
+    "source": "data/raw/session03_drug001/s03_drug001_front_004.jpg",
+    "annotation": "data/raw/session03_drug001/s03_drug001_front_004.json",
+    "split": "test",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "fd49aa724dc1433fd0ccfc9de5bd543f7673ff3994ec18b2dbe190f5f16b1ba5",
+    "annotation_sha256": "fc65f6da6b602c1ed49763baee3fc027ada92917b9593f78518c81d33b110be1",
+    "pixel_sha256": "3b5fc62495f4549a93a409d28e477a4778503b3220aad60a2f19c3f45b872cca",
+    "bbox_xyxy": [
+      1209.1428571428573,
+      90.28571428571433,
+      1579.1428571428573,
+      484.57142857142856
+    ],
+    "yolo_xywh": [
+      0.46102607709750576,
+      0.07128684807256236,
+      0.12235449735449735,
+      0.09778911564625849
+    ],
+    "export_image_sha256": "0b1aafe97b62f890d18d33d9ffd456deb3de5408c7661fb2b40a0e6ed7432f64",
+    "export_label_sha256": "bec19805515efb68a3fa5bc9c56547bde18533122d0d7da1c8a8215f098c6392"
+  },
+  {
+    "source": "data/raw/session03_drug001/s03_drug001_front_005.jpg",
+    "annotation": "data/raw/session03_drug001/s03_drug001_front_005.json",
+    "split": "test",
+    "label": "drug001",
+    "class_id": 0,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "33f98306b7ae61b62b1fab3f9b9386e9f5712d7566ccd68d038e034191162101",
+    "annotation_sha256": "fb6e15be723e116c46c914665866b91df769e7f6ff9db315508f9e82c7adbf8a",
+    "pixel_sha256": "77b5cc58967ff1da12e43e50664797c4fecf8d02bf9512c1bfcbca8b27bf9e2f",
+    "bbox_xyxy": [
+      1237.7142857142858,
+      3528.8571428571427,
+      1612.0,
+      3940.285714285714
+    ],
+    "yolo_xywh": [
+      0.47118291761148906,
+      0.9262329931972789,
+      0.12377173091458804,
+      0.10204081632653064
+    ],
+    "export_image_sha256": "08231ecd43ab84defd0c51a639b5b358761ddb69912b7701bc9ac8c7ec394c55",
+    "export_label_sha256": "57e7ecf7afbf97d10ed73403bcf85848b20bf92c59a1ca7a0aeed08aea3bb557"
+  },
+  {
+    "source": "data/raw/session03_drug002/s03_drug002_back_001.jpg",
+    "annotation": "data/raw/session03_drug002/s03_drug002_back_001.json",
+    "split": "test",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "79ec4a4dcf572b62f8e0a739e129e679243994ed0b497cf1d1fe7164ca3c28e0",
+    "annotation_sha256": "8cf0c26d72c77d60f87675c1f72497385f9690c9fd1fc38af4a275e06ae0ab4f",
+    "pixel_sha256": "d12d7effb8109c5e532180452becc7ede1708413f5793b8eced93e2cfc1d993d",
+    "bbox_xyxy": [
+      1170.5714285714284,
+      1611.7142857142856,
+      1436.2857142857142,
+      1874.5714285714284
+    ],
+    "yolo_xywh": [
+      0.4310279667422524,
+      0.4323270975056689,
+      0.0878684807256236,
+      0.06519274376417235
+    ],
+    "export_image_sha256": "82c0d3de986c7ed71585b20c4ec61e1f5a60145e13846461f03c6cf3280032d8",
+    "export_label_sha256": "cf8712acc7d8628bc94900bb5f3397b2687184dd08c9b91a6e27fd3d4e135def"
+  },
+  {
+    "source": "data/raw/session03_drug002/s03_drug002_back_002.jpg",
+    "annotation": "data/raw/session03_drug002/s03_drug002_back_002.json",
+    "split": "test",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "ad38bd29e808fe06d34db5fe53276a794019fd2bd29536eb8e39ff8167e1e778",
+    "annotation_sha256": "671c476d0181dc306b26a5c637450cce31d0bf43584793af4e58590104af4e98",
+    "pixel_sha256": "78d4f7b1fbc17d075c525e8d193ae2d9b368708abb00a6a4ee37a484fa199adf",
+    "bbox_xyxy": [
+      529.1428571428572,
+      2244.5714285714284,
+      800.5714285714286,
+      2507.428571428571
+    ],
+    "yolo_xywh": [
+      0.21986016628873772,
+      0.5892857142857143,
+      0.08975812547241116,
+      0.06519274376417229
+    ],
+    "export_image_sha256": "8995c7394c6ffbb31ce41bba910949c8c5b6424b64462cf1315f72e872fe1b9f",
+    "export_label_sha256": "6f0090a6ac8d470781b8f79bb42a193a12152addba0482b949a0069112134cad"
+  },
+  {
+    "source": "data/raw/session03_drug002/s03_drug002_back_003.jpg",
+    "annotation": "data/raw/session03_drug002/s03_drug002_back_003.json",
+    "split": "test",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "84593328bc21fcaaa34fd185f945692b95865c9fd55ac657a85243527c1d18f6",
+    "annotation_sha256": "789a4bb1acf2b791269e1a0d9ec496bad1a9770f285164b0379267f40872a4d5",
+    "pixel_sha256": "5e3a7b33318e0e645f12f67b9ffc2f2166f93b395df4ae5b36cd683349c74aa7",
+    "bbox_xyxy": [
+      1629.1428571428573,
+      3491.7142857142853,
+      1892.0,
+      3775.9999999999995
+    ],
+    "yolo_xywh": [
+      0.5821995464852608,
+      0.9012542517006801,
+      0.08692365835222972,
+      0.07050736961451246
+    ],
+    "export_image_sha256": "80ddee235739698d95de15b1f6cf38e2da1cdf430a0d7e65406dfd39d287d719",
+    "export_label_sha256": "414e6aa6f4be97029f79c44bbb7c6f3fda89496f9e8504dd1cce9d55b9ee37a9"
+  },
+  {
+    "source": "data/raw/session03_drug002/s03_drug002_back_004.jpg",
+    "annotation": "data/raw/session03_drug002/s03_drug002_back_004.json",
+    "split": "test",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "28abe55398c273d229ad8041ce59673665ba426ed9618da8d11348a785550c76",
+    "annotation_sha256": "c2a5d50cda6c97236687b0e0ac3b6660c2ed4cdb9e5571a93b3677bf770c7b32",
+    "pixel_sha256": "87882e15035e15f785aed6e13b246ad25ccbad81dc4f2a3e9f345b1b62d87761",
+    "bbox_xyxy": [
+      2419.142857142857,
+      2187.428571428571,
+      2693.428571428571,
+      2457.428571428571
+    ],
+    "yolo_xywh": [
+      0.8453325774754344,
+      0.5759991496598639,
+      0.09070294784580497,
+      0.06696428571428571
+    ],
+    "export_image_sha256": "391603f95a2e5129bad5cd5dd07a2e44c5773778240c4ef6ce24457f8c61c735",
+    "export_label_sha256": "d0b0b70b16a5fbb1f0f2d1bfc3bdd34919736a6e9a0ad45a5ca180e2c69c7b5c"
+  },
+  {
+    "source": "data/raw/session03_drug002/s03_drug002_back_005.jpg",
+    "annotation": "data/raw/session03_drug002/s03_drug002_back_005.json",
+    "split": "test",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "50b336c091103695bb9ace352cadb99ee53fbdca3277fb39baf39e1150018695",
+    "annotation_sha256": "bf666293bb0a6f948a20f746825f17d3d009e69ea330cb2a8354f18fb1d84af6",
+    "pixel_sha256": "2372f0c681a31f565e8ba760bbbc40df7986e46899b99418d7be7d95e64d7a20",
+    "bbox_xyxy": [
+      1370.5714285714284,
+      437.42857142857144,
+      1630.5714285714284,
+      708.8571428571428
+    ],
+    "yolo_xywh": [
+      0.49622071050642474,
+      0.1421485260770975,
+      0.08597883597883597,
+      0.06731859410430836
+    ],
+    "export_image_sha256": "2daa7adfd650c895e1678ed49d81f12ec69d8fa3e54dac1ca5cd46775d433d9d",
+    "export_label_sha256": "b59a1086ada279a3023a1d7c9f09560cda088fda7ac3893a737930118a148491"
+  },
+  {
+    "source": "data/raw/session03_drug002/s03_drug002_front_001.jpg",
+    "annotation": "data/raw/session03_drug002/s03_drug002_front_001.json",
+    "split": "test",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b0d540ecfd5bcb98fcb2af151709b2a400b54fe41da219aa746a0221829bb415",
+    "annotation_sha256": "b7dc3b39eb23ba9d59ac3ffe194c0597a13674d7eb963260fd77c5dba11e73ca",
+    "pixel_sha256": "9f619a4e0159c16596e21c0045ac3915b7f88dd1edb595b27af09a90a4ba4719",
+    "bbox_xyxy": [
+      1417.8823529411766,
+      1900.558823529412,
+      1681.1176470588236,
+      2162.3235294117644
+    ],
+    "yolo_xywh": [
+      0.5124007936507936,
+      0.5038296568627451,
+      0.08704870837223778,
+      0.06492180205415488
+    ],
+    "export_image_sha256": "74d03bf4bf691fc3c5f7b3b125ea94244ed609f1c1514226e2b08f4cfd3ffe72",
+    "export_label_sha256": "99cedf9192d78dbc43053fcb21a7fdfa5fd2472d9dfbac7e966ffa12f2b9ef7b"
+  },
+  {
+    "source": "data/raw/session03_drug002/s03_drug002_front_002.jpg",
+    "annotation": "data/raw/session03_drug002/s03_drug002_front_002.json",
+    "split": "test",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "29f9ca5bcda89040052801176d7555596bee7772af9462b11db0dd6bc4c8da39",
+    "annotation_sha256": "ba60f98f49238ea05b7c19e26b7ce726186d557cc5ef3a2758c1d790c3f3a604",
+    "pixel_sha256": "01dbd84635d14348990ac8806d81fdf2e230ddaadd114a4c7bdcc0384cc2aa2d",
+    "bbox_xyxy": [
+      402.0000000000001,
+      1978.8571428571427,
+      672.0000000000001,
+      2243.142857142857
+    ],
+    "yolo_xywh": [
+      0.17757936507936511,
+      0.5235615079365079,
+      0.08928571428571429,
+      0.065547052154195
+    ],
+    "export_image_sha256": "f2ea3d3a088955e71633b76266650e95db049a03ae5a1fc2e0aa8dac4675032d",
+    "export_label_sha256": "ecd986dc73a8e0ef17f5c8cada340f785cf5ed9f98e91e3bb36931b1080ba78b"
+  },
+  {
+    "source": "data/raw/session03_drug002/s03_drug002_front_003.jpg",
+    "annotation": "data/raw/session03_drug002/s03_drug002_front_003.json",
+    "split": "test",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "cd11bb434d663d95fb9c0b3f08df6ab39bda7f730616f36276362de311bc4bb2",
+    "annotation_sha256": "dd2051bb39f569aa9273dcf1c214862097261c369997043c1fc74811499e7a8f",
+    "pixel_sha256": "a0c659512d2c31ea823294714fdfe250d0094183fb35ff7ecbe5f201a88289de",
+    "bbox_xyxy": [
+      2494.8571428571427,
+      1883.1428571428569,
+      2764.8571428571427,
+      2147.428571428571
+    ],
+    "yolo_xywh": [
+      0.8696617535903249,
+      0.4998228458049886,
+      0.08928571428571429,
+      0.065547052154195
+    ],
+    "export_image_sha256": "bc00a0dcc824b088ec9bf17f1feb0abec9fcc3ba1b7f957b1bdc5382cd6ef8bf",
+    "export_label_sha256": "fcf4c009c05491c51881ab67ce7fd97f4b370d3d8e0ef3285973ebec7b8a467f"
+  },
+  {
+    "source": "data/raw/session03_drug002/s03_drug002_front_004.jpg",
+    "annotation": "data/raw/session03_drug002/s03_drug002_front_004.json",
+    "split": "test",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "6c26359ae68b2fc9573101519e7eaf7cfbe2c4dd968128950d27867448cdbf5c",
+    "annotation_sha256": "e04f3989bf9a705fc9b71751f97fca989666a4cd75094cb4a65f954b5f81189c",
+    "pixel_sha256": "b947c944d3cf557ca7f9307208127d4e0c50e526e4c095cd18b6ecdcbaaba0fe",
+    "bbox_xyxy": [
+      1573.4285714285716,
+      3120.285714285714,
+      1836.2857142857142,
+      3394.5714285714284
+    ],
+    "yolo_xywh": [
+      0.5637755102040817,
+      0.8078939909297053,
+      0.08692365835222972,
+      0.06802721088435372
+    ],
+    "export_image_sha256": "3f14af868fac12da1204cbdb09fab3ce4bb710d0a1d7dc14094957d358973034",
+    "export_label_sha256": "14031886ec54cbcb7d9db0b976cd1770e6f647555eef974258518a654831f1b9"
+  },
+  {
+    "source": "data/raw/session03_drug002/s03_drug002_front_005.jpg",
+    "annotation": "data/raw/session03_drug002/s03_drug002_front_005.json",
+    "split": "test",
+    "label": "drug002",
+    "class_id": 1,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "fcdc564d3e3178e6c4bf518f49fee83fdad55ba0c6de82e775b7412117af4ac5",
+    "annotation_sha256": "2eb0489f6e7556ab17f0d916ded021b4ff899a0760975acd7218a54b3c4c3929",
+    "pixel_sha256": "20e1bb6690f45e714e31cb3fbc8a6a8b6c6056defc19ea48f62747c4dae32246",
+    "bbox_xyxy": [
+      1783.428571428571,
+      567.4285714285714,
+      2044.8571428571427,
+      840.2857142857142
+    ],
+    "yolo_xywh": [
+      0.6329837490551775,
+      0.17456774376417233,
+      0.08645124716553293,
+      0.06767290249433104
+    ],
+    "export_image_sha256": "9c9f630d5b081f98d633fec65324f570fb9864937ce65c7661f45bdc40b56d28",
+    "export_label_sha256": "4b8fb54187d31e9c14e1626ccba5094112a655823d31e26dfb6052c1b8649331"
+  },
+  {
+    "source": "data/raw/session03_drug003/s03_drug003_back_001.jpg",
+    "annotation": "data/raw/session03_drug003/s03_drug003_back_001.json",
+    "split": "test",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "4ecbdffa728ac5a5235e90541a86c01ace81ea8a4ae25d7b9bd5e66617265e5c",
+    "annotation_sha256": "2066ca3a2b2987370781696794c3c3441b097f46f8751b553f69303d3cdd64aa",
+    "pixel_sha256": "747619ca9febda10a0b4de63d00d14ec3534dd43ebbc59e4c4ac894adf92db86",
+    "bbox_xyxy": [
+      1258.6666666666665,
+      1791.8333333333333,
+      1865.3333333333335,
+      2300.166666666667
+    ],
+    "yolo_xywh": [
+      0.5165343915343915,
+      0.5074404761904762,
+      0.2006172839506174,
+      0.12607473544973555
+    ],
+    "export_image_sha256": "831931bfa5bb596ff6394a502090bd64cba22dff8ba5d03d9d07fd0e146fe773",
+    "export_label_sha256": "f8a7f485e3d2621ca01ebe8ddc0c70dd2860f5d66169a4ca3ee2841fe69527c8"
+  },
+  {
+    "source": "data/raw/session03_drug003/s03_drug003_back_002.jpg",
+    "annotation": "data/raw/session03_drug003/s03_drug003_back_002.json",
+    "split": "test",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "de7d018cfb2192ac80ee70c2d8858bd7dae42336670e4a4c73552a4705118f99",
+    "annotation_sha256": "61589dd6c563e9ed103bf2843b5fe456a08d0ad099809b5bfdb3fb41aae12ef9",
+    "pixel_sha256": "dd29e0f90bf0ca7bf0e4baa251fd4d1ea205add6bfa870d2d602b933bf87287b",
+    "bbox_xyxy": [
+      84.0,
+      1942.0,
+      776.0,
+      2260.0
+    ],
+    "yolo_xywh": [
+      0.1421957671957672,
+      0.5210813492063492,
+      0.22883597883597884,
+      0.07886904761904762
+    ],
+    "export_image_sha256": "ae532b443513c0c4c0ec0068d03c97d8e535a238a40ec2d3c5e5d530d05c81ab",
+    "export_label_sha256": "be870fc5b684894de5e105b854cfd0fb03ecc866de777d175848ade26bbc05bb"
+  },
+  {
+    "source": "data/raw/session03_drug003/s03_drug003_back_003.jpg",
+    "annotation": "data/raw/session03_drug003/s03_drug003_back_003.json",
+    "split": "test",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "55f0d6aac3712670e27f876b79c1163805f72d4faded6d9b7b6a7a04818c8a26",
+    "annotation_sha256": "50cb294195460552f035065ec17e2f28a7122cbef6a0e638bef000d4f42c44c3",
+    "pixel_sha256": "567244015b9b5529b2d9f1d6bf3b81a9effc890052325cc54bb1403f53352f89",
+    "bbox_xyxy": [
+      1218.0,
+      3234.0,
+      1550.0,
+      3940.0
+    ],
+    "yolo_xywh": [
+      0.4576719576719577,
+      0.8896329365079365,
+      0.10978835978835978,
+      0.17509920634920634
+    ],
+    "export_image_sha256": "a63557e8e3bf93d9853be4c8b4055ceb4e726f4ce029b4016a0bcc9541319ffd",
+    "export_label_sha256": "76fb9dcf27b779ccf239515f12a987994f9de282e2a75467be19b452ee9165d6"
+  },
+  {
+    "source": "data/raw/session03_drug003/s03_drug003_back_004.jpg",
+    "annotation": "data/raw/session03_drug003/s03_drug003_back_004.json",
+    "split": "test",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "ec8dab4044fddb19ea77a643ca6f30ec81b55d1ce283bbd47883764fa2c2347f",
+    "annotation_sha256": "b7ce529f6a8c62604fe26535739bc653125d80990f6f5c4010f4c2b3b756bffb",
+    "pixel_sha256": "1a9a2080e9fe64eefcdbc8b532b7bf4b70fd40656ab7fd1ca32c8ee0d22b6168",
+    "bbox_xyxy": [
+      2488.0,
+      1904.0,
+      2870.0,
+      2586.0
+    ],
+    "yolo_xywh": [
+      0.8859126984126984,
+      0.5567956349206349,
+      0.12632275132275134,
+      0.1691468253968254
+    ],
+    "export_image_sha256": "31ba737d19d41e77fd803f530fa8d2bd0794fb666cb9143ed00d59a53050b16a",
+    "export_label_sha256": "e2f297321777f2834655d2e291665b3646c28f8512523b1be6c2b96152183c11"
+  },
+  {
+    "source": "data/raw/session03_drug003/s03_drug003_back_005.jpg",
+    "annotation": "data/raw/session03_drug003/s03_drug003_back_005.json",
+    "split": "test",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "0bf49b86877d43d865ac94e39899fd9ac4772e273014e3ddcb9bf0d5d33df76e",
+    "annotation_sha256": "722e4599a48c99d50b12564b33e7c6f598ade77258e065f32f96983d2e30b249",
+    "pixel_sha256": "e526074701b74fa167ab70fff51214f6598f13286e78a38df99ede34872a55f9",
+    "bbox_xyxy": [
+      1152.0,
+      133.49999999999983,
+      1812.0,
+      548.4999999999998
+    ],
+    "yolo_xywh": [
+      0.49007936507936506,
+      0.08457341269841265,
+      0.21825396825396826,
+      0.10292658730158728
+    ],
+    "export_image_sha256": "0e88324379379f027f5d5b1883cd9c75291f281622d3b35ce6d1a08961b78538",
+    "export_label_sha256": "0ceaba50bac9bc73eb8b755471b99b1f6edc7e90b713a3241d44480a533e59bf"
+  },
+  {
+    "source": "data/raw/session03_drug003/s03_drug003_front_001.jpg",
+    "annotation": "data/raw/session03_drug003/s03_drug003_front_001.json",
+    "split": "test",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "d9e39f5e111d9401e840f6d9574aa20eac52247ebb8e8c2f1d027a78f5fb09a3",
+    "annotation_sha256": "a857952965b55a828637ff9af30409dfe266993f2f23d07d0d0e93eae61c5268",
+    "pixel_sha256": "2874028c126081d87e5d51e1533c86fda0c72155857700dfb4ebba8c9bdab331",
+    "bbox_xyxy": [
+      1182.0,
+      1783.4999999999998,
+      1848.6666666666665,
+      2116.8333333333335
+    ],
+    "yolo_xywh": [
+      0.5011022927689595,
+      0.4836722883597883,
+      0.22045855379188709,
+      0.08267195767195777
+    ],
+    "export_image_sha256": "4b912e83c59d39d620f893f1e1a86e0025079a14d52613122ba84cd8ebbc9975",
+    "export_label_sha256": "b7877592d678f72e729b957610b465731019226ceeebfb41b72b57802716fe98"
+  },
+  {
+    "source": "data/raw/session03_drug003/s03_drug003_front_002.jpg",
+    "annotation": "data/raw/session03_drug003/s03_drug003_front_002.json",
+    "split": "test",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "6f9fc73a898c3f4e26d0c7b7ebd052d097adf6610cb53c6999f1d0c82acd79d3",
+    "annotation_sha256": "a81236ff147973a24d0c997e7fa0059670e417c11872cea1affb1f904e6ee4fd",
+    "pixel_sha256": "e3a62be5d8c7076dab4867a4320e4e2483f234f87fdbd8b66f29e552a4293d5e",
+    "bbox_xyxy": [
+      226.92537313432848,
+      1822.7164179104475,
+      780.6567164179105,
+      2388.3880597014922
+    ],
+    "yolo_xywh": [
+      0.16659756771697073,
+      0.5222103766879885,
+      0.18311221669430622,
+      0.14029554607912817
+    ],
+    "export_image_sha256": "d078f49056e4c48ab7e95a37a6b8be45652718fd8b821df8234f0a9a70274f48",
+    "export_label_sha256": "8fa1ed578a434e9c7b8308191ab05114245a1526e898c98b19aed84c7ced5960"
+  },
+  {
+    "source": "data/raw/session03_drug003/s03_drug003_front_003.jpg",
+    "annotation": "data/raw/session03_drug003/s03_drug003_front_003.json",
+    "split": "test",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "7bf8838fd508e77be4b33e7f446e0c76101d538c38483b9b2741b558b78c0c3b",
+    "annotation_sha256": "fb998dad9129f7126e24950f6b72df38f5919a9593f969c6ac14d448b181e041",
+    "pixel_sha256": "068f8a3e9f28de2ca96e0c05a7bfa8df28fece1ae7830d76eee535ef9c998f62",
+    "bbox_xyxy": [
+      1427.1785714285713,
+      3174.035714285714,
+      2100.392857142857,
+      3518.678571428571
+    ],
+    "yolo_xywh": [
+      0.5832624716553287,
+      0.8299496882086167,
+      0.22262377173091452,
+      0.08547689909297046
+    ],
+    "export_image_sha256": "a18d300ccff46d3803e559bde757930db58766477d79aed2455bbee0a757dcac",
+    "export_label_sha256": "7b5eaa4a206524beecc0afc14b3f255aa309867d7924625a17b1a866b54aa77f"
+  },
+  {
+    "source": "data/raw/session03_drug003/s03_drug003_front_004.jpg",
+    "annotation": "data/raw/session03_drug003/s03_drug003_front_004.json",
+    "split": "test",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "732f02f123167f15aaf2040c2a18c22a56d5733969a6a64e782c4a0600cc628d",
+    "annotation_sha256": "706722b6007aece57ec43fea6910dd9ccdfccd55982d5cf0e580dcf325a1b690",
+    "pixel_sha256": "b1d638aadf53edebc21d527429de67ce2447d90694b0357d7b50cc800eb8921b",
+    "bbox_xyxy": [
+      2307.5357142857138,
+      1720.4642857142856,
+      2870.0357142857138,
+      2284.75
+    ],
+    "yolo_xywh": [
+      0.856079931972789,
+      0.4966783588435374,
+      0.18601190476190477,
+      0.13995181405895696
+    ],
+    "export_image_sha256": "7209db68f1320041d60d4bbb855a1be86c078de801045a2bb09fe6bf8de01283",
+    "export_label_sha256": "56cda724bfbac89c12e7abee5f0e1f463f5aec19fc660bcfa15c66b6b8740088"
+  },
+  {
+    "source": "data/raw/session03_drug003/s03_drug003_front_005.jpg",
+    "annotation": "data/raw/session03_drug003/s03_drug003_front_005.json",
+    "split": "test",
+    "label": "drug003",
+    "class_id": 2,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "27eca024a3a2dad2f8cf1eab02cda649d0ab8626247333b09a46914ec9359094",
+    "annotation_sha256": "8978ab9b1e5506848ccdbdecd72fe4f630407d407185111d36053ebc6235c7f5",
+    "pixel_sha256": "339043eeec8c3cf4bb4701a9f3b6421bf40e254f854ce8c959c6cea4a37a88ed",
+    "bbox_xyxy": [
+      1020.0357142857142,
+      316.89285714285717,
+      1643.2499999999998,
+      806.1785714285713
+    ],
+    "yolo_xywh": [
+      0.4403580876795162,
+      0.13926977040816324,
+      0.206089380196523,
+      0.12135062358276641
+    ],
+    "export_image_sha256": "48fe218c85a0e5eae7509218a165810c4bfd691b0c478dcb287d88eac8feaa67",
+    "export_label_sha256": "28c2481bd3358b3f58d3d73e5abe46167d7826ae228bfddb7fb60055662edb7d"
+  },
+  {
+    "source": "data/raw/session03_drug004/s03_drug004_back_001.jpg",
+    "annotation": "data/raw/session03_drug004/s03_drug004_back_001.json",
+    "split": "test",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "4fc8a8c84cbf0962f93b4e1f32b170e705322771315894e497f7df03202aa28d",
+    "annotation_sha256": "76ef6b79512b8ca1cf098c07f0036ec8f06dc5e016dbc5923a4b561c7eab8d2d",
+    "pixel_sha256": "fdea8be47cd7a57e8231e652118148b8c47408d291bde1f34ca7a864eb6c874f",
+    "bbox_xyxy": [
+      118.25,
+      3150.8214285714284,
+      409.32142857142856,
+      3720.464285714286
+    ],
+    "yolo_xywh": [
+      0.08723072562358276,
+      0.852093962585034,
+      0.09625377928949357,
+      0.141280470521542
+    ],
+    "export_image_sha256": "ca06b43ea206854f71e58e5174ae7a6e37497f33748283fd49695f487b9bef91",
+    "export_label_sha256": "7055b7d63e29dd4ede8086c358fd9f8b3eb743a5454ea630b5557076d6b71b28"
+  },
+  {
+    "source": "data/raw/session03_drug004/s03_drug004_back_002.jpg",
+    "annotation": "data/raw/session03_drug004/s03_drug004_back_002.json",
+    "split": "test",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "b25b1c39050c34eaa3496e672b1c6d13e33ab2f96aa1cd0a17226a0d6dfd8746",
+    "annotation_sha256": "d194de8c58e9e701a2fcf5d8ef09712af23b28981e3e1ffeaa3915af5a606fda",
+    "pixel_sha256": "f0f5b0d350cc0f305c4294679e4af49dd6bba26be6c4c422f7d72dbff0d66be1",
+    "bbox_xyxy": [
+      2425.392857142857,
+      3338.3214285714284,
+      2743.25,
+      3931.1785714285716
+    ],
+    "yolo_xywh": [
+      0.8546036470143613,
+      0.9014756944444444,
+      0.10511148904006055,
+      0.1470379818594105
+    ],
+    "export_image_sha256": "236b6d866c29d128adf2fccb195684885f2fa000a84a077c56be9918d9b34ccc",
+    "export_label_sha256": "be08943d6a0195e227654810803af84e40a40c89b6c325b0e34157184c2e083d"
+  },
+  {
+    "source": "data/raw/session03_drug004/s03_drug004_back_003.jpg",
+    "annotation": "data/raw/session03_drug004/s03_drug004_back_003.json",
+    "split": "test",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "51ed909b9efe6da7f5ec59e22e31f08972d3313420549abd3c709bfc12304e7b",
+    "annotation_sha256": "9872b7c7b027cca97242fbb574873764ef9244b71c864a63392914ce1d142022",
+    "pixel_sha256": "9e9d7b398640d6d7366cc8db3b8f3fe287a89c5bea1bc6d0419842233a458299",
+    "bbox_xyxy": [
+      2423.607142857143,
+      513.3214285714287,
+      2637.892857142857,
+      1104.392857142857
+    ],
+    "yolo_xywh": [
+      0.8368882275132276,
+      0.20060941043083902,
+      0.07086167800453498,
+      0.14659509637188206
+    ],
+    "export_image_sha256": "f070fe302b69320ab485fe33add35122c737f358ed74aae2ddba0e967588e132",
+    "export_label_sha256": "df663ed994ccc809160061ea2ee4101ab0cb7b94d6714d7e40aff54874781fe2"
+  },
+  {
+    "source": "data/raw/session03_drug004/s03_drug004_back_004.jpg",
+    "annotation": "data/raw/session03_drug004/s03_drug004_back_004.json",
+    "split": "test",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "637ab6254c1a5b395899baa6ab6cd8cb6b86fb52ed788dc36f4d06562da6f03e",
+    "annotation_sha256": "b56f6c478b10f4a6bcfc6fe5cb0a6f40f5f4a11242f912094f0a41bec35b51f9",
+    "pixel_sha256": "1761054a5effe80ad0d431dafaf66353916f9174ba4d4b0ba3e84a1c295433f5",
+    "bbox_xyxy": [
+      439.67857142857144,
+      2024.035714285714,
+      939.6785714285713,
+      2466.8928571428573
+    ],
+    "yolo_xywh": [
+      0.22806831065759633,
+      0.5569107851473923,
+      0.1653439153439153,
+      0.1098356009070296
+    ],
+    "export_image_sha256": "96725a676de5a0299441da1302528b26b33f7d09cfb1eae20b67665536f79d3c",
+    "export_label_sha256": "29c14d7bc5af6c419c6aca8c8e7ba2d45fda26ce6894d8a5a8e91fe24a4fde1a"
+  },
+  {
+    "source": "data/raw/session03_drug004/s03_drug004_back_005.jpg",
+    "annotation": "data/raw/session03_drug004/s03_drug004_back_005.json",
+    "split": "test",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "cce74e1b94c28995528e911962fd6d422903bef06592eb05301fcc16f4149384",
+    "annotation_sha256": "fa3655b4b8a39211c3ba7cb8871674a8d75c8f2b41628c75769764a4f405007a",
+    "pixel_sha256": "5a527de96b08a6b33ebfd609f1879d39c3765d3583b2b1debeceedd578a6e21d",
+    "bbox_xyxy": [
+      2146.8214285714284,
+      1736.535714285714,
+      2730.75,
+      1947.2499999999998
+    ],
+    "yolo_xywh": [
+      0.8064767573696144,
+      0.45681866496598633,
+      0.1930980725623583,
+      0.05226048752834469
+    ],
+    "export_image_sha256": "ca602db16b89c69271a264ea83ee3e1f945da9095a9a2326bd59399a4b7a0cda",
+    "export_label_sha256": "517fabc1e2589193f795820106811bd335385c292956bd455aeeef30b0835e80"
+  },
+  {
+    "source": "data/raw/session03_drug004/s03_drug004_front_001.jpg",
+    "annotation": "data/raw/session03_drug004/s03_drug004_front_001.json",
+    "split": "test",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "853023b3749e611835576fb3cb0a8f4af3383d3aab136814082c6971d992f18b",
+    "annotation_sha256": "5cdd675ad116cd6a4a48e66b528235508b6639b03619633f5784eb39a12d3156",
+    "pixel_sha256": "cae00f2edb15344d5ca3a79f90f0fd9c839cf4a1924957656871d43fbddde0f1",
+    "bbox_xyxy": [
+      909.3214285714284,
+      1347.2499999999998,
+      1450.392857142857,
+      1725.8214285714282
+    ],
+    "yolo_xywh": [
+      0.39016439909297046,
+      0.3810852465986394,
+      0.17892573696145128,
+      0.09389172335600904
+    ],
+    "export_image_sha256": "cf0af750a005cea37895bfc21022d16b0acb121c8514fed8f42bc144bd89d3a4",
+    "export_label_sha256": "af61aeea6d0f835368a770dbacff7e17bf8fa4a5f7e237dc732f52aa7de12cc1"
+  },
+  {
+    "source": "data/raw/session03_drug004/s03_drug004_front_002.jpg",
+    "annotation": "data/raw/session03_drug004/s03_drug004_front_002.json",
+    "split": "test",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "8f6148b1262a983af5068ad21aac5d0cdc5845e5f0d1382af280e30dac086142",
+    "annotation_sha256": "de1aa38d8a52312e36b0d412db29d91a3564fc520531a0f37dc3629bb0536cdf",
+    "pixel_sha256": "9c41b39dc2c27a662ff6ac287281f20b6df26ac32b210a5fd244d2a768a00596",
+    "bbox_xyxy": [
+      670.0357142857142,
+      2461.535714285714,
+      1212.892857142857,
+      2824.035714285714
+    ],
+    "yolo_xywh": [
+      0.31133078231292516,
+      0.6554528061224489,
+      0.17951625094482238,
+      0.08990575396825397
+    ],
+    "export_image_sha256": "799f8ef56fcb1aded7d8327a104565afad4c9c47583873bc730d7767768d28c0",
+    "export_label_sha256": "0953b1af762e4c64de606f98e592eedd7b2a1e2d17417cb376b76de9525439f5"
+  },
+  {
+    "source": "data/raw/session03_drug004/s03_drug004_front_003.jpg",
+    "annotation": "data/raw/session03_drug004/s03_drug004_front_003.json",
+    "split": "test",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "cc94400fd18d7921249db624a4921dde73ed22dcf8359b9e2015316742268c3a",
+    "annotation_sha256": "045974e85ea4fb6f52d4babc380385fd745dbda3cb07c9f9e344d27c0e34a16b",
+    "pixel_sha256": "d6c72e517b1356fe12440e1f8f0af9989875687d7097c764230f0250367fabca",
+    "bbox_xyxy": [
+      1771.8214285714287,
+      2797.25,
+      2355.75,
+      3052.6071428571427
+    ],
+    "yolo_xywh": [
+      0.682468820861678,
+      0.7254287131519275,
+      0.19309807256235825,
+      0.06333262471655324
+    ],
+    "export_image_sha256": "c6d4315ae7325b7785f3542f6b200255d9592d4182abd755ee515262f35c3803",
+    "export_label_sha256": "b9e8ae4de9eb9314dcfacd844b62103af9a9b44c51493c68eadaacd435e8bc8c"
+  },
+  {
+    "source": "data/raw/session03_drug004/s03_drug004_front_004.jpg",
+    "annotation": "data/raw/session03_drug004/s03_drug004_front_004.json",
+    "split": "test",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "c322bd93a74319ae68e5eed446fafbefae704488cb3341b0a136be6fe048be58",
+    "annotation_sha256": "0fb16760d9e90ff182067c2c886573c7f2fc40e98a593a082a4b1bf198a4d7e1",
+    "pixel_sha256": "c31adb1ba1f754a98e359cd4de75aad25eb1eca4f18b418cfb00a06d5dde9ee5",
+    "bbox_xyxy": [
+      2102.1785714285716,
+      979.3928571428571,
+      2662.892857142857,
+      1318.6785714285713
+    ],
+    "yolo_xywh": [
+      0.787875566893424,
+      0.28497909580498865,
+      0.1854213907785335,
+      0.08414824263038548
+    ],
+    "export_image_sha256": "bfa8b5760b9d4566571d69da9115cb5315e4e843a767a9ed6d604890f5aa8d95",
+    "export_label_sha256": "f2fe3682995def005b27ffbdd80918bfb78f1237cf98372f9e0e07df99c048da"
+  },
+  {
+    "source": "data/raw/session03_drug004/s03_drug004_front_005.jpg",
+    "annotation": "data/raw/session03_drug004/s03_drug004_front_005.json",
+    "split": "test",
+    "label": "drug004",
+    "class_id": 3,
+    "width": 3024,
+    "height": 4032,
+    "original_exif_orientation": 6,
+    "source_sha256": "4d8e54baec5fcc2ecc7129537a64888544a79e17ab6edde096a5ed05337d8091",
+    "annotation_sha256": "59eb7f9e2b9c2ef7ccf45906deab6a4df1a47a102ddf496f30f6a4426af3903f",
+    "pixel_sha256": "b73ec24d534482333a0081b9e140f4980a58361442ba65c350630657d7249593",
+    "bbox_xyxy": [
+      250.39285714285722,
+      424.0357142857143,
+      634.3214285714287,
+      977.6071428571427
+    ],
+    "yolo_xywh": [
+      0.14628212396069543,
+      0.17381483843537412,
+      0.12696050642479215,
+      0.13729450113378683
+    ],
+    "export_image_sha256": "a94a06267a1a805343543021713d9c804a1da39e4f77f097565f9f21f838b81d",
+    "export_label_sha256": "569f22c4d67c24cad7d0d6afdda0e6b808d3b8ec3b7ba75afdc2a17216783a21"
+  }
+]
