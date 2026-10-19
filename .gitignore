@@ -15,4 +15,6 @@ outputs/*
 *.onnx
 private/
 data/yolo-v001/
+data/challenge-yolo-v001/
 runs/
+data/control-yolo-v001/

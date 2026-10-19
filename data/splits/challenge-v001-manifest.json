@@ -1,0 +1,413 @@
+[
+  {
+    "source": "data/raw/challenge01/c01_overlap_001.jpg",
+    "group": "overlap",
+    "image_sha256": "41d83c320ce7483f8ea0142835e6e26330d4afa48aa0a12e3b522eb1c7e6d13f",
+    "annotation_sha256": "193c68c0f044e32a145b843e672f1902eb8f772dd9dea2115f552f5dc7e1162d",
+    "lines": [
+      "0 0.39880952 0.50024802 0.12962963 0.09474206",
+      "1 0.47486772 0.52976190 0.08862434 0.06547619"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_overlap_002.jpg",
+    "group": "overlap",
+    "image_sha256": "1f65d04e6be3bd2305ebd6e9584abd6e0ac4a0158839a8dfe16b82822ed75a75",
+    "annotation_sha256": "88715802703cde6e575b2de401d3f606d12e4c3c0c66d63a47e885e64164d8f2",
+    "lines": [
+      "0 0.64285714 0.43948413 0.12301587 0.09226190",
+      "1 0.55720899 0.41220238 0.07738095 0.06646825"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_overlap_003.jpg",
+    "group": "overlap",
+    "image_sha256": "e6f066baa333a6e26162689fdd0938c3ce23d823d458ce07f83d4906b6b551bd",
+    "annotation_sha256": "8878e98cca44fd7f4b008fb4d69670e70a31d9452557982364358d37cc0a7130",
+    "lines": [
+      "0 0.43584656 0.55803571 0.11772487 0.09424603",
+      "2 0.53472222 0.53000992 0.10119048 0.16617063"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_overlap_004.jpg",
+    "group": "overlap",
+    "image_sha256": "44341ac550a6dd3f2aef3904eabebe90f385946e91456b6ef3ff0f1d4e6d6ce3",
+    "annotation_sha256": "998ddd6232a169428aa8835150b191a4454b3bfe40e463147e23d8ca659d1da9",
+    "lines": [
+      "3 0.31051587 0.57564484 0.18187831 0.06994048",
+      "1 0.38921958 0.59077381 0.08267196 0.06547619"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_overlap_005.jpg",
+    "group": "overlap",
+    "image_sha256": "91024135c30e0ac1f820bfc5a2b689a8202dafb855487be6c8978763b549c6cd",
+    "annotation_sha256": "bfb1f00b3b5fde69432d062f620b6660206ab47a3cb6e75780418c5ffcf191a2",
+    "lines": [
+      "3 0.28623394 0.46439201 0.16203704 0.10948129",
+      "2 0.41992630 0.71134495 0.21967120 0.09034864",
+      "0 0.55409108 0.71081349 0.11668556 0.09637188"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_001.jpg",
+    "group": "separate",
+    "image_sha256": "7b22435a6d9e4521caa8f8472dcb3a560446f7f2ad607c77461423692a332fdb",
+    "annotation_sha256": "7eb1ca78c3a795190f1e8ef4568b33edded2c5113834809ae49cfb650a136d69",
+    "lines": [
+      "0 0.39969136 0.48801257 0.12345679 0.09300595",
+      "1 0.61877205 0.60085979 0.08652998 0.06572421"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_002.jpg",
+    "group": "separate",
+    "image_sha256": "3e00229332be927ae19a4be28f3f3937b2b3eccf777fd83f980cba65c18f2fe7",
+    "annotation_sha256": "1dc873e47629a18e34edb896049a09856af53b1cd306286586f7e8b48f84bf78",
+    "lines": [
+      "0 0.33134921 0.74057540 0.12282691 0.09566327",
+      "2 0.68235072 0.36855159 0.19557823 0.12471655"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_003.jpg",
+    "group": "separate",
+    "image_sha256": "b782bb714e199e36b1441389049c54d831caca125373523a4979f189c5f189ed",
+    "annotation_sha256": "aae7d956db3fcf1928a5b3cb31fb0b5f5ea62d087ca0a3ca01f6533eb2e1a4a3",
+    "lines": [
+      "0 0.52338435 0.27873441 0.12235450 0.09530896",
+      "3 0.73289872 0.62861395 0.15022676 0.11904762"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_004.jpg",
+    "group": "separate",
+    "image_sha256": "ee7816ac1b33c9a15968b8ade50e19cf12d350bdb6135e60cd04df9498ae4f6d",
+    "annotation_sha256": "430e2d5d295b0dd21bb36bdf81aa542bcc6ee6bab0871380bf8bd716ab94bfd6",
+    "lines": [
+      "2 0.61692177 0.42736678 0.21589191 0.10062358",
+      "1 0.28859599 0.55243764 0.08739607 0.06448413"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_005.jpg",
+    "group": "separate",
+    "image_sha256": "0cdfc6d04fd02fc7e8486d356daeebf7153696a22661862ea263555b758ff0a0",
+    "annotation_sha256": "0056bd65f5e10f491524888e3904a7d56d20e5593d12d3a1c215b2b3deaf225e",
+    "lines": [
+      "1 0.61532738 0.44295635 0.08639220 0.06479415",
+      "3 0.34561012 0.66973586 0.18931878 0.05146329"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_006.jpg",
+    "group": "separate",
+    "image_sha256": "5956d5f21418a54e86bd5084dbe54604d97fe2de8e2465cb15fad0afac6574b3",
+    "annotation_sha256": "8071d8aa617430c81b7ffb89f07ce4187170c0b2d769ddc0fd821044ee87c612",
+    "lines": [
+      "2 0.63124173 0.52092634 0.17774471 0.14136905",
+      "3 0.17137897 0.54526290 0.08804563 0.14043899"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_007.jpg",
+    "group": "separate",
+    "image_sha256": "21773ab96ac3123c8f33ab3c04eb030421602ba62380e082bd636c331f751b6e",
+    "annotation_sha256": "756c94c2bf3481dcb935ec904d54887010c67b187f25c48b81cd81eceb996dec",
+    "lines": [
+      "0 0.37723214 0.40110367 0.12359458 0.09207589",
+      "0 0.78707837 0.45613219 0.12648810 0.09114583",
+      "1 0.54133598 0.63578869 0.08721892 0.06541419"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_008.jpg",
+    "group": "separate",
+    "image_sha256": "63a2dde0f401129a3d25772956bf3647212619f73e3d845666b2ff40b6bd7e95",
+    "annotation_sha256": "1428470d589b757fdbd70e3359539153a8f6b0f1f5727e839ac85309676fea3d",
+    "lines": [
+      "2 0.57676682 0.26721939 0.22061602 0.06944444",
+      "1 0.37008692 0.46704932 0.08692366 0.06448413",
+      "1 0.53873772 0.63747166 0.08597884 0.06519274"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_009.jpg",
+    "group": "separate",
+    "image_sha256": "0fed8a4a580be15cd307d5aab999623b50910955efcf0ab908ecf668a5871e1a",
+    "annotation_sha256": "c30c9565aa8371cf9d08baa5130a844a3618cb4ad58f147a3a04b04f11e6f9e6",
+    "lines": [
+      "3 0.37797619 0.43874008 0.17791005 0.08878968",
+      "2 0.82572751 0.48288690 0.22685185 0.07688492",
+      "2 0.55621693 0.62971230 0.19444444 0.12847222"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_010.jpg",
+    "group": "separate",
+    "image_sha256": "b04c3ebe550b9f1ca5ee0e81c964ed83f9719e9b4f30daf0b10708474b216af5",
+    "annotation_sha256": "81952f71c917fdebab8b32293ba0d0c6ee3852682585987f8817e90a648e7b71",
+    "lines": [
+      "3 0.23655203 0.52252811 0.06613757 0.14136905",
+      "0 0.61574074 0.59093915 0.12455908 0.09300595",
+      "3 0.21726190 0.79348545 0.17195767 0.09961971"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_011.jpg",
+    "group": "separate",
+    "image_sha256": "7793de6693797fc243f3857b80f8ec263a06856f857a1d9a750e38331e3fd67f",
+    "annotation_sha256": "0e4b684f89f7efcfa3c6326388c7085892bf91eaed58fa606bb143886e6838c4",
+    "lines": [
+      "0 0.45337302 0.27405754 0.12235450 0.09672619",
+      "1 0.77810847 0.39508929 0.08796296 0.06498016",
+      "2 0.32605820 0.60094246 0.20899471 0.11557540"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_012.jpg",
+    "group": "separate",
+    "image_sha256": "a4d6522a4ecd0191c30b753f0cfed13bfcff2254d3753e44f3394a44af0a068a",
+    "annotation_sha256": "d33228932ae0f435d7c26b76a1eb1c3cb0508740896290b40894477fc9d8417c",
+    "lines": [
+      "0 0.25826720 0.36259921 0.12764550 0.09325397",
+      "3 0.53902116 0.45312500 0.18915344 0.05902778",
+      "1 0.38492063 0.69791667 0.08730159 0.06646825"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_013.jpg",
+    "group": "separate",
+    "image_sha256": "623ea1c5c454bd49281eb20dbc12a2c7cb665586f1fe27d49162d6af2003a350",
+    "annotation_sha256": "dbb3bd7190f65b913ab5383c8206e9b370dd9892f369ab382e5fa713079e0a51",
+    "lines": [
+      "0 0.42261905 0.31870040 0.12301587 0.09474206",
+      "1 0.56712963 0.35342262 0.08796296 0.06597222",
+      "2 0.77314815 0.25496032 0.20238095 0.12301587",
+      "3 0.23379630 0.56473214 0.17658730 0.09375000"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_014.jpg",
+    "group": "separate",
+    "image_sha256": "f136e31f7707d340608ffded63a4a6d5cc33920649b4b42761ef1d35f3ada739",
+    "annotation_sha256": "49d5d0af7dca911c3df3ece235a4bae5b9e56e3b87745f50f86819015643dee4",
+    "lines": [
+      "0 0.55059524 0.33283730 0.12367725 0.09523810",
+      "0 0.58101852 0.49677579 0.12367725 0.09275794",
+      "3 0.22784392 0.53596230 0.18981481 0.06498016",
+      "2 0.49074074 0.81919643 0.21693122 0.10367063"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_separate_015.jpg",
+    "group": "separate",
+    "image_sha256": "04f9eaa46307099def89248ab71baa821250378d23fedfd937196eef0b69fcc9",
+    "annotation_sha256": "51db6182d312566a60f43fa18d96522c5078c0907f1818c2e6178a8e86913c21",
+    "lines": [
+      "3 0.70800265 0.30927579 0.18849206 0.05704365",
+      "1 0.20998677 0.49181548 0.09193122 0.06696429",
+      "2 0.31712963 0.74007937 0.19510582 0.13392857",
+      "2 0.59689153 0.66220238 0.08134921 0.16765873"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_side_001.jpg",
+    "group": "side",
+    "image_sha256": "fae6a1b12ccb8a456d7b459c57e9e1100a620917da755cb1e3e6c0da8296d6b9",
+    "annotation_sha256": "b68f230032d328e5582b270afff246302033aa995d6ae3de0a7a391705d091dd",
+    "lines": [
+      "2 0.48842593 0.48288690 0.21097884 0.11061508"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_side_002.jpg",
+    "group": "side",
+    "image_sha256": "da65f8b24ee4db8485df80969a8fcc82f501529cbf97c576a5864293656160d7",
+    "annotation_sha256": "2d0beb3b4eb7faec6a8be4447e71d8ea4aa22cb225ad1dac251f46e44090d4ea",
+    "lines": [
+      "2 0.18419312 0.79910714 0.15542328 0.15972222"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_side_003.jpg",
+    "group": "side",
+    "image_sha256": "9cee55fc6baee8dacb8691248aa425d25fd58ceb42cfa3ec4ad281034643b91e",
+    "annotation_sha256": "387bfccd0acd8e90e7a3f6a21f211347b8edfa81263d33af7999062025cd4ad9",
+    "lines": [
+      "2 0.80555556 0.75471230 0.20634921 0.12053571"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_side_004.jpg",
+    "group": "side",
+    "image_sha256": "7cd3134c8cdcf20b520011c46d2a41a9af150391573df85f40b739b6b96e2937",
+    "annotation_sha256": "aecb1cab847fca3804f3b0fdd3e77cc896bfd8520ba54485078d3408de29a6ac",
+    "lines": [
+      "2 0.74801587 0.23412698 0.11772487 0.16567460"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_side_005.jpg",
+    "group": "side",
+    "image_sha256": "f7e4a72b3bec1e2d0c9a34287b74dbb4f4be91bfa751b8abcb0bc47e0ee217c7",
+    "annotation_sha256": "83d7288a127187320b59beb75884fcefbc4a2e302e22317a80f054df90ec0242",
+    "lines": [
+      "2 0.23379630 0.25917659 0.20701058 0.11755952"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_side_006.jpg",
+    "group": "side",
+    "image_sha256": "856c2d51ea1fb361b60a7ab1ace1f5ebb78bbe5030bfe2919e425f8df612074a",
+    "annotation_sha256": "d3afc1ff72144c4639fcb43adbe9ff1d3a8a0d43cbeeb3ee280e206510de97f9",
+    "lines": [
+      "2 0.33410494 0.52666171 0.16093474 0.15128968"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_side_007.jpg",
+    "group": "side",
+    "image_sha256": "3dfb60408109a37c1370e01ec593e5cfe6d49a190f8ed8157e8e7176baa3024d",
+    "annotation_sha256": "78bbe443315f1de4ff8b9e948e8111a5fc71550d313b1950282d9ebe9e058f65",
+    "lines": [
+      "2 0.51025132 0.19766865 0.19775132 0.12351190"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_side_008.jpg",
+    "group": "side",
+    "image_sha256": "dbe8b1b9970c5a4b00f5c044519e5cab73e0ad8b3621578115833ec9919fb940",
+    "annotation_sha256": "e20d63f4d8edfc9137e4da6c7730bc5b267e4cd11aa8c22824df54817aa27ea1",
+    "lines": [
+      "2 0.50033069 0.84796627 0.20701058 0.11855159"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_side_009.jpg",
+    "group": "side",
+    "image_sha256": "49aff7dbd0e790ed4453369bbdc4e20e9798f91677cc96ec043523022e2c4aec",
+    "annotation_sha256": "9300af59d1c0398a777490ea3a4e03e008aabaa30d7c190e802242972b29750c",
+    "lines": [
+      "2 0.79431217 0.53918651 0.19576720 0.12896825"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_side_010.jpg",
+    "group": "side",
+    "image_sha256": "0e7a7be31b192f5f5141ed3e7c321efe2a08f1e3d5dae7cf651e924ad6e8ba4b",
+    "annotation_sha256": "ce310e362983173ffbfeafdb85531beb570cfe0f75dccb548719ebcb4a5856db",
+    "lines": [
+      "2 0.84490741 0.54563492 0.18981481 0.13392857"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_touch_001.jpg",
+    "group": "touch",
+    "image_sha256": "e2d0857b0af21bec1e018ab0aab7af19526c0994ef49d0a28482f913fc1b1522",
+    "annotation_sha256": "be37a7921c79e41161693732fc07ee81144bbc5cd09b7d8cf202cfa8aa54f894",
+    "lines": [
+      "0 0.52744709 0.44940476 0.12367725 0.09226190",
+      "1 0.42691799 0.43055556 0.08664021 0.06547619"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_touch_002.jpg",
+    "group": "touch",
+    "image_sha256": "8f1091b50481f1e1f322fabfabc520c646bf9823cb67880404a4651dac3e0531",
+    "annotation_sha256": "9110fcae2783c5ca523447e18fffe697e498870069a76058033b65f3a714b2ba",
+    "lines": [
+      "0 0.42489463 0.59794525 0.12330733 0.09668415",
+      "2 0.52017756 0.56957055 0.15245269 0.16015940"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_touch_003.jpg",
+    "group": "touch",
+    "image_sha256": "236c1f2c89f898190ceaeb28175e14798a2a25cb5084bcf7cd9992d8b46857d0",
+    "annotation_sha256": "0af6c69cb5a041c47315b4fdd170eb37b17983b1ace754627a296d8c4716c922",
+    "lines": [
+      "1 0.53472222 0.58825231 0.08597884 0.06531085",
+      "3 0.39858907 0.57585152 0.18738977 0.06696429"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_touch_004.jpg",
+    "group": "touch",
+    "image_sha256": "80ff0d0b0ea347a05570539b6bd9793a9e486831386c2fde97eccf26b6178e17",
+    "annotation_sha256": "aea19bd7b2078b5c78dd02f7a44a96fe6f1b4bce99ce16d3162ce02d3c6b64c9",
+    "lines": [
+      "2 0.38128307 0.58581349 0.20304233 0.12003968",
+      "3 0.51818783 0.61904762 0.10383598 0.13789683"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_touch_005.jpg",
+    "group": "touch",
+    "image_sha256": "6385f93315a375ca6e400082aff3bd151f77b446447244d708bc4e553793a86f",
+    "annotation_sha256": "1bc514fffac96a22c2c8109b4a2474da060f70873b37e756d9fb27241c941c0c",
+    "lines": [
+      "0 0.48181217 0.44890873 0.12367725 0.09226190",
+      "0 0.59722222 0.48139881 0.12301587 0.09176587",
+      "1 0.37070106 0.68105159 0.08796296 0.06547619"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_touch_006.jpg",
+    "group": "touch",
+    "image_sha256": "9c049761a9eca2f39955795b9b84e1f21718713cad38ca282b20879140b1efe4",
+    "annotation_sha256": "f75202f95c4883c12110031d105cb5e4202e0c2321e55fefac1ff50edd6fe611",
+    "lines": [
+      "1 0.43253968 0.65203373 0.08730159 0.06696429",
+      "1 0.51951058 0.65625000 0.08664021 0.06646825",
+      "3 0.40410053 0.46354167 0.19047619 0.05704365"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_touch_007.jpg",
+    "group": "touch",
+    "image_sha256": "9456ff13a2f079c9815054d80f4739151a470bdd704e71b6e8ba0426e9b690f3",
+    "annotation_sha256": "291fac7b0d600b7c84aeeaa972f7ba7de2dc501e8dd00504a378cec1b21c0c12",
+    "lines": [
+      "0 0.53439153 0.40401786 0.12301587 0.09275794",
+      "2 0.54596561 0.75347222 0.18716931 0.13789683",
+      "2 0.49371693 0.81150794 0.18849206 0.14186508"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_touch_008.jpg",
+    "group": "touch",
+    "image_sha256": "b7d3bdd36628941325baf6fa5059d3022c9615b322bf0ea736eef19654efaffc",
+    "annotation_sha256": "8acad646803980103e46c6945df48586a8a11d3554f195723dc06e023eccf49b",
+    "lines": [
+      "1 0.61144180 0.50644841 0.08664021 0.06448413",
+      "3 0.21825397 0.70436508 0.19047619 0.06746032",
+      "3 0.40211640 0.74603175 0.17328042 0.09920635"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_touch_009.jpg",
+    "group": "touch",
+    "image_sha256": "c88c8ee575e19e31f7124c5df6e8489fc6bf85e844a4aab3f7336859f9f4fbca",
+    "annotation_sha256": "f4bd952bb50575c68e80cdb5e01c995d956fbd214971affa664f242af454b924",
+    "lines": [
+      "0 0.36904762 0.45287698 0.12433862 0.09226190",
+      "1 0.47486772 0.46031746 0.08597884 0.06448413",
+      "2 0.62962963 0.21502976 0.22354497 0.07390873",
+      "3 0.22387566 0.74652778 0.13955026 0.12500000"
+    ]
+  },
+  {
+    "source": "data/raw/challenge01/c01_touch_010.jpg",
+    "group": "touch",
+    "image_sha256": "2693e547b8ef3b1ed0c567ad2181060b220d9289ae8d92fc2b5a4475dfa1980e",
+    "annotation_sha256": "b6a3524e39ccaed6c676b9d8a77a5a107035b623ff5bc4b0cb1ec47c6dd5aefe",
+    "lines": [
+      "0 0.22585979 0.27207341 0.12764550 0.09573413",
+      "1 0.64087302 0.70163690 0.08730159 0.06498016",
+      "2 0.43287037 0.48239087 0.17923280 0.14037698",
+      "3 0.36011905 0.52604167 0.15542328 0.11458333"
+    ]
+  }
+]

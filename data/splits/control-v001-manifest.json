@@ -1,0 +1,383 @@
+{
+  "purpose": "Exploratory evaluation only; not training or blind testing",
+  "annotation_policy": "Visible-part bounding boxes; no inferred hidden extent",
+  "source_sha256": {
+    "data/raw/clean_touch01/ct01_flat_001.jpg": "9338ac3cc80d4a6d4da356f272fde71295d26455a10bd7937b55517d677732ed",
+    "data/raw/clean_touch01/ct01_flat_001.json": "fe1238bd40420a96041a5429daea4039afc9ba85ee756adfad69842c6f7767c3",
+    "data/raw/clean_touch01/ct01_flat_002.jpg": "9725fbb4ea4c642600491930dd0f81dfb67117a0ccf438b74188350711e12bfc",
+    "data/raw/clean_touch01/ct01_flat_002.json": "5fbb5d20b3b6a5fc1f4698b834c8c05ebccc70a75131d68f05656d3870fe1525",
+    "data/raw/clean_touch01/ct01_side_001.jpg": "55cec154d62b2d99f0cc8f65aa5eadc3e391cd8fdbc7144a4c9a7afdb419f936",
+    "data/raw/clean_touch01/ct01_side_001.json": "80e58aa0d82af012bdff13af0db5f47114fcf0ab89109d9d13602f7650aef2d7",
+    "data/raw/clean_touch01/ct01_side_002.jpg": "37a3e44824f5c5f4287a5c9fe9b8f332f9a0fb4613c88f6389e48d01864d8bfc",
+    "data/raw/clean_touch01/ct01_side_002.json": "50e8cfae1fc219811ccda858121f806ef1b2d207eb7563e9eee62b4f0e9aa236",
+    "data/raw/clean_touch01/ct01_side_003.jpg": "84ccddd16cc0a8e4952f9bad39ca0f804a510e664f78198f5c79ec3b7e3d65cf",
+    "data/raw/clean_touch01/ct01_side_003.json": "206b0e93c640d8135a4d19b3af5c283dcc5caee1f2463b760747dc02221ca51d",
+    "data/raw/clean_touch01/ct01_side_004.jpg": "9d6bc49b1babf51246d25db59d3aff205b82c0cec6917b8f0685ad2ce81894e5",
+    "data/raw/clean_touch01/ct01_side_004.json": "ecad5fd4ecdae4c8f972ec3f28012c3ebb42384074fcc8c9559f07e942e80034",
+    "data/raw/clean_touch01/ct01_side_005.jpg": "e45fb05d856a433b1ef8f27c17e3cb5da8e43f7d6941613a6f7d25e70152e4f7",
+    "data/raw/clean_touch01/ct01_side_005.json": "cda5eaf8911dedb14b985dc1a74b0f902d157cfba6420224e9658cabe4ef3c85",
+    "data/raw/clean_touch01/ct01_side_006.jpg": "624654af0ca758fd4095a14cd70da220e3fd82913b8a8b1924dbfb383f4a64cf",
+    "data/raw/clean_touch01/ct01_side_006.json": "7e97d88cbba2ff4ee01f317656443e14146e90d1e990ffeb26c3c167bb0b4fa7",
+    "data/raw/clean_touch01/ct01_side_007.jpg": "600e76de80559e8bbf3651587e42a114351a383065733740045e786f199ea423",
+    "data/raw/clean_touch01/ct01_side_007.json": "fab09aed319e0b3a7f551200d83bbda20ba32c2d3fe892aa13ff22d06a6693bb",
+    "data/raw/clean_touch01/ct01_side_008.jpg": "b7670032503acc5899580589c9cd84f70c75f216c53f8f19b30f2470f4dee86a",
+    "data/raw/clean_touch01/ct01_side_008.json": "4415aa180ff7e22d28111dc7b964fab03a472f3ed19fca44e3972237f55a767d",
+    "data/raw/occlusion_control01/oc01_pair01_clear.jpg": "6c553200053c49f7743049e7f5c1015a009405e9ff35394849f653d51d3d5ede",
+    "data/raw/occlusion_control01/oc01_pair01_clear.json": "be739c07de9d05b30ba4b2764f618a0e518540af4d25629b1c2d892f79394fa3",
+    "data/raw/occlusion_control01/oc01_pair01_heavy.jpg": "3532fce2ddc8ec1c3f0890550de64cf9e2b8a08d2aae97b53f3d6ffa55b15ea5",
+    "data/raw/occlusion_control01/oc01_pair01_heavy.json": "70260a654c8659305f330e1b0e0fea78fc4bcfa6e0a4a07d8b348ff7498c7413",
+    "data/raw/occlusion_control01/oc01_pair01_partial.jpg": "a6858a3993220b3d3e9de9660a24ffae650b1d167093b9ee2f84fe8d7d1d2aa6",
+    "data/raw/occlusion_control01/oc01_pair01_partial.json": "f8d58e92ea17adbcaa5ca380067769392220fd3aff99dd1514156559b40c0da9",
+    "data/raw/occlusion_control01/oc01_pair02_clear.jpg": "0fad086f5e702864c09a5aebb3d3995437bc66f6ba703e2ac5771c16db1a460a",
+    "data/raw/occlusion_control01/oc01_pair02_clear.json": "546c2abc246b0cce9d04b9d54330647e02602f8daab130804dcb76d644ad8b1e",
+    "data/raw/occlusion_control01/oc01_pair02_heavy.jpg": "0b1743ab5cf54cd9ec91d963e35ff2b0740759f2ef91a6cb57a9e77b4af6bfed",
+    "data/raw/occlusion_control01/oc01_pair02_heavy.json": "1454b57d10c746546593b4521965d19de3246f966552e9eb3d41615177e25fc5",
+    "data/raw/occlusion_control01/oc01_pair02_partial.jpg": "eeab2373dd80665388d19a0b7a1c5634086f0dd68916ce4e48a15f361098700b",
+    "data/raw/occlusion_control01/oc01_pair02_partial.json": "52a181661d3ed27afe34d4290a7c2ebc3d6aa159b774ddfa8eeb00e5acfdfa80",
+    "data/raw/occlusion_control01/oc01_pair03_clear.jpg": "24d2cd95eda5f46127ea56d807532bf80a295aa2a9a24d9b6cd5f7e621afa6ef",
+    "data/raw/occlusion_control01/oc01_pair03_clear.json": "17117d161f08ae69107652dfd6b6fd7938c40647369368e3169424758f96c7dd",
+    "data/raw/occlusion_control01/oc01_pair03_heavy.jpg": "d80d4564a909437d7c0143eb27330a104c7cf10ad68efdff13cd7c728023e5cc",
+    "data/raw/occlusion_control01/oc01_pair03_heavy.json": "b4252b584de5af7305280c888558cdcf2c294fa084115a4bc9a44a376952292c",
+    "data/raw/occlusion_control01/oc01_pair03_partial.jpg": "ed1d8889f16a3e78970d4b02ae4a65716eb010018c2f3726538d703ffc602797",
+    "data/raw/occlusion_control01/oc01_pair03_partial.json": "4703b026a2224cffbf2e0e6a9a1f06ba8e8df064fa5a9e95b4b57bece0627141",
+    "data/raw/occlusion_control01/oc01_pair04_clear.jpg": "8b1b2ad6933119d9268135fb8daf07d538de0fc1b8f69057300215b4f3b715a0",
+    "data/raw/occlusion_control01/oc01_pair04_clear.json": "a5bed5916bda428130d5292d4f5583b09b73ac11b900a0c76fd2684bf99b7d80",
+    "data/raw/occlusion_control01/oc01_pair04_heavy.jpg": "3aada584006348742f0ad31f852d9c646054b2a1a9a185cfce3fd1e8b84bf70f",
+    "data/raw/occlusion_control01/oc01_pair04_heavy.json": "0e143486b1c4245227779199e80f631aa496b9cbec956c93a618128f71b6d8c7",
+    "data/raw/occlusion_control01/oc01_pair04_partial.jpg": "4b82f41ba6b30c4d098788640413a7b5ddf5e49c19859a8c89074d293a877288",
+    "data/raw/occlusion_control01/oc01_pair04_partial.json": "a6fdf9fc290b8b465b090ebb86d74c9c9d09edc66c2003311b8b9e1145e78b0c",
+    "data/raw/occlusion_control01/oc01_pair05_clear.jpg": "5115783f8ba5d3ffe9fdcd597d51e8bc77a67a7508447ab9a0846bfdc0c3e97a",
+    "data/raw/occlusion_control01/oc01_pair05_clear.json": "f1853530fad892bd0e4fa5e411fae0aa0de2287e17a881e1f40c012cf1a38542",
+    "data/raw/occlusion_control01/oc01_pair05_heavy.jpg": "a645cc07754ce506fca6349e85781aed5153db8308fa956efd6a20d457d3de38",
+    "data/raw/occlusion_control01/oc01_pair05_heavy.json": "78a02386226faf0e29ec62b03be9e5ed2130a7ea9d711cd18bb8cc28b331551d",
+    "data/raw/occlusion_control01/oc01_pair05_partial.jpg": "bd339e34564235a1da667a23add28ae0a9c29aa4c7c36f73c36fc6f91f6ae2fd",
+    "data/raw/occlusion_control01/oc01_pair05_partial.json": "c3bb55ba10708a0b0e37daedc800dc184ef046f2f1de1238f06144d256ffd401"
+  },
+  "images": [
+    {
+      "source": "data/raw/clean_touch01/ct01_flat_001.jpg",
+      "group": "clean_flat",
+      "pair": null,
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "2 0.32903439 0.46899802 0.13558201 0.17609127",
+        "0 0.44411376 0.49305556 0.13293651 0.09920635"
+      ],
+      "export_sha256": "8393b0596909f611e92d39180ef9fdae94a5e9a6e5f1f5c4273e2fed4209a557"
+    },
+    {
+      "source": "data/raw/clean_touch01/ct01_flat_002.jpg",
+      "group": "clean_flat",
+      "pair": null,
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "2 0.57969577 0.64880952 0.11044974 0.17956349",
+        "0 0.69973545 0.64360119 0.13095238 0.10267857"
+      ],
+      "export_sha256": "a7512345ea674b4c0c162696156477f8e77709544b5e6ee041e3975b6efb8446"
+    },
+    {
+      "source": "data/raw/clean_touch01/ct01_side_001.jpg",
+      "group": "clean_side",
+      "pair": null,
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "0 0.33796296 0.37400794 0.13624339 0.09920635",
+        "2 0.24570106 0.32539683 0.16865079 0.16865079"
+      ],
+      "export_sha256": "658a031ecd20c8c466873e2f05f71db20589c5970f6ffb3add01780813961407"
+    },
+    {
+      "source": "data/raw/clean_touch01/ct01_side_002.jpg",
+      "group": "clean_side",
+      "pair": null,
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "0 0.33333333 0.71106151 0.13227513 0.10168651",
+        "2 0.21759259 0.71651786 0.09523810 0.17807540"
+      ],
+      "export_sha256": "9305982330abc2ddfdccf2dec937ea87c8ccccc8637c28e958e69c45e67be030"
+    },
+    {
+      "source": "data/raw/clean_touch01/ct01_side_003.jpg",
+      "group": "clean_side",
+      "pair": null,
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "0 0.75462963 0.71006944 0.13492063 0.10267857",
+        "2 0.66865079 0.65997024 0.20767196 0.13938492"
+      ],
+      "export_sha256": "75fadbbff47aa4df2b525339a1f69c627b756a3e760bf3783cf4369cce6e6103"
+    },
+    {
+      "source": "data/raw/clean_touch01/ct01_side_004.jpg",
+      "group": "clean_side",
+      "pair": null,
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "2 0.62764550 0.32787698 0.15343915 0.17658730",
+        "0 0.72321429 0.37475198 0.13425926 0.10069444"
+      ],
+      "export_sha256": "a7320b212c8bd63a7b1f1b4e5d70b5c21ebb2a5b6166b629ecff1edc200fc41b"
+    },
+    {
+      "source": "data/raw/clean_touch01/ct01_side_005.jpg",
+      "group": "clean_side",
+      "pair": null,
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "2 0.45601852 0.15823413 0.19907407 0.15277778",
+        "0 0.53373016 0.21974206 0.13359788 0.10119048"
+      ],
+      "export_sha256": "35201aacd534a2c72b9e6b1f9007b6509c747c8c02b3346bd6a8f5598ec833e5"
+    },
+    {
+      "source": "data/raw/clean_touch01/ct01_side_006.jpg",
+      "group": "clean_side",
+      "pair": null,
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "0 0.21759259 0.46081349 0.13756614 0.09920635",
+        "2 0.15310847 0.52852183 0.21626984 0.13442460"
+      ],
+      "export_sha256": "9f4d99253bba2d3ea50f60cc65a80af8dd396cf772e3b3a5a668a08bc8d5c997"
+    },
+    {
+      "source": "data/raw/clean_touch01/ct01_side_007.jpg",
+      "group": "clean_side",
+      "pair": null,
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "0 0.49900794 0.78571429 0.13161376 0.10317460",
+        "2 0.52810847 0.86557540 0.23611111 0.09027778"
+      ],
+      "export_sha256": "d3d455f2c2e0f8b6874419c1ef1fc0250add656206082f77c9ff4ea5b8824b89"
+    },
+    {
+      "source": "data/raw/clean_touch01/ct01_side_008.jpg",
+      "group": "clean_side",
+      "pair": null,
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "0 0.82308201 0.51909722 0.13822751 0.09970238",
+        "2 0.83035714 0.60243056 0.24007937 0.08283730"
+      ],
+      "export_sha256": "8fdcf2e21130b0b5ee81a63f45874057fdd3bb4ae0b384639129775583e0f6ea"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair01_clear.jpg",
+      "group": "clear",
+      "pair": "pair01",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "3 0.33432540 0.38293651 0.17129630 0.12103175",
+        "1 0.50462963 0.49603175 0.09259259 0.07142857"
+      ],
+      "export_sha256": "7c3adff44ee537a339d21132427ae21860e2e17796aa45592263d3d8c6fd6e37"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair01_heavy.jpg",
+      "group": "heavy",
+      "pair": "pair01",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "3 0.44312169 0.49156746 0.20105820 0.05952381",
+        "1 0.53604497 0.49082341 0.07870370 0.07093254"
+      ],
+      "export_sha256": "94afe90fd44f067f0ca70a43fc9e4baa6d552b6353d3318cd42c6ad4ae9f8361"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair01_partial.jpg",
+      "group": "partial",
+      "pair": "pair01",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "3 0.39880952 0.50148810 0.20105820 0.05654762",
+        "1 0.51025132 0.49255952 0.08267196 0.06944444"
+      ],
+      "export_sha256": "d5f46ea59a4caeb51553304c61899fcbc34e41f56e9a969ccb12fcb1ee019033"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair02_clear.jpg",
+      "group": "clear",
+      "pair": "pair02",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "1 0.50892857 0.49578373 0.09193122 0.07093254",
+        "3 0.71263228 0.45808532 0.19378307 0.09672619"
+      ],
+      "export_sha256": "50badf6842283c16118e64ef1381d56bf49e82d35f953533235b29072bf7c041"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair02_heavy.jpg",
+      "group": "heavy",
+      "pair": "pair02",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "3 0.62301587 0.47371032 0.20105820 0.05753968",
+        "1 0.52447090 0.46502976 0.08994709 0.07093254"
+      ],
+      "export_sha256": "2ba4b82436cd51e0762972f3a2148df717e5501d9ad6e2a720675374eba20faf"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair02_partial.jpg",
+      "group": "partial",
+      "pair": "pair02",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "1 0.50264550 0.49429563 0.09259259 0.07093254",
+        "3 0.64748677 0.47222222 0.19973545 0.08531746"
+      ],
+      "export_sha256": "543a8679911fa4cb86c7f07ef60b7f54cde8c38c39c389a2c149c871045281bd"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair03_clear.jpg",
+      "group": "clear",
+      "pair": "pair03",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "1 0.53141534 0.47048611 0.09325397 0.07093254",
+        "3 0.58862434 0.63120040 0.08068783 0.15327381"
+      ],
+      "export_sha256": "e736e456a47077aa07e34f84ccf358458930492ff0a1cc8745bd84765b9c6698"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair03_heavy.jpg",
+      "group": "heavy",
+      "pair": "pair03",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "1 0.52744709 0.47222222 0.09325397 0.06944444",
+        "3 0.53968254 0.55406746 0.07539683 0.14484127"
+      ],
+      "export_sha256": "341a242848cdd1ce714103b0c803c81eaf95d31dd25a04eb204f09803b429f26"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair03_partial.jpg",
+      "group": "partial",
+      "pair": "pair03",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "1 0.50363757 0.48635913 0.09193122 0.06894841",
+        "3 0.53406085 0.57465278 0.10648148 0.14236111"
+      ],
+      "export_sha256": "e03582ad356bdd3f3173aa051972253c63b482773ffacdab3a42ecdfbe84c0d9"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair04_clear.jpg",
+      "group": "clear",
+      "pair": "pair04",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "1 0.50264550 0.46775794 0.09259259 0.07142857",
+        "3 0.26223545 0.48809524 0.20568783 0.05853175"
+      ],
+      "export_sha256": "d7d2bfd2bb56d849fd9bbe2f512cbec83c83a0c395d4e456af475d3e5bd13e6b"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair04_heavy.jpg",
+      "group": "heavy",
+      "pair": "pair04",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "3 0.39451058 0.52430556 0.20171958 0.06448413",
+        "1 0.51124339 0.52033730 0.08730159 0.07043651"
+      ],
+      "export_sha256": "37e68115e45c3ef76b922a789acb615fd380f352bb442480b94e5cac11890bfc"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair04_partial.jpg",
+      "group": "partial",
+      "pair": "pair04",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "3 0.37764550 0.53149802 0.20238095 0.05704365",
+        "1 0.50694444 0.52653770 0.08399471 0.07093254"
+      ],
+      "export_sha256": "5f1f43c69c661838e5f88cf31f76bf88da9197f64e7cfc6070c1af40b80d583f"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair05_clear.jpg",
+      "group": "clear",
+      "pair": "pair05",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "3 0.49074074 0.30877976 0.08333333 0.15426587",
+        "1 0.51818783 0.52852183 0.09325397 0.07093254"
+      ],
+      "export_sha256": "59c86c0a18bfb160dc51686ec9dbeb39994a1f9fe54e8f7332567de816c2c5fb"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair05_heavy.jpg",
+      "group": "heavy",
+      "pair": "pair05",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "3 0.54298942 0.43080357 0.09259259 0.15426587",
+        "1 0.56679894 0.49479167 0.09259259 0.06696429"
+      ],
+      "export_sha256": "98726e0459a689f489d67f1a1df80ac17f884e7b742e562555d12cebbfd0ce57"
+    },
+    {
+      "source": "data/raw/occlusion_control01/oc01_pair05_partial.jpg",
+      "group": "partial",
+      "pair": "pair05",
+      "original_exif_orientation": 6,
+      "width": 3024,
+      "height": 4032,
+      "lines": [
+        "3 0.50496032 0.44915675 0.08664021 0.15426587",
+        "1 0.52711640 0.53000992 0.09259259 0.06597222"
+      ],
+      "export_sha256": "f0056b0c82fa919c657e80cc56d8869578b44d499edd0b192970bf65afa7da20"
+    }
+  ]
+}
