@@ -1,0 +1,10 @@
+# Evaluation only. Never train on this configuration.
+path: /home/sherry/pill-review-pi/test-v001
+train: images/test
+val: images/test
+test: images/test
+names:
+  0: drug001
+  1: drug002
+  2: drug003
+  3: drug004
