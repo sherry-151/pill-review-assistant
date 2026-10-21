@@ -1,0 +1,12 @@
+{
+  "description": "Five staged count-check demonstrations, not a clinical test or an independent accuracy benchmark.",
+  "reference_source": "User confirmed the suggested physical arrangements; counts only, no bounding-box GT.",
+  "expected_counts": {"drug001": 1, "drug002": 1, "drug003": 1, "drug004": 1},
+  "cases": [
+    {"image": "cc01_match_001.jpg", "reference_counts": {"drug001": 1, "drug002": 1, "drug003": 1, "drug004": 1}},
+    {"image": "cc01_missing_001.jpg", "reference_counts": {"drug001": 1, "drug002": 0, "drug003": 1, "drug004": 1}},
+    {"image": "cc01_extra_001.jpg", "reference_counts": {"drug001": 2, "drug002": 1, "drug003": 1, "drug004": 1}},
+    {"image": "cc01_substitute_001.jpg", "reference_counts": {"drug001": 1, "drug002": 0, "drug003": 1, "drug004": 2}},
+    {"image": "cc01_empty_001.jpg", "reference_counts": {"drug001": 0, "drug002": 0, "drug003": 0, "drug004": 0}}
+  ]
+}
