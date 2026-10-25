@@ -90,7 +90,9 @@ def main():
                   settings=settings, images=[],
                   limitations='Five exploratory cases, one per class and one empty image. '
                   'No bbox ground truth, mAP, blind-test claim, or clinical safety inference. '
-                  'All cases retained without confidence tuning, training, cropping or enhancement.')
+                  'All cases retained without confidence tuning or training. '
+                  'No additional cropping or enhancement inside inference runner; '
+                  'inputs may be derived images, see run-specific preprocessing documentation.')
     for name, reference in cases.items():
         record = dict(image=name, reference_class=reference)
         try:
