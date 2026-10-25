@@ -9,14 +9,18 @@ from pathlib import Path
 from evaluate_camera_minimal import CLASSES, MODEL_SHA256, assess, sha, validate_cases
 
 
-def main():
+def build_parser():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--model', type=Path, required=True)
     parser.add_argument('--images', type=Path, required=True)
     parser.add_argument('--cases', type=Path, required=True)
     parser.add_argument('--preparation', type=Path, required=True)
     parser.add_argument('--output', type=Path, required=True)
-    args = parser.parse_args()
+    return parser
+
+
+def run(args, *, conf, purpose, entrypoint=None):
+    parser = build_parser()
     if args.output.exists():
         parser.error('Preserve previous diagnostic outputs; do not overwrite')
     if sha(args.model) != MODEL_SHA256:
@@ -41,12 +45,13 @@ def main():
     args.output.mkdir(parents=True, exist_ok=False)
     for folder in ('annotated-all', 'drug004-only-display', 'labels'):
         (args.output/folder).mkdir()
-    settings = dict(imgsz=640, conf=0.001, iou=0.7, device='cpu', max_det=300,
+    settings = dict(imgsz=640, conf=conf, iou=0.7, device='cpu', max_det=300,
                     rect=True, quantize=None, augment=False, agnostic_nms=False,
                     save=False, verbose=False)
     report = dict(created_utc=datetime.now(timezone.utc).isoformat(),
-                  purpose='DIAGNOSTIC_ONLY_NOT_DEMONSTRATION_PASS',
+                  purpose=purpose,
                   model_sha256=MODEL_SHA256, script_sha256=sha(Path(__file__)),
+                  entrypoint_sha256=sha(entrypoint or Path(__file__)),
                   helper_sha256=sha(Path(__file__).with_name('evaluate_camera_minimal.py')),
                   input_sha256=hashes, cases_sha256=cases_hash,
                   preparation_sha256=preparation_hash, roi_xyxy=preparation['roi_xyxy'],
@@ -56,7 +61,9 @@ def main():
                   images=[], limitations='Post-confidence/post-NMS detections, not unfiltered raw features. '
                   'All classes retained in JSON and annotated-all. drug004-only-display is an inspection '
                   'view of identical inference results, not filtered inference or proof of correctness. '
-                  'No training, extra crop, threshold search, clinical accuracy claim or Pi run.')
+                  'One explicitly selected development configuration per run. '
+                  'No training, extra crop, clinical accuracy claim or Pi run. '
+                  'These cases have been inspected during development; not independent validation.')
     for name, reference in cases.items():
         row = dict(image=name, reference_class=reference)
         try:
@@ -93,10 +100,16 @@ def main():
         raise RuntimeError('Input integrity changed during diagnosis')
     report['summary']=dict(images=len(cases),
                            processing_errors=sum('processing_error' in r for r in report['images']),
-                           max_det_hit_images=sum(r.get('hit_max_det',False) for r in report['images']))
+                           max_det_hit_images=sum(r.get('hit_max_det',False) for r in report['images']),
+                           exact_count_images=sum(r.get('counts_match_reference',False) for r in report['images']))
     (args.output/'result.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
     print('Saved:',args.output)
     return bool(report['summary']['processing_errors'])
+
+
+def main():
+    return run(build_parser().parse_args(), conf=0.001,
+               purpose='DIAGNOSTIC_ONLY_NOT_DEMONSTRATION_PASS')
 
 
 if __name__=='__main__':
