@@ -21,6 +21,19 @@ def sha(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def validate_cases(cases):
+    if not isinstance(cases, dict) or len(cases) != 5:
+        raise ValueError('Cases must map exactly five filenames to four classes and one null')
+    for name, reference in cases.items():
+        if not isinstance(name, str) or not name or Path(name).name != name:
+            raise ValueError('Case filenames must be nonempty basenames')
+        if reference is not None and reference not in CLASSES:
+            raise ValueError('Unknown reference class')
+    if list(cases.values()).count(None) != 1 or any(
+            list(cases.values()).count(c) != 1 for c in CLASSES):
+        raise ValueError('Exactly one case per class and one empty case are required')
+
+
 def assess(reference, predictions):
     counts = {c: sum(p['class_name'] == c for p in predictions) for c in CLASSES}
     expected = {c: int(c == reference) for c in CLASSES}
@@ -39,15 +52,22 @@ def main():
     parser.add_argument('--model', required=True, type=Path)
     parser.add_argument('--images', required=True, type=Path)
     parser.add_argument('--output', required=True, type=Path)
+    parser.add_argument('--cases', type=Path, help='Optional JSON filename-to-reference-class mapping')
     args = parser.parse_args()
+    try:
+        cases = json.loads(args.cases.read_text()) if args.cases else CASES
+        validate_cases(cases)
+    except (ValueError, OSError) as exc:
+        parser.error(str(exc))
     if args.output.exists():
         parser.error('Output exists; use a new run name. Never overwrite results.')
     if sha(args.model) != MODEL_SHA256:
         parser.error('Model does not match frozen baseline')
-    files = {p.name for p in args.images.iterdir() if p.is_file()}
-    if files != set(CASES):
-        parser.error(f'Expected exactly these five files: {list(CASES)}; found {sorted(files)}')
-    hashes = {name: sha(args.images / name) for name in CASES}
+    files = {p.name for p in args.images.iterdir() if p.is_file() and p.name != '.DS_Store'}
+    if files != set(cases):
+        parser.error(f'Expected exactly these five files: {list(cases)}; found {sorted(files)}')
+    hashes = {name: sha(args.images / name) for name in cases}
+    cases_hash = sha(args.cases) if args.cases else None
     from PIL import Image, ImageOps
     from ultralytics import YOLO
     model = YOLO(str(args.model))
@@ -64,13 +84,14 @@ def main():
                   execution_hostname=platform.node(),
                   model_path=str(args.model.resolve()), model_sha256=MODEL_SHA256,
                   script_sha256=sha(Path(__file__)), input_sha256=hashes,
+                  cases=cases, cases_sha256=cases_hash,
                   python=sys.version, platform=platform.platform(),
                   packages={p: version(p) for p in ('torch', 'torchvision', 'ultralytics', 'Pillow')},
                   settings=settings, images=[],
                   limitations='Five exploratory cases, one per class and one empty image. '
                   'No bbox ground truth, mAP, blind-test claim, or clinical safety inference. '
                   'All cases retained without confidence tuning, training, cropping or enhancement.')
-    for name, reference in CASES.items():
+    for name, reference in cases.items():
         record = dict(image=name, reference_class=reference)
         try:
             with Image.open(args.images / name) as raw:
@@ -100,7 +121,9 @@ def main():
         report['images'].append(record)
     if sha(args.model) != MODEL_SHA256 or any(sha(args.images / n) != h for n, h in hashes.items()):
         raise RuntimeError('Input/model integrity changed; results must not be used')
-    report['summary'] = dict(images=len(CASES),
+    if args.cases and sha(args.cases) != cases_hash:
+        raise RuntimeError('Cases file changed during run; results must not be used')
+    report['summary'] = dict(images=len(cases),
                             exact_count_images=sum(r['counts_match_reference'] for r in report['images']),
                             processing_errors=sum('processing_error' in r for r in report['images']))
     (args.output / 'result.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
