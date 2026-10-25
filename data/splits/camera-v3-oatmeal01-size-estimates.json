@@ -1,0 +1,11 @@
+{
+  "purpose": "Approximate image-scale measurement only, not training labels or localization ground truth",
+  "method": "Assistant visually estimated the axis-aligned pill extent on the full-frame image shown at 2048x1152, then multiplied coordinates by 2.25 to refer to the 4608x2592 original. Excludes cast shadow as far as visually discernible. Bounds are approximate, not pixel-accurate masks.",
+  "source_dir": "data/raw/camera-v3-燕麥背景",
+  "images": [
+    {"image": "v3-drug001燕麥背景.jpg", "class_name": "drug001", "size": [4608, 2592], "approx_bbox_xyxy": [2194, 1109, 2421, 1346]},
+    {"image": "v3-drug002燕麥背景.jpg", "class_name": "drug002", "size": [4608, 2592], "approx_bbox_xyxy": [2147, 1130, 2306, 1292]},
+    {"image": "v3-drug003燕麥背景.jpg", "class_name": "drug003", "size": [4608, 2592], "approx_bbox_xyxy": [2153, 950, 2351, 1364]},
+    {"image": "v3-drug004燕麥背景.jpg", "class_name": "drug004", "size": [4608, 2592], "approx_bbox_xyxy": [2000, 900, 2144, 1253]}
+  ]
+}
