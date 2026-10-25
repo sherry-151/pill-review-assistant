@@ -19,16 +19,17 @@ def build_parser():
     return parser
 
 
-def run(args, *, conf, purpose, entrypoint=None):
+def run(args, *, conf, purpose, entrypoint=None, case_validator=validate_cases,
+        limitations=None):
     parser = build_parser()
     if args.output.exists():
         parser.error('Preserve previous diagnostic outputs; do not overwrite')
     if sha(args.model) != MODEL_SHA256:
         parser.error('Frozen model hash mismatch')
     cases = json.loads(args.cases.read_text())
-    validate_cases(cases)
+    case_validator(cases)
     if {p.name for p in args.images.iterdir() if p.is_file() and p.name != '.DS_Store'} != set(cases):
-        parser.error('Expected exactly the five manifest images')
+        parser.error('Expected exactly the manifest images')
     hashes = {n: sha(args.images/n) for n in cases}
     preparation_hash = sha(args.preparation)
     cases_hash = sha(args.cases)
@@ -58,7 +59,7 @@ def run(args, *, conf, purpose, entrypoint=None):
                   settings=settings, python=sys.version, platform=platform.platform(),
                   execution_hostname=platform.node(),
                   packages={p:version(p) for p in ('torch','torchvision','ultralytics','Pillow')},
-                  images=[], limitations='Post-confidence/post-NMS detections, not unfiltered raw features. '
+                  images=[], limitations=limitations or 'Post-confidence/post-NMS detections, not unfiltered raw features. '
                   'All classes retained in JSON and annotated-all. drug004-only-display is an inspection '
                   'view of identical inference results, not filtered inference or proof of correctness. '
                   'One explicitly selected development configuration per run. '

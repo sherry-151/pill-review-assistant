@@ -1,4 +1,4 @@
-"""Make one prespecified, lossless central crop for all five research cases."""
+"""Make one prespecified, lossless central crop for every manifest case."""
 import argparse
 import hashlib
 import json
@@ -14,17 +14,15 @@ def sha(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def main():
+def run(args, *, case_validator=validate_cases):
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--images', type=Path, required=True)
-    parser.add_argument('--cases', type=Path, required=True)
-    parser.add_argument('--output', type=Path, required=True)
-    parser.add_argument('--record', type=Path, required=True)
-    args = parser.parse_args()
     if args.output.exists() or args.record.exists():
         parser.error('Output/record exists. Do not overwrite; choose a new version.')
     cases = json.loads(args.cases.read_text())
-    validate_cases(cases)
+    case_validator(cases)
+    files = {p.name for p in args.images.iterdir() if p.is_file() and p.name != '.DS_Store'}
+    if files != set(cases):
+        parser.error('Source directory does not match the full case manifest')
     inputs = {name: sha(args.images/name) for name in cases}
     # Validate all sources before writing any crops.
     for name in cases:
@@ -54,8 +52,17 @@ def main():
         raise RuntimeError('Original image changed during preparation')
     args.record.parent.mkdir(parents=True, exist_ok=True)
     args.record.write_text(json.dumps(record, ensure_ascii=False, indent=2)+'\n')
-    print('All five originals unchanged; derived PNG pixels match the fixed source ROI.')
+    print(f'All {len(cases)} originals unchanged; derived PNG pixels match the fixed source ROI.')
     print('Saved:', args.output, args.record)
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--images', type=Path, required=True)
+    parser.add_argument('--cases', type=Path, required=True)
+    parser.add_argument('--output', type=Path, required=True)
+    parser.add_argument('--record', type=Path, required=True)
+    run(parser.parse_args())
 
 
 if __name__ == '__main__':
